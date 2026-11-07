@@ -6,28 +6,33 @@ The goal is to give a front office a data-driven way to answer *"Will this pitch
 
 ## Approach
 
-1. **Data.** Pull pitch-level Statcast data (regular seasons 2022-2026) with `pybaseball`.
-2. **Pitch archetypes.** Group pitches by type, arm slot, velocity tier, and induced vertical break tier (e.g. `Four-seam | higher slot | faster | high-IVB`). Grouping by archetype avoids the noise of individual pitcher home/road splits.
-3. **Park effects by archetype.** On balls in play, compare actual wOBA to expected wOBA (built from exit velocity and launch angle, which doesn't know the park). The gap, relative to the league average for that same archetype and shrunk toward zero when samples are small, is the park effect. Home and visiting pitchers both throw in every park, so team quality mostly cancels out.
-4. **Pitcher fit scores.** Weight each pitcher's mix of archetypes (by balls in play) by each park's effects. The fit score is how much better a park suits him than the average park does.
-5. **Backtest.** Check whether the fit scores predict what happened to pitchers who changed parks, against a plain park-factor baseline.
+1. **Data.** Pitch-level Statcast data for the regular seasons 2022-2026 (about 3.5 million pitches), pulled with `pybaseball`.
+2. **Pitch archetypes.** Each pitch is grouped by pitch type, arm slot (Statcast arm angle, 2 tiers), and induced vertical break (2 tiers), giving 32 archetypes. Velocity stays in the data and on the slides but does not split the groups, because park effects act on batted balls.
+3. **Park effects on contact.** On balls in play, compare actual wOBA to expected wOBA (built from exit velocity and launch angle, which does not know the park). The gap, relative to the league average for the same kind of contact and shrunk toward zero when samples are small, is the park effect. It is measured by **batter side and batted-ball type** (ground ball, line drive, fly ball, popup). Home and visiting pitchers both throw in every park, so team quality mostly cancels out.
+4. **Archetype and pitcher fit.** Each archetype or pitcher produces a mix of those batted balls. Weighting each park's effects by that mix gives the expected park effect. The fit score is how much better a park suits him than the average park does.
+5. **Backtest.** Check whether fit scores predict what happened to pitchers who changed parks, against a plain park-factor baseline.
 6. **Slides.** One slide per park plus summary slides on the biggest mismatches and how a team would use this.
 
 ## Status
 
-Target weeks are counted from the start of the project. Fill in dates as you go.
-
-- [ ] **Setup:** repo, environment, folder structure (week 1)
-- [ ] **01 Data pull:** Statcast downloaded and checked (weeks 1-2)
-- [ ] **02 Archetypes:** pitch groups defined and charted (weeks 2-3)
-- [ ] **03 Park effects:** effects by park, archetype, and handedness; split-half stability check (weeks 3-5)
-- [ ] **04 Fit scores:** pitcher fit scores and free-agent targets (weeks 5-6)
-- [ ] **Backtest:** pitchers who changed parks (weeks 6-7)
-- [ ] **Slides:** 30 park slides, summary, limitations, usage (weeks 7-9)
+- [x] **Setup:** repo, environment, folder structure
+- [x] **01 Data pull:** 5 seasons downloaded and checked
+- [x] **02 Archetypes:** 32 archetypes, cut points saved
+- [ ] **03 Park effects:** effects by batter side and batted-ball type, archetype fit scores, charts
+- [ ] **04 Fit scores:** pitcher fit scores and free-agent targets
+- [ ] **Backtest:** pitchers who changed parks
+- [ ] **Slides:** 30 park slides, summary, limitations, usage
 
 ## Key findings so far
 
-_Add your best chart and 2-3 bullet findings here as results come in._
+**Park effects are real, but they do not vary by pitch archetype the way I first assumed.** I split the seasons into an early half and a late half and checked whether park effects from one half predict the other:
+
+| Level of detail | Cells | Correlation of the park-specific part |
+|---|---|---|
+| Park x pitch archetype x pitcher hand | 782 | 0.05 |
+| Park x batter side x batted-ball type | 240 | 0.50 |
+
+Park-wide effects repeat across halves (correlation 0.59 across parks). Effects measured for each pitch archetype directly did not (0.05, indistinguishable from noise), so the project now measures park effects on batted-ball types and scores pitches and pitchers by the batted balls they produce.
 
 ## Repo layout
 
@@ -49,12 +54,11 @@ python -m venv .venv
 pip install -r requirements.txt
 ```
 
-In VS Code, select the `.venv` interpreter/kernel, then run the notebooks in order starting with `notebooks/01_pull_data.ipynb`. The first data pull takes a while; each season is cached in `data/raw/`.
+In VS Code, select the `.venv` interpreter/kernel, then run the notebooks in order starting with `notebooks/01_pull_data.ipynb`. Each season is cached in `data/raw/` after the first download.
 
 ## Limitations
 
 - Weather, defense, umpires, and lineup quality are not modeled; some leak into the actual-minus-expected gap.
-- Archetypes capture shape, velocity, and slot, not command, deception, or sequencing.
-- Parks that changed or were temporarily replaced (Athletics, Rays) and neutral-site games need care; see `src/data.py`.
-- Small samples are shrunk toward zero, but thin archetype/park cells should still be read with caution.
+- Park effects are measured by batter side and batted-ball type, not by spray direction or individual pitch type.
+- Sutter Health Park has two seasons of data and George M. Steinbrenner Field one, so those parks are low-confidence.
 - Fit scores are estimates from past data, not predictions of exact performance.

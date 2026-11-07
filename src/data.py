@@ -123,6 +123,7 @@ def add_park(df: pd.DataFrame) -> pd.DataFrame:
     for (team, year), name in PARK_OVERRIDES.items():
         mask = (df["home_team"] == team) & (df["game_year"] == year)
         df.loc[mask, "park"] = name
+    # Statcast now labels the Athletics "ATH" for every season, including the Oakland years.
     athletics = df["home_team"].isin(["OAK", "ATH"])
     df.loc[athletics & (df["game_year"] <= 2024), "park"] = "Oakland Coliseum"
     df.loc[athletics & (df["game_year"] >= 2025), "park"] = "Sutter Health Park"

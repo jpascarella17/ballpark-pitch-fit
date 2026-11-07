@@ -1,0 +1,1857 @@
+archetype,p_throws,park,coverage,edge_pts,fit_pts
+Changeup | higher slot | high-IVB,L,American Family Field,1.0,-2.6374466395136857,-1.9524057879729722
+Changeup | higher slot | high-IVB,L,Angel Stadium,1.0,-1.637722100093405,-0.9526812485526914
+Changeup | higher slot | high-IVB,L,Busch Stadium,1.0,11.683756736385602,12.368797587926316
+Changeup | higher slot | high-IVB,L,Chase Field,1.0,-0.17534924763114274,0.5096916039095709
+Changeup | higher slot | high-IVB,L,Citi Field,1.0,14.861960149149818,15.547001000690532
+Changeup | higher slot | high-IVB,L,Citizens Bank Park,1.0,-14.126192619778443,-13.441151768237729
+Changeup | higher slot | high-IVB,L,Comerica Park,1.0,4.854666193941857,5.5397070454825705
+Changeup | higher slot | high-IVB,L,Coors Field,1.0,-30.654586822000876,-29.969545970460164
+Changeup | higher slot | high-IVB,L,Daikin Park,1.0,-8.31185636068671,-7.626815509145996
+Changeup | higher slot | high-IVB,L,Dodger Stadium,1.0,-7.049572666655993,-6.36453181511528
+Changeup | higher slot | high-IVB,L,Fenway Park,1.0,-16.686446440168748,-16.001405588628035
+Changeup | higher slot | high-IVB,L,George M. Steinbrenner Field,1.0,-13.000888173754396,-12.315847322213681
+Changeup | higher slot | high-IVB,L,Globe Life Field,1.0,1.443052265417558,2.1280931169582713
+Changeup | higher slot | high-IVB,L,Great American Ball Park,1.0,-12.831667229463914,-12.1466263779232
+Changeup | higher slot | high-IVB,L,Kauffman Stadium,1.0,11.408758143440563,12.093798994981277
+Changeup | higher slot | high-IVB,L,Nationals Park,1.0,0.7907840524626589,1.4758249040033724
+Changeup | higher slot | high-IVB,L,Oakland Coliseum,1.0,1.6679994532171145,2.353040304757828
+Changeup | higher slot | high-IVB,L,Oracle Park,1.0,1.5302900288607295,2.215330880401443
+Changeup | higher slot | high-IVB,L,Oriole Park at Camden Yards,1.0,10.752824165481474,11.437865017022188
+Changeup | higher slot | high-IVB,L,PNC Park,1.0,10.442385864812344,11.127426716353058
+Changeup | higher slot | high-IVB,L,Petco Park,1.0,10.649411391554843,11.334452243095557
+Changeup | higher slot | high-IVB,L,Progressive Field,1.0,5.602865309404298,6.2879061609450115
+Changeup | higher slot | high-IVB,L,Rate Field,1.0,3.7406436830153433,4.425684534556057
+Changeup | higher slot | high-IVB,L,Rogers Centre,1.0,0.8443722292575798,1.5294130807982933
+Changeup | higher slot | high-IVB,L,Sutter Health Park,1.0,-38.12376019179342,-37.43871934025271
+Changeup | higher slot | high-IVB,L,T-Mobile Park,1.0,11.477256162470661,12.162297014011376
+Changeup | higher slot | high-IVB,L,Target Field,1.0,-6.430586253770697,-5.7455454022299834
+Changeup | higher slot | high-IVB,L,Tropicana Field,1.0,-6.520075809857817,-5.835034958317103
+Changeup | higher slot | high-IVB,L,Truist Park,1.0,5.202323660680131,5.887364512220844
+Changeup | higher slot | high-IVB,L,Wrigley Field,1.0,8.559571497915796,9.24461234945651
+Changeup | higher slot | high-IVB,L,Yankee Stadium,1.0,13.917353378181986,14.6023942297227
+Changeup | higher slot | high-IVB,L,loanDepot park,1.0,6.834568940216058,7.519609791756771
+Changeup | higher slot | high-IVB,R,American Family Field,1.0,-2.655991578857929,-2.119010503725382
+Changeup | higher slot | high-IVB,R,Angel Stadium,1.0,-1.568359118399795,-1.0313780432672481
+Changeup | higher slot | high-IVB,R,Busch Stadium,1.0,18.31181871044545,18.848799785578
+Changeup | higher slot | high-IVB,R,Chase Field,1.0,1.0306039191191956,1.5675849942517424
+Changeup | higher slot | high-IVB,R,Citi Field,1.0,3.754804954760592,4.291786029893139
+Changeup | higher slot | high-IVB,R,Citizens Bank Park,1.0,-14.512895929211709,-13.975914854079162
+Changeup | higher slot | high-IVB,R,Comerica Park,1.0,3.4170459080142948,3.9540269831468415
+Changeup | higher slot | high-IVB,R,Coors Field,1.0,-29.010363224207524,-28.473382149074975
+Changeup | higher slot | high-IVB,R,Daikin Park,1.0,-1.8661762821251267,-1.3291952069925799
+Changeup | higher slot | high-IVB,R,Dodger Stadium,1.0,3.51040472482023,4.047385799952777
+Changeup | higher slot | high-IVB,R,Fenway Park,1.0,-12.475681402516006,-11.93870032738346
+Changeup | higher slot | high-IVB,R,George M. Steinbrenner Field,1.0,-4.826789164019995,-4.2898080888874475
+Changeup | higher slot | high-IVB,R,Globe Life Field,1.0,10.790200868391512,11.327181943524058
+Changeup | higher slot | high-IVB,R,Great American Ball Park,1.0,-22.23837775851584,-21.70139668338329
+Changeup | higher slot | high-IVB,R,Kauffman Stadium,1.0,6.2125628749094375,6.749543950041985
+Changeup | higher slot | high-IVB,R,Nationals Park,1.0,3.020992551498867,3.557973626631414
+Changeup | higher slot | high-IVB,R,Oakland Coliseum,1.0,5.585666852192774,6.122647927325321
+Changeup | higher slot | high-IVB,R,Oracle Park,1.0,5.114893638284249,5.651874713416796
+Changeup | higher slot | high-IVB,R,Oriole Park at Camden Yards,1.0,1.3698171632900595,1.9067982384226063
+Changeup | higher slot | high-IVB,R,PNC Park,1.0,4.4747692782843655,5.011750353416913
+Changeup | higher slot | high-IVB,R,Petco Park,1.0,15.824880404000579,16.361861479133125
+Changeup | higher slot | high-IVB,R,Progressive Field,1.0,2.3376238179018536,2.8746048930344004
+Changeup | higher slot | high-IVB,R,Rate Field,1.0,1.629349313614441,2.166330388746988
+Changeup | higher slot | high-IVB,R,Rogers Centre,1.0,-0.8109344356098287,-0.2739533604772818
+Changeup | higher slot | high-IVB,R,Sutter Health Park,1.0,-30.36662604814089,-29.829644973008342
+Changeup | higher slot | high-IVB,R,T-Mobile Park,1.0,11.893328008031222,12.430309083163769
+Changeup | higher slot | high-IVB,R,Target Field,1.0,0.14887874107987187,0.6858598162124188
+Changeup | higher slot | high-IVB,R,Tropicana Field,1.0,-1.7004333066142816,-1.1634522314817346
+Changeup | higher slot | high-IVB,R,Truist Park,1.0,0.8174069873363415,1.3543880624688884
+Changeup | higher slot | high-IVB,R,Wrigley Field,1.0,-0.6921838632609224,-0.1552027881283755
+Changeup | higher slot | high-IVB,R,Yankee Stadium,1.0,7.1763281408576525,7.7133092159902
+Changeup | higher slot | high-IVB,R,loanDepot park,1.0,-0.8799591495946496,-0.3429780744621027
+Changeup | higher slot | low-IVB,L,American Family Field,1.0,-1.4576228448797444,-0.8315038149263857
+Changeup | higher slot | low-IVB,L,Angel Stadium,1.0,-2.541297584909568,-1.9151785549562095
+Changeup | higher slot | low-IVB,L,Busch Stadium,1.0,8.392949559826562,9.01906858977992
+Changeup | higher slot | low-IVB,L,Chase Field,1.0,-2.247771916941619,-1.6216528869882603
+Changeup | higher slot | low-IVB,L,Citi Field,1.0,13.79763258722938,14.423751617182738
+Changeup | higher slot | low-IVB,L,Citizens Bank Park,1.0,-10.355113994608274,-9.728994964654916
+Changeup | higher slot | low-IVB,L,Comerica Park,1.0,2.861709031029516,3.4878280609828747
+Changeup | higher slot | low-IVB,L,Coors Field,1.0,-25.23467598985439,-24.608556959901033
+Changeup | higher slot | low-IVB,L,Daikin Park,1.0,-3.580435535844505,-2.9543165058911462
+Changeup | higher slot | low-IVB,L,Dodger Stadium,1.0,-2.9157780548078924,-2.289659024854534
+Changeup | higher slot | low-IVB,L,Fenway Park,1.0,-14.135305520567218,-13.50918649061386
+Changeup | higher slot | low-IVB,L,George M. Steinbrenner Field,1.0,-10.004730401607873,-9.378611371654515
+Changeup | higher slot | low-IVB,L,Globe Life Field,1.0,0.18789373142565288,0.8140127613790116
+Changeup | higher slot | low-IVB,L,Great American Ball Park,1.0,-10.55281443731222,-9.926695407358862
+Changeup | higher slot | low-IVB,L,Kauffman Stadium,1.0,8.417276905411754,9.043395935365112
+Changeup | higher slot | low-IVB,L,Nationals Park,1.0,0.6566516078295412,1.2827706377829
+Changeup | higher slot | low-IVB,L,Oakland Coliseum,1.0,-1.688603600904558,-1.0624845709511992
+Changeup | higher slot | low-IVB,L,Oracle Park,1.0,2.9652481646794357,3.5913671946327943
+Changeup | higher slot | low-IVB,L,Oriole Park at Camden Yards,1.0,7.098224118255247,7.724343148208606
+Changeup | higher slot | low-IVB,L,PNC Park,1.0,8.266569764339458,8.892688794292816
+Changeup | higher slot | low-IVB,L,Petco Park,1.0,8.116132589284689,8.742251619238047
+Changeup | higher slot | low-IVB,L,Progressive Field,1.0,4.746410773172895,5.372529803126254
+Changeup | higher slot | low-IVB,L,Rate Field,1.0,0.6740238207932272,1.3001428507465858
+Changeup | higher slot | low-IVB,L,Rogers Centre,1.0,0.8140887368781711,1.4402077668315298
+Changeup | higher slot | low-IVB,L,Sutter Health Park,1.0,-32.60862678283782,-31.98250775288446
+Changeup | higher slot | low-IVB,L,T-Mobile Park,1.0,10.01899290897498,10.645111938928338
+Changeup | higher slot | low-IVB,L,Target Field,1.0,-8.892312015042151,-8.266192985088793
+Changeup | higher slot | low-IVB,L,Tropicana Field,1.0,-6.6770914637521965,-6.0509724337988375
+Changeup | higher slot | low-IVB,L,Truist Park,1.0,4.9249422559264495,5.5510612858798085
+Changeup | higher slot | low-IVB,L,Wrigley Field,1.0,12.110871450007926,12.736990479961284
+Changeup | higher slot | low-IVB,L,Yankee Stadium,1.0,14.824110072937719,15.450229102891077
+Changeup | higher slot | low-IVB,L,loanDepot park,1.0,3.9826431073599484,4.608762137313307
+Changeup | higher slot | low-IVB,R,American Family Field,1.0,-1.729318469429817,-1.2374818970734778
+Changeup | higher slot | low-IVB,R,Angel Stadium,1.0,-2.0666493398390435,-1.5748127674827044
+Changeup | higher slot | low-IVB,R,Busch Stadium,1.0,13.869323114553989,14.361159686910328
+Changeup | higher slot | low-IVB,R,Chase Field,1.0,-1.5215233982043883,-1.0296868258480492
+Changeup | higher slot | low-IVB,R,Citi Field,1.0,2.1938060106987383,2.685642583055077
+Changeup | higher slot | low-IVB,R,Citizens Bank Park,1.0,-12.197692100967616,-11.705855528611277
+Changeup | higher slot | low-IVB,R,Comerica Park,1.0,1.1157040149875217,1.6075405873438608
+Changeup | higher slot | low-IVB,R,Coors Field,1.0,-24.468863560964312,-23.977026988607975
+Changeup | higher slot | low-IVB,R,Daikin Park,1.0,-0.7375655727358438,-0.24572900037950468
+Changeup | higher slot | low-IVB,R,Dodger Stadium,1.0,5.355493879769347,5.847330452125687
+Changeup | higher slot | low-IVB,R,Fenway Park,1.0,-8.720933378112413,-8.229096805756074
+Changeup | higher slot | low-IVB,R,George M. Steinbrenner Field,1.0,-4.8067191276147945,-4.314882555258455
+Changeup | higher slot | low-IVB,R,Globe Life Field,1.0,10.398766965551482,10.890603537907822
+Changeup | higher slot | low-IVB,R,Great American Ball Park,1.0,-20.39034082453598,-19.89850425217964
+Changeup | higher slot | low-IVB,R,Kauffman Stadium,1.0,2.331358983420563,2.823195555776902
+Changeup | higher slot | low-IVB,R,Nationals Park,1.0,1.0165514501731687,1.5083880225295079
+Changeup | higher slot | low-IVB,R,Oakland Coliseum,1.0,3.67049556241008,4.1623321347664195
+Changeup | higher slot | low-IVB,R,Oracle Park,1.0,6.4773442701323845,6.969180842488724
+Changeup | higher slot | low-IVB,R,Oriole Park at Camden Yards,1.0,1.5683241583262832,2.060160730682622
+Changeup | higher slot | low-IVB,R,PNC Park,1.0,3.8371341458639994,4.328970718220338
+Changeup | higher slot | low-IVB,R,Petco Park,1.0,13.350470610931932,13.842307183288272
+Changeup | higher slot | low-IVB,R,Progressive Field,1.0,3.3813973869791307,3.8732339593354697
+Changeup | higher slot | low-IVB,R,Rate Field,1.0,0.11492240806615431,0.6067589804224934
+Changeup | higher slot | low-IVB,R,Rogers Centre,1.0,0.5131166365609301,1.0049532089172692
+Changeup | higher slot | low-IVB,R,Sutter Health Park,1.0,-24.982743529382418,-24.49090695702608
+Changeup | higher slot | low-IVB,R,T-Mobile Park,1.0,10.522088060385308,11.013924632741647
+Changeup | higher slot | low-IVB,R,Target Field,1.0,-1.1107901837869403,-0.6189536114306011
+Changeup | higher slot | low-IVB,R,Tropicana Field,1.0,-3.800346346544039,-3.3085097741877
+Changeup | higher slot | low-IVB,R,Truist Park,1.0,2.768130841996079,3.2599674143524178
+Changeup | higher slot | low-IVB,R,Wrigley Field,1.0,2.0939185029496823,2.5857550753060212
+Changeup | higher slot | low-IVB,R,Yankee Stadium,1.0,9.915691007304273,10.407527579660613
+Changeup | higher slot | low-IVB,R,loanDepot park,1.0,-3.6993224943462946,-3.2074859219899556
+Changeup | lower slot | high-IVB,L,American Family Field,1.0,-2.975106274582044,-2.2728475801452093
+Changeup | lower slot | high-IVB,L,Angel Stadium,1.0,-1.3516381951963967,-0.6493795007595621
+Changeup | lower slot | high-IVB,L,Busch Stadium,1.0,12.194864711639498,12.897123406076332
+Changeup | lower slot | high-IVB,L,Chase Field,1.0,0.1477078621362661,0.8499665565731007
+Changeup | lower slot | high-IVB,L,Citi Field,1.0,15.318287647161759,16.020546341598592
+Changeup | lower slot | high-IVB,L,Citizens Bank Park,1.0,-14.97134976680882,-14.269091072371985
+Changeup | lower slot | high-IVB,L,Comerica Park,1.0,5.2712999043202,5.973558598757035
+Changeup | lower slot | high-IVB,L,Coors Field,1.0,-32.0071685995378,-31.304909905100963
+Changeup | lower slot | high-IVB,L,Daikin Park,1.0,-9.530707690026771,-8.828448995589937
+Changeup | lower slot | high-IVB,L,Dodger Stadium,1.0,-8.195011437590106,-7.492752743153271
+Changeup | lower slot | high-IVB,L,Fenway Park,1.0,-17.222304570891577,-16.52004587645474
+Changeup | lower slot | high-IVB,L,George M. Steinbrenner Field,1.0,-13.979909891695982,-13.277651197259148
+Changeup | lower slot | high-IVB,L,Globe Life Field,1.0,1.5665105064529303,2.268769200889765
+Changeup | lower slot | high-IVB,L,Great American Ball Park,1.0,-13.256592591079603,-12.554333896642769
+Changeup | lower slot | high-IVB,L,Kauffman Stadium,1.0,12.106875594995104,12.809134289431938
+Changeup | lower slot | high-IVB,L,Nationals Park,1.0,0.6868965179522291,1.3891552123890638
+Changeup | lower slot | high-IVB,L,Oakland Coliseum,1.0,2.274451805323237,2.9767104997600717
+Changeup | lower slot | high-IVB,L,Oracle Park,1.0,1.2546106244469548,1.9568693188837893
+Changeup | lower slot | high-IVB,L,Oriole Park at Camden Yards,1.0,12.010048783576961,12.712307478013795
+Changeup | lower slot | high-IVB,L,PNC Park,1.0,11.07404702828386,11.776305722720695
+Changeup | lower slot | high-IVB,L,Petco Park,1.0,11.086072732187889,11.788331426624723
+Changeup | lower slot | high-IVB,L,Progressive Field,1.0,5.926196072891685,6.6284547673285195
+Changeup | lower slot | high-IVB,L,Rate Field,1.0,4.478659097279117,5.1809177917159515
+Changeup | lower slot | high-IVB,L,Rogers Centre,1.0,0.958818223573522,1.6610769180103566
+Changeup | lower slot | high-IVB,L,Sutter Health Park,1.0,-39.50802165986549,-38.805762965428656
+Changeup | lower slot | high-IVB,L,T-Mobile Park,1.0,11.88854017361018,12.590798868047013
+Changeup | lower slot | high-IVB,L,Target Field,1.0,-6.099118668753067,-5.396859974316232
+Changeup | lower slot | high-IVB,L,Tropicana Field,1.0,-6.724608877704291,-6.022350183267457
+Changeup | lower slot | high-IVB,L,Truist Park,1.0,5.455927378087159,6.158186072523994
+Changeup | lower slot | high-IVB,L,Wrigley Field,1.0,8.096170196937825,8.798428891374659
+Changeup | lower slot | high-IVB,L,Yankee Stadium,1.0,14.044237615867093,14.746496310303927
+Changeup | lower slot | high-IVB,L,loanDepot park,1.0,7.509037525029769,8.211296219466604
+Changeup | lower slot | high-IVB,R,American Family Field,1.0,-2.811841001697531,-2.28788749543313
+Changeup | lower slot | high-IVB,R,Angel Stadium,1.0,-1.3725764236325884,-0.8486229173681876
+Changeup | lower slot | high-IVB,R,Busch Stadium,1.0,19.51287489062806,20.03682839689246
+Changeup | lower slot | high-IVB,R,Chase Field,1.0,1.3675982166876235,1.8915517229520242
+Changeup | lower slot | high-IVB,R,Citi Field,1.0,3.223651872377875,3.747605378642276
+Changeup | lower slot | high-IVB,R,Citizens Bank Park,1.0,-14.60938949681779,-14.085435990553389
+Changeup | lower slot | high-IVB,R,Comerica Park,1.0,3.5160874526605497,4.04004095892495
+Changeup | lower slot | high-IVB,R,Coors Field,1.0,-29.468837246444863,-28.94488374018046
+Changeup | lower slot | high-IVB,R,Daikin Park,1.0,-0.8994615066510935,-0.37550800038669274
+Changeup | lower slot | high-IVB,R,Dodger Stadium,1.0,4.422355050633727,4.946308556898128
+Changeup | lower slot | high-IVB,R,Fenway Park,1.0,-12.530264139550148,-12.006310633285747
+Changeup | lower slot | high-IVB,R,George M. Steinbrenner Field,1.0,-3.7496844667509617,-3.225730960486561
+Changeup | lower slot | high-IVB,R,Globe Life Field,1.0,11.39397044224392,11.91792394850832
+Changeup | lower slot | high-IVB,R,Great American Ball Park,1.0,-23.092696788060202,-22.5687432817958
+Changeup | lower slot | high-IVB,R,Kauffman Stadium,1.0,6.289910012887047,6.813863519151448
+Changeup | lower slot | high-IVB,R,Nationals Park,1.0,3.626566238303125,4.150519744567526
+Changeup | lower slot | high-IVB,R,Oakland Coliseum,1.0,5.695847676503968,6.219801182768369
+Changeup | lower slot | high-IVB,R,Oracle Park,1.0,5.350606020073193,5.874559526337594
+Changeup | lower slot | high-IVB,R,Oriole Park at Camden Yards,1.0,0.1283457889320903,0.652299295196491
+Changeup | lower slot | high-IVB,R,PNC Park,1.0,3.884519459401117,4.408472965665518
+Changeup | lower slot | high-IVB,R,Petco Park,1.0,16.43767247248106,16.961625978745463
+Changeup | lower slot | high-IVB,R,Progressive Field,1.0,1.7804198393843669,2.3043733456487674
+Changeup | lower slot | high-IVB,R,Rate Field,1.0,1.2808959342902735,1.8048494405546742
+Changeup | lower slot | high-IVB,R,Rogers Centre,1.0,-1.2395146516299584,-0.7155611453655577
+Changeup | lower slot | high-IVB,R,Sutter Health Park,1.0,-30.241620797562458,-29.717667291298056
+Changeup | lower slot | high-IVB,R,T-Mobile Park,1.0,12.127000887417202,12.650954393681602
+Changeup | lower slot | high-IVB,R,Target Field,1.0,0.5699314266437114,1.0938849329081122
+Changeup | lower slot | high-IVB,R,Tropicana Field,1.0,-0.8114123027811766,-0.28745879651677586
+Changeup | lower slot | high-IVB,R,Truist Park,1.0,0.00905887278419235,0.5330123790485931
+Changeup | lower slot | high-IVB,R,Wrigley Field,1.0,-1.390790865609739,-0.8668373593453382
+Changeup | lower slot | high-IVB,R,Yankee Stadium,1.0,6.204240191402963,6.728193697667364
+Changeup | lower slot | high-IVB,R,loanDepot park,1.0,-1.3699752590083798,-0.8460217527439791
+Changeup | lower slot | low-IVB,L,American Family Field,1.0,-1.6283528483364835,-0.9936844420277737
+Changeup | lower slot | low-IVB,L,Angel Stadium,1.0,-2.4437210312216706,-1.8090526249129608
+Changeup | lower slot | low-IVB,L,Busch Stadium,1.0,8.819044237716755,9.453712644025465
+Changeup | lower slot | low-IVB,L,Chase Field,1.0,-1.9620133632296068,-1.327344956920897
+Changeup | lower slot | low-IVB,L,Citi Field,1.0,13.87262773889571,14.507296145204421
+Changeup | lower slot | low-IVB,L,Citizens Bank Park,1.0,-10.929595691395281,-10.294927285086573
+Changeup | lower slot | low-IVB,L,Comerica Park,1.0,3.097216115950541,3.731884522259251
+Changeup | lower slot | low-IVB,L,Coors Field,1.0,-25.949492420477537,-25.314824014168828
+Changeup | lower slot | low-IVB,L,Daikin Park,1.0,-4.3752233806732335,-3.7405549743645237
+Changeup | lower slot | low-IVB,L,Dodger Stadium,1.0,-3.4593660409033475,-2.8246976345946377
+Changeup | lower slot | low-IVB,L,Fenway Park,1.0,-14.352846099259182,-13.718177692950473
+Changeup | lower slot | low-IVB,L,George M. Steinbrenner Field,1.0,-10.522734397922116,-9.888065991613406
+Changeup | lower slot | low-IVB,L,Globe Life Field,1.0,0.48070263274280894,1.1153710390515188
+Changeup | lower slot | low-IVB,L,Great American Ball Park,1.0,-10.898828774847448,-10.26416036853874
+Changeup | lower slot | low-IVB,L,Kauffman Stadium,1.0,8.794225168301644,9.428893574610353
+Changeup | lower slot | low-IVB,L,Nationals Park,1.0,0.6096917063545718,1.2443601126632817
+Changeup | lower slot | low-IVB,L,Oakland Coliseum,1.0,-1.1716455410387485,-0.5369771347300387
+Changeup | lower slot | low-IVB,L,Oracle Park,1.0,2.823737010076683,3.458405416385393
+Changeup | lower slot | low-IVB,L,Oriole Park at Camden Yards,1.0,7.624595925509875,8.259264331818585
+Changeup | lower slot | low-IVB,L,PNC Park,1.0,8.558424318319288,9.193092724627999
+Changeup | lower slot | low-IVB,L,Petco Park,1.0,8.454376065988248,9.089044472296958
+Changeup | lower slot | low-IVB,L,Progressive Field,1.0,4.893142775155809,5.527811181464519
+Changeup | lower slot | low-IVB,L,Rate Field,1.0,1.1267500846393685,1.7614184909480783
+Changeup | lower slot | low-IVB,L,Rogers Centre,1.0,0.9110295061250127,1.5456979124337225
+Changeup | lower slot | low-IVB,L,Sutter Health Park,1.0,-33.25218537902655,-32.61751697271784
+Changeup | lower slot | low-IVB,L,T-Mobile Park,1.0,10.132180668352389,10.7668490746611
+Changeup | lower slot | low-IVB,L,Target Field,1.0,-8.56377584280659,-7.929107436497881
+Changeup | lower slot | low-IVB,L,Tropicana Field,1.0,-6.707135248742045,-6.072466842433335
+Changeup | lower slot | low-IVB,L,Truist Park,1.0,5.055903717147232,5.690572123455942
+Changeup | lower slot | low-IVB,L,Wrigley Field,1.0,11.61945542138779,12.2541238276965
+Changeup | lower slot | low-IVB,L,Yankee Stadium,1.0,14.77325011237694,15.407918518685651
+Changeup | lower slot | low-IVB,L,loanDepot park,1.0,4.261173852960457,4.895842259269167
+Changeup | lower slot | low-IVB,R,American Family Field,1.0,-1.7282211287189926,-1.246753224408325
+Changeup | lower slot | low-IVB,R,Angel Stadium,1.0,-2.0045371922102193,-1.5230692878995518
+Changeup | lower slot | low-IVB,R,Busch Stadium,1.0,14.095040496183628,14.576508400494296
+Changeup | lower slot | low-IVB,R,Chase Field,1.0,-1.609512925377489,-1.1280450210668214
+Changeup | lower slot | low-IVB,R,Citi Field,1.0,1.772736218301726,2.2542041226123937
+Changeup | lower slot | low-IVB,R,Citizens Bank Park,1.0,-12.018068277610825,-11.536600373300157
+Changeup | lower slot | low-IVB,R,Comerica Park,1.0,0.9715294404139382,1.4529973447246056
+Changeup | lower slot | low-IVB,R,Coors Field,1.0,-24.304552841345046,-23.82308493703438
+Changeup | lower slot | low-IVB,R,Daikin Park,1.0,-0.04942483304816135,0.4320430712625062
+Changeup | lower slot | low-IVB,R,Dodger Stadium,1.0,6.009132142832231,6.490600047142898
+Changeup | lower slot | low-IVB,R,Fenway Park,1.0,-8.510135712957073,-8.028667808646405
+Changeup | lower slot | low-IVB,R,George M. Steinbrenner Field,1.0,-4.216341252667472,-3.734873348356804
+Changeup | lower slot | low-IVB,R,Globe Life Field,1.0,10.650709579187858,11.132177483498525
+Changeup | lower slot | low-IVB,R,Great American Ball Park,1.0,-20.720403380763415,-20.238935476452745
+Changeup | lower slot | low-IVB,R,Kauffman Stadium,1.0,2.0004949755414336,2.481962879852101
+Changeup | lower slot | low-IVB,R,Nationals Park,1.0,1.1678746833062994,1.649342587616967
+Changeup | lower slot | low-IVB,R,Oakland Coliseum,1.0,3.5673153199724195,4.048783224283087
+Changeup | lower slot | low-IVB,R,Oracle Park,1.0,6.71973611431114,7.201204018621808
+Changeup | lower slot | low-IVB,R,Oriole Park at Camden Yards,1.0,0.9829830475536865,1.464450951864354
+Changeup | lower slot | low-IVB,R,PNC Park,1.0,3.485658796660628,3.9671267009712956
+Changeup | lower slot | low-IVB,R,Petco Park,1.0,13.466531643152857,13.947999547463525
+Changeup | lower slot | low-IVB,R,Progressive Field,1.0,3.1732777044744096,3.654745608785077
+Changeup | lower slot | low-IVB,R,Rate Field,1.0,-0.19226417328362544,0.2892037310270421
+Changeup | lower slot | low-IVB,R,Rogers Centre,1.0,0.34877308890075165,0.8302409932114192
+Changeup | lower slot | low-IVB,R,Sutter Health Park,1.0,-24.51106763398532,-24.02959972967465
+Changeup | lower slot | low-IVB,R,T-Mobile Park,1.0,10.60930397666346,11.090771880974128
+Changeup | lower slot | low-IVB,R,Target Field,1.0,-0.9821092259713492,-0.5006413216606816
+Changeup | lower slot | low-IVB,R,Tropicana Field,1.0,-3.5506545180623164,-3.069186613751649
+Changeup | lower slot | low-IVB,R,Truist Park,1.0,2.47518293097973,2.9566508352903975
+Changeup | lower slot | low-IVB,R,Wrigley Field,1.0,1.9741277419281928,2.4555956462388604
+Changeup | lower slot | low-IVB,R,Yankee Stadium,1.0,9.659922907764221,10.141390812074889
+Changeup | lower slot | low-IVB,R,loanDepot park,1.0,-4.140010650068664,-3.6585427457579964
+Curveball | higher slot | high-IVB,L,American Family Field,1.0,-3.453361107425251,-2.762842252587925
+Curveball | higher slot | high-IVB,L,Angel Stadium,1.0,-1.0197180179626952,-0.3291991631253688
+Curveball | higher slot | high-IVB,L,Busch Stadium,1.0,14.751598746583223,15.44211760142055
+Curveball | higher slot | high-IVB,L,Chase Field,1.0,0.9631035317162652,1.6536223865535917
+Curveball | higher slot | high-IVB,L,Citi Field,1.0,13.285062140615151,13.975580995452479
+Curveball | higher slot | high-IVB,L,Citizens Bank Park,1.0,-16.240700755691368,-15.55018190085404
+Curveball | higher slot | high-IVB,L,Comerica Park,1.0,5.536939359342697,6.227458214180023
+Curveball | higher slot | high-IVB,L,Coors Field,1.0,-33.45991904693747,-32.76940019210014
+Curveball | higher slot | high-IVB,L,Daikin Park,1.0,-9.439840139775178,-8.749321284937851
+Curveball | higher slot | high-IVB,L,Dodger Stadium,1.0,-6.979074269550801,-6.288555414713475
+Curveball | higher slot | high-IVB,L,Fenway Park,1.0,-17.12063142045155,-16.430112565614223
+Curveball | higher slot | high-IVB,L,George M. Steinbrenner Field,1.0,-13.167722746556446,-12.47720389171912
+Curveball | higher slot | high-IVB,L,Globe Life Field,1.0,4.074311037124505,4.764829891961831
+Curveball | higher slot | high-IVB,L,Great American Ball Park,1.0,-16.191141297636708,-15.500622442799381
+Curveball | higher slot | high-IVB,L,Kauffman Stadium,1.0,11.944035024936673,12.634553879774
+Curveball | higher slot | high-IVB,L,Nationals Park,1.0,1.2494544715337204,1.9399733263710468
+Curveball | higher slot | high-IVB,L,Oakland Coliseum,1.0,4.0728835892541095,4.763402444091436
+Curveball | higher slot | high-IVB,L,Oracle Park,1.0,1.7907608573064127,2.4812797121437393
+Curveball | higher slot | high-IVB,L,Oriole Park at Camden Yards,1.0,11.072476353414787,11.762995208252114
+Curveball | higher slot | high-IVB,L,PNC Park,1.0,10.392919015041036,11.083437869878363
+Curveball | higher slot | high-IVB,L,Petco Park,1.0,12.985402441596523,13.67592129643385
+Curveball | higher slot | high-IVB,L,Progressive Field,1.0,5.38400353295158,6.074522387788906
+Curveball | higher slot | high-IVB,L,Rate Field,1.0,4.909723633616918,5.600242488454244
+Curveball | higher slot | high-IVB,L,Rogers Centre,1.0,0.5863264923674527,1.2768453472047792
+Curveball | higher slot | high-IVB,L,Sutter Health Park,1.0,-39.58033086477882,-38.889812009941494
+Curveball | higher slot | high-IVB,L,T-Mobile Park,1.0,12.519010634864843,13.20952948970217
+Curveball | higher slot | high-IVB,L,Target Field,1.0,-4.129883912910245,-3.4393650580729185
+Curveball | higher slot | high-IVB,L,Tropicana Field,1.0,-5.679074785263491,-4.988555930426164
+Curveball | higher slot | high-IVB,L,Truist Park,1.0,4.539271118101198,5.229789972938525
+Curveball | higher slot | high-IVB,L,Wrigley Field,1.0,5.267345222562519,5.9578640773998455
+Curveball | higher slot | high-IVB,L,Yankee Stadium,1.0,12.46949041049817,13.160009265335496
+Curveball | higher slot | high-IVB,L,loanDepot park,1.0,6.570677396717793,7.261196251555119
+Curveball | higher slot | high-IVB,R,American Family Field,1.0,-3.44820700494884,-2.834223318883094
+Curveball | higher slot | high-IVB,R,Angel Stadium,1.0,-1.2009385255206484,-0.5869548394549023
+Curveball | higher slot | high-IVB,R,Busch Stadium,1.0,19.623160211505024,20.23714389757077
+Curveball | higher slot | high-IVB,R,Chase Field,1.0,2.2126504387764965,2.8266341248422426
+Curveball | higher slot | high-IVB,R,Citi Field,1.0,7.966680755335543,8.58066444140129
+Curveball | higher slot | high-IVB,R,Citizens Bank Park,1.0,-16.196502816453748,-15.582519130388002
+Curveball | higher slot | high-IVB,R,Comerica Park,1.0,5.322374366198657,5.936358052264403
+Curveball | higher slot | high-IVB,R,Coors Field,1.0,-32.82424947437536,-32.21026578830961
+Curveball | higher slot | high-IVB,R,Daikin Park,1.0,-4.443154660478573,-3.829170974412827
+Curveball | higher slot | high-IVB,R,Dodger Stadium,1.0,-0.5949946988000541,0.01898898726569198
+Curveball | higher slot | high-IVB,R,Fenway Park,1.0,-16.42275654179886,-15.808772855733116
+Curveball | higher slot | high-IVB,R,George M. Steinbrenner Field,1.0,-7.4082859004212676,-6.794302214355522
+Curveball | higher slot | high-IVB,R,Globe Life Field,1.0,8.655563047272684,9.26954673333843
+Curveball | higher slot | high-IVB,R,Great American Ball Park,1.0,-21.25281646036141,-20.63883277429566
+Curveball | higher slot | high-IVB,R,Kauffman Stadium,1.0,10.258874269385945,10.87285795545169
+Curveball | higher slot | high-IVB,R,Nationals Park,1.0,3.6698180512043765,4.283801737270123
+Curveball | higher slot | high-IVB,R,Oakland Coliseum,1.0,5.922378943865021,6.536362629930767
+Curveball | higher slot | high-IVB,R,Oracle Park,1.0,3.4452284911350155,4.059212177200761
+Curveball | higher slot | high-IVB,R,Oriole Park at Camden Yards,1.0,4.127915345148295,4.74189903121404
+Curveball | higher slot | high-IVB,R,PNC Park,1.0,6.717820850888332,7.331804536954078
+Curveball | higher slot | high-IVB,R,Petco Park,1.0,16.09159258499327,16.705576271059016
+Curveball | higher slot | high-IVB,R,Progressive Field,1.0,2.5441745256309103,3.1581582116966564
+Curveball | higher slot | high-IVB,R,Rate Field,1.0,3.3485204950837955,3.9625041811495416
+Curveball | higher slot | high-IVB,R,Rogers Centre,1.0,-1.3204093524540528,-0.7064256663883067
+Curveball | higher slot | high-IVB,R,Sutter Health Park,1.0,-36.44683234887759,-35.83284866281185
+Curveball | higher slot | high-IVB,R,T-Mobile Park,1.0,12.961409972455401,13.575393658521147
+Curveball | higher slot | high-IVB,R,Target Field,1.0,-0.9404307357328003,-0.3264470496670543
+Curveball | higher slot | high-IVB,R,Tropicana Field,1.0,-1.9072462622020252,-1.293262576136279
+Curveball | higher slot | high-IVB,R,Truist Park,1.0,0.7385945285999203,1.3525782146656664
+Curveball | higher slot | high-IVB,R,Wrigley Field,1.0,0.32585101400938604,0.9398347000751321
+Curveball | higher slot | high-IVB,R,Yankee Stadium,1.0,7.642978557456165,8.256962243521912
+Curveball | higher slot | high-IVB,R,loanDepot park,1.0,3.183760379377115,3.797744065442861
+Curveball | higher slot | low-IVB,L,American Family Field,0.9999999999999999,-2.0678967380076356,-1.4341859165865656
+Curveball | higher slot | low-IVB,L,Angel Stadium,0.9999999999999999,-2.3193846855490885,-1.6856738641280185
+Curveball | higher slot | low-IVB,L,Busch Stadium,0.9999999999999999,11.082949643590105,11.716660465011175
+Curveball | higher slot | low-IVB,L,Chase Field,0.9999999999999999,-1.2475620284523385,-0.6138512070312684
+Curveball | higher slot | low-IVB,L,Citi Field,0.9999999999999999,11.930820691659301,12.564531513080372
+Curveball | higher slot | low-IVB,L,Citizens Bank Park,0.9999999999999999,-12.414589606737335,-11.780878785316265
+Curveball | higher slot | low-IVB,L,Comerica Park,0.9999999999999999,3.3820393958708563,4.015750217291926
+Curveball | higher slot | low-IVB,L,Coors Field,0.9999999999999999,-27.275662021049165,-26.641951199628096
+Curveball | higher slot | low-IVB,L,Daikin Park,0.9999999999999999,-4.901982323794046,-4.268271502372976
+Curveball | higher slot | low-IVB,L,Dodger Stadium,0.9999999999999999,-2.5988453578153092,-1.9651345363942392
+Curveball | higher slot | low-IVB,L,Fenway Park,0.9999999999999999,-14.528894445479112,-13.895183624058042
+Curveball | higher slot | low-IVB,L,George M. Steinbrenner Field,0.9999999999999999,-10.354024206787567,-9.720313385366497
+Curveball | higher slot | low-IVB,L,Globe Life Field,0.9999999999999999,3.0295547144266903,3.6632655358477604
+Curveball | higher slot | low-IVB,L,Great American Ball Park,0.9999999999999999,-13.798458181621333,-13.164747360200263
+Curveball | higher slot | low-IVB,L,Kauffman Stadium,0.9999999999999999,8.634118201615014,9.267829023036084
+Curveball | higher slot | low-IVB,L,Nationals Park,0.9999999999999999,0.9001842092818086,1.5338950307028787
+Curveball | higher slot | low-IVB,L,Oakland Coliseum,0.9999999999999999,0.9964331369959591,1.6301439584170292
+Curveball | higher slot | low-IVB,L,Oracle Park,0.9999999999999999,3.289088396851695,3.922799218272765
+Curveball | higher slot | low-IVB,L,Oriole Park at Camden Yards,0.9999999999999999,7.283698643739969,7.91740946516104
+Curveball | higher slot | low-IVB,L,PNC Park,0.9999999999999999,8.229831603198523,8.863542424619594
+Curveball | higher slot | low-IVB,L,Petco Park,0.9999999999999999,10.25883515584077,10.892545977261841
+Curveball | higher slot | low-IVB,L,Progressive Field,0.9999999999999999,4.551544607486224,5.185255428907294
+Curveball | higher slot | low-IVB,L,Rate Field,0.9999999999999999,1.938748645980081,2.572459467401151
+Curveball | higher slot | low-IVB,L,Rogers Centre,0.9999999999999999,0.6394034745780612,1.2731142959991315
+Curveball | higher slot | low-IVB,L,Sutter Health Park,0.9999999999999999,-33.61550502013315,-32.98179419871208
+Curveball | higher slot | low-IVB,L,T-Mobile Park,0.9999999999999999,10.737117578302417,11.370828399723488
+Curveball | higher slot | low-IVB,L,Target Field,0.9999999999999999,-6.586271650330081,-5.952560828909011
+Curveball | higher slot | low-IVB,L,Tropicana Field,0.9999999999999999,-6.152622339010078,-5.518911517589007
+Curveball | higher slot | low-IVB,L,Truist Park,0.9999999999999999,4.438536780075983,5.072247601497054
+Curveball | higher slot | low-IVB,L,Wrigley Field,0.9999999999999999,8.875616205182846,9.509327026603916
+Curveball | higher slot | low-IVB,L,Yankee Stadium,0.9999999999999999,13.68184549418504,14.315556315606111
+Curveball | higher slot | low-IVB,L,loanDepot park,0.9999999999999999,3.70258574043065,4.336296561851721
+Curveball | higher slot | low-IVB,R,American Family Field,1.0,-2.452252534546152,-1.909462645679797
+Curveball | higher slot | low-IVB,R,Angel Stadium,1.0,-1.5915921145544831,-1.0488022256881282
+Curveball | higher slot | low-IVB,R,Busch Stadium,1.0,15.794026523105,16.336816411971355
+Curveball | higher slot | low-IVB,R,Chase Field,1.0,-0.28612887823389016,0.25666101063246477
+Curveball | higher slot | low-IVB,R,Citi Field,1.0,5.63517045024708,6.177960339113435
+Curveball | higher slot | low-IVB,R,Citizens Bank Park,1.0,-13.365976852051695,-12.82318696318534
+Curveball | higher slot | low-IVB,R,Comerica Park,1.0,2.7871609841221403,3.329950872988495
+Curveball | higher slot | low-IVB,R,Coors Field,1.0,-27.862747315767557,-27.3199574269012
+Curveball | higher slot | low-IVB,R,Daikin Park,1.0,-1.7037303703650737,-1.1609404814987188
+Curveball | higher slot | low-IVB,R,Dodger Stadium,1.0,2.7009968074039503,3.2437866962703055
+Curveball | higher slot | low-IVB,R,Fenway Park,1.0,-12.109608046079904,-11.566818157213548
+Curveball | higher slot | low-IVB,R,George M. Steinbrenner Field,1.0,-5.799432502587247,-5.256642613720892
+Curveball | higher slot | low-IVB,R,Globe Life Field,1.0,8.646365862013855,9.18915575088021
+Curveball | higher slot | low-IVB,R,Great American Ball Park,1.0,-19.79182089878213,-19.249031009915775
+Curveball | higher slot | low-IVB,R,Kauffman Stadium,1.0,5.9078149428643165,6.450604831730671
+Curveball | higher slot | low-IVB,R,Nationals Park,1.0,2.19765307771997,2.7404429665863246
+Curveball | higher slot | low-IVB,R,Oakland Coliseum,1.0,3.5688020881782623,4.111591977044617
+Curveball | higher slot | low-IVB,R,Oracle Park,1.0,5.191617204041245,5.7344070929076
+Curveball | higher slot | low-IVB,R,Oriole Park at Camden Yards,1.0,2.539924173313386,3.0827140621797406
+Curveball | higher slot | low-IVB,R,PNC Park,1.0,5.14280233806254,5.685592226928895
+Curveball | higher slot | low-IVB,R,Petco Park,1.0,13.832454859861281,14.375244748727637
+Curveball | higher slot | low-IVB,R,Progressive Field,1.0,2.9931484039287928,3.535938292795148
+Curveball | higher slot | low-IVB,R,Rate Field,1.0,0.9847479860963108,1.5275378749626656
+Curveball | higher slot | low-IVB,R,Rogers Centre,1.0,-0.34569812384859766,0.19709176501775727
+Curveball | higher slot | low-IVB,R,Sutter Health Park,1.0,-29.9080732472862,-29.365283358419845
+Curveball | higher slot | low-IVB,R,T-Mobile Park,1.0,11.518161083019692,12.060950971886047
+Curveball | higher slot | low-IVB,R,Target Field,1.0,-2.0322015398479265,-1.4894116509815716
+Curveball | higher slot | low-IVB,R,Tropicana Field,1.0,-3.083085340486518,-2.540295451620163
+Curveball | higher slot | low-IVB,R,Truist Park,1.0,1.9211426971966565,2.4639325860630112
+Curveball | higher slot | low-IVB,R,Wrigley Field,1.0,2.805889089689083,3.348678978555438
+Curveball | higher slot | low-IVB,R,Yankee Stadium,1.0,9.44198966576141,9.984779554627766
+Curveball | higher slot | low-IVB,R,loanDepot park,1.0,-0.6467969159109532,-0.1040070270445983
+Curveball | lower slot | high-IVB,L,American Family Field,1.0,-3.030573136030602,-2.3750654134322637
+Curveball | lower slot | high-IVB,L,Angel Stadium,1.0,-1.4038819713814372,-0.7483742487830989
+Curveball | lower slot | high-IVB,L,Busch Stadium,1.0,14.724121864569469,15.379629587167807
+Curveball | lower slot | high-IVB,L,Chase Field,1.0,0.7366840356828979,1.3921917582812362
+Curveball | lower slot | high-IVB,L,Citi Field,1.0,11.61559016333043,12.271097885928768
+Curveball | lower slot | high-IVB,L,Citizens Bank Park,1.0,-15.232290610702035,-14.576782888103697
+Curveball | lower slot | high-IVB,L,Comerica Park,1.0,4.872952335884573,5.528460058482912
+Curveball | lower slot | high-IVB,L,Coors Field,1.0,-31.576199239545687,-30.92069151694735
+Curveball | lower slot | high-IVB,L,Daikin Park,1.0,-7.42197881647998,-6.766471093881641
+Curveball | lower slot | high-IVB,L,Dodger Stadium,1.0,-4.516662741331667,-3.861155018733329
+Curveball | lower slot | high-IVB,L,Fenway Park,1.0,-15.900699050179659,-15.24519132758132
+Curveball | lower slot | high-IVB,L,George M. Steinbrenner Field,1.0,-11.21714647517163,-10.561638752573291
+Curveball | lower slot | high-IVB,L,Globe Life Field,1.0,4.88272256407559,5.538230286673929
+Curveball | lower slot | high-IVB,L,Great American Ball Park,1.0,-16.53127360947182,-15.875765886873483
+Curveball | lower slot | high-IVB,L,Kauffman Stadium,1.0,10.614927608728715,11.270435331327054
+Curveball | lower slot | high-IVB,L,Nationals Park,1.0,1.579924168176971,2.2354318907753092
+Curveball | lower slot | high-IVB,L,Oakland Coliseum,1.0,3.6900116680402593,4.345519390638597
+Curveball | lower slot | high-IVB,L,Oracle Park,1.0,2.4978407686701236,3.1533484912684617
+Curveball | lower slot | high-IVB,L,Oriole Park at Camden Yards,1.0,8.55935115030065,9.214858872898988
+Curveball | lower slot | high-IVB,L,PNC Park,1.0,8.979000514752968,9.634508237351307
+Curveball | lower slot | high-IVB,L,Petco Park,1.0,12.923845267273144,13.579352989871483
+Curveball | lower slot | high-IVB,L,Progressive Field,1.0,4.6592765797151525,5.314784302313491
+Curveball | lower slot | high-IVB,L,Rate Field,1.0,3.7916194144739124,4.4471271370722505
+Curveball | lower slot | high-IVB,L,Rogers Centre,1.0,0.38784960252014344,1.0433573251184818
+Curveball | lower slot | high-IVB,L,Sutter Health Park,1.0,-36.999538458889965,-36.34403073629163
+Curveball | lower slot | high-IVB,L,T-Mobile Park,1.0,11.917175064760956,12.572682787359295
+Curveball | lower slot | high-IVB,L,Target Field,1.0,-3.969311183349286,-3.3138034607509477
+Curveball | lower slot | high-IVB,L,Tropicana Field,1.0,-4.93822303398131,-4.2827153113829715
+Curveball | lower slot | high-IVB,L,Truist Park,1.0,3.8666126799427656,4.522120402541104
+Curveball | lower slot | high-IVB,L,Wrigley Field,1.0,4.936400323187666,5.591908045786004
+Curveball | lower slot | high-IVB,L,Yankee Stadium,1.0,11.64709833723579,12.302606059834128
+Curveball | lower slot | high-IVB,L,loanDepot park,1.0,4.878527092046078,5.534034814644417
+Curveball | lower slot | high-IVB,R,American Family Field,1.0,-3.0017723815757056,-2.417628161377942
+Curveball | lower slot | high-IVB,R,Angel Stadium,1.0,-1.2530671927497647,-0.668922972552001
+Curveball | lower slot | high-IVB,R,Busch Stadium,1.0,17.580092878338135,18.1642370985359
+Curveball | lower slot | high-IVB,R,Chase Field,1.0,1.0398698668246638,1.6240140870224276
+Curveball | lower slot | high-IVB,R,Citi Field,1.0,7.453403540930368,8.037547761128131
+Curveball | lower slot | high-IVB,R,Citizens Bank Park,1.0,-14.888336731744458,-14.304192511546693
+Curveball | lower slot | high-IVB,R,Comerica Park,1.0,4.224878536396969,4.809022756594732
+Curveball | lower slot | high-IVB,R,Coors Field,1.0,-30.759034634849417,-30.174890414651653
+Curveball | lower slot | high-IVB,R,Daikin Park,1.0,-3.5168927428423444,-2.9327485226445806
+Curveball | lower slot | high-IVB,R,Dodger Stadium,1.0,0.2760626888025802,0.860206909000344
+Curveball | lower slot | high-IVB,R,Fenway Park,1.0,-14.49701222365196,-13.912868003454196
+Curveball | lower slot | high-IVB,R,George M. Steinbrenner Field,1.0,-6.986575465601018,-6.402431245403255
+Curveball | lower slot | high-IVB,R,Globe Life Field,1.0,8.134848493222586,8.71899271342035
+Curveball | lower slot | high-IVB,R,Great American Ball Park,1.0,-20.0490873532975,-19.464943133099737
+Curveball | lower slot | high-IVB,R,Kauffman Stadium,1.0,8.49106801201013,9.075212232207894
+Curveball | lower slot | high-IVB,R,Nationals Park,1.0,2.8753673223749887,3.4595115425727525
+Curveball | lower slot | high-IVB,R,Oakland Coliseum,1.0,4.572540130698912,5.1566843508966755
+Curveball | lower slot | high-IVB,R,Oracle Park,1.0,4.010872432474066,4.595016652671831
+Curveball | lower slot | high-IVB,R,Oriole Park at Camden Yards,1.0,3.876824603759551,4.460968823957314
+Curveball | lower slot | high-IVB,R,PNC Park,1.0,6.297851895016428,6.881996115214191
+Curveball | lower slot | high-IVB,R,Petco Park,1.0,14.824671159283458,15.408815379481222
+Curveball | lower slot | high-IVB,R,Progressive Field,1.0,2.990396680808669,3.574540901006433
+Curveball | lower slot | high-IVB,R,Rate Field,1.0,2.3113140132689245,2.8954582334666883
+Curveball | lower slot | high-IVB,R,Rogers Centre,1.0,-0.761571703718932,-0.17742748352116822
+Curveball | lower slot | high-IVB,R,Sutter Health Park,1.0,-33.76411788998625,-33.17997366978849
+Curveball | lower slot | high-IVB,R,T-Mobile Park,1.0,12.285356605607983,12.869500825805748
+Curveball | lower slot | high-IVB,R,Target Field,1.0,-1.6503486000492384,-1.0662043798514746
+Curveball | lower slot | high-IVB,R,Tropicana Field,1.0,-2.578306546062976,-1.9941623258652124
+Curveball | lower slot | high-IVB,R,Truist Park,1.0,1.5243991687183684,2.1085433889161322
+Curveball | lower slot | high-IVB,R,Wrigley Field,1.0,1.820188417692025,2.404332637889789
+Curveball | lower slot | high-IVB,R,Yankee Stadium,1.0,8.682556773659847,9.266700993857611
+Curveball | lower slot | high-IVB,R,loanDepot park,1.0,1.740945199912473,2.3250894201102366
+Curveball | lower slot | low-IVB,R,American Family Field,1.0,-1.9555504668571075,-1.4311043700817174
+Curveball | lower slot | low-IVB,R,Angel Stadium,1.0,-2.009288837908635,-1.484842741133245
+Curveball | lower slot | low-IVB,R,Busch Stadium,1.0,13.857964341258546,14.382410438033936
+Curveball | lower slot | low-IVB,R,Chase Field,1.0,-1.3438737539606553,-0.8194276571852652
+Curveball | lower slot | low-IVB,R,Citi Field,1.0,4.773451784402963,5.297897881178352
+Curveball | lower slot | low-IVB,R,Citizens Bank Park,1.0,-12.309533803069797,-11.785087706294407
+Curveball | lower slot | low-IVB,R,Comerica Park,1.0,1.7895939355549366,2.3140400323303267
+Curveball | lower slot | low-IVB,R,Coors Field,1.0,-25.576389363758835,-25.051943266983447
+Curveball | lower slot | low-IVB,R,Daikin Park,1.0,-1.1547003402661502,-0.6302542434907601
+Curveball | lower slot | low-IVB,R,Dodger Stadium,1.0,3.7313059959636643,4.255752092739055
+Curveball | lower slot | low-IVB,R,Fenway Park,1.0,-10.56103742794411,-10.036591331168719
+Curveball | lower slot | low-IVB,R,George M. Steinbrenner Field,1.0,-5.700325547697889,-5.1758794509224995
+Curveball | lower slot | low-IVB,R,Globe Life Field,1.0,8.609637605304435,9.134083702079826
+Curveball | lower slot | low-IVB,R,Great American Ball Park,1.0,-19.037081440027734,-18.512635343252345
+Curveball | lower slot | low-IVB,R,Kauffman Stadium,1.0,4.1789281084318635,4.703374205207254
+Curveball | lower slot | low-IVB,R,Nationals Park,1.0,1.376644561826584,1.901090658601974
+Curveball | lower slot | low-IVB,R,Oakland Coliseum,1.0,2.8927081502879877,3.417154247063378
+Curveball | lower slot | low-IVB,R,Oracle Park,1.0,5.788257119773443,6.312703216548833
+Curveball | lower slot | low-IVB,R,Oriole Park at Camden Yards,1.0,2.367613881403769,2.892059978179159
+Curveball | lower slot | low-IVB,R,PNC Park,1.0,4.762034629402721,5.286480726178111
+Curveball | lower slot | low-IVB,R,Petco Park,1.0,12.778879223426483,13.303325320201873
+Curveball | lower slot | low-IVB,R,Progressive Field,1.0,3.3263142897725606,3.8507603865479507
+Curveball | lower slot | low-IVB,R,Rate Field,1.0,0.3517588391926869,0.876204935968077
+Curveball | lower slot | low-IVB,R,Rogers Centre,1.0,0.18543978841397818,0.7098858851893683
+Curveball | lower slot | low-IVB,R,Sutter Health Park,1.0,-27.44109453265053,-26.916648435875143
+Curveball | lower slot | low-IVB,R,T-Mobile Park,1.0,10.803726957784589,11.32817305455998
+Curveball | lower slot | low-IVB,R,Target Field,1.0,-2.541662545459127,-2.0172164486837367
+Curveball | lower slot | low-IVB,R,Tropicana Field,1.0,-3.9733296096960284,-3.4488835129206383
+Curveball | lower slot | low-IVB,R,Truist Park,1.0,2.682279000919021,3.2067250976944113
+Curveball | lower slot | low-IVB,R,Wrigley Field,1.0,3.876355925886526,4.400802022661916
+Curveball | lower slot | low-IVB,R,Yankee Stadium,1.0,10.542957015221635,11.067403111997026
+Curveball | lower slot | low-IVB,R,loanDepot park,1.0,-1.854258581744272,-1.329812484968882
+Cutter | higher slot | high-IVB,L,American Family Field,1.0,-2.8778849424041137,-2.223702732481776
+Cutter | higher slot | high-IVB,L,Angel Stadium,1.0,-1.3353066162851208,-0.681124406362783
+Cutter | higher slot | high-IVB,L,Busch Stadium,1.0,14.32834709901628,14.982529308938618
+Cutter | higher slot | high-IVB,L,Chase Field,1.0,0.8083998635814178,1.4625820735037556
+Cutter | higher slot | high-IVB,L,Citi Field,1.0,12.31426991327738,12.968452123199718
+Cutter | higher slot | high-IVB,L,Citizens Bank Park,1.0,-15.025005375167378,-14.37082316524504
+Cutter | higher slot | high-IVB,L,Comerica Park,1.0,4.999552588724683,5.6537347986470206
+Cutter | higher slot | high-IVB,L,Coors Field,1.0,-31.53997855546235,-30.885796345540015
+Cutter | higher slot | high-IVB,L,Daikin Park,1.0,-7.605974981297341,-6.951792771375003
+Cutter | higher slot | high-IVB,L,Dodger Stadium,1.0,-5.296945974108163,-4.642763764185825
+Cutter | higher slot | high-IVB,L,Fenway Park,1.0,-16.055281489738125,-15.401099279815787
+Cutter | higher slot | high-IVB,L,George M. Steinbrenner Field,1.0,-11.251962608712333,-10.597780398789995
+Cutter | higher slot | high-IVB,L,Globe Life Field,1.0,4.019794787165066,4.673976997087403
+Cutter | higher slot | high-IVB,L,Great American Ball Park,1.0,-15.562727084942866,-14.908544875020528
+Cutter | higher slot | high-IVB,L,Kauffman Stadium,1.0,10.895849800912758,11.550032010835096
+Cutter | higher slot | high-IVB,L,Nationals Park,1.0,1.5582656145701972,2.2124478244925347
+Cutter | higher slot | high-IVB,L,Oakland Coliseum,1.0,3.280069776312376,3.9342519862347136
+Cutter | higher slot | high-IVB,L,Oracle Park,1.0,1.989810957617074,2.6439931675394117
+Cutter | higher slot | high-IVB,L,Oriole Park at Camden Yards,1.0,8.776739753009288,9.430921962931626
+Cutter | higher slot | high-IVB,L,PNC Park,1.0,9.277448437065802,9.93163064698814
+Cutter | higher slot | high-IVB,L,Petco Park,1.0,12.596356048251513,13.250538258173851
+Cutter | higher slot | high-IVB,L,Progressive Field,1.0,4.890549917314912,5.54473212723725
+Cutter | higher slot | high-IVB,L,Rate Field,1.0,3.7298939289290884,4.384076138851427
+Cutter | higher slot | high-IVB,L,Rogers Centre,1.0,0.4046354193646467,1.0588176292869844
+Cutter | higher slot | high-IVB,L,Sutter Health Park,1.0,-37.2722160210259,-36.61803381110356
+Cutter | higher slot | high-IVB,L,T-Mobile Park,1.0,11.77970000742253,12.433882217344868
+Cutter | higher slot | high-IVB,L,Target Field,1.0,-4.113982318535431,-3.459800108613093
+Cutter | higher slot | high-IVB,L,Tropicana Field,1.0,-4.873001813467944,-4.218819603545606
+Cutter | higher slot | high-IVB,L,Truist Park,1.0,4.010837734135471,4.665019944057809
+Cutter | higher slot | high-IVB,L,Wrigley Field,1.0,5.208048454663302,5.86223066458564
+Cutter | higher slot | high-IVB,L,Yankee Stadium,1.0,11.580371750489046,12.234553960411384
+Cutter | higher slot | high-IVB,L,loanDepot park,1.0,5.42749521180943,6.081677421731768
+Cutter | higher slot | high-IVB,R,American Family Field,1.0,-2.754494105252367,-2.1657580963558467
+Cutter | higher slot | high-IVB,R,Angel Stadium,1.0,-1.2963081166374668,-0.7075721077409466
+Cutter | higher slot | high-IVB,R,Busch Stadium,1.0,16.371263763501222,16.959999772397744
+Cutter | higher slot | high-IVB,R,Chase Field,1.0,1.0056501878841264,1.5943861967806465
+Cutter | higher slot | high-IVB,R,Citi Field,1.0,7.720194168872334,8.308930177768854
+Cutter | higher slot | high-IVB,R,Citizens Bank Park,1.0,-14.656261937008608,-14.067525928112088
+Cutter | higher slot | high-IVB,R,Comerica Park,1.0,4.212371044721655,4.801107053618175
+Cutter | higher slot | high-IVB,R,Coors Field,1.0,-30.333521412557328,-29.744785403660806
+Cutter | higher slot | high-IVB,R,Daikin Park,1.0,-4.553847010295145,-3.965111001398625
+Cutter | higher slot | high-IVB,R,Dodger Stadium,1.0,-0.8155968908902147,-0.22686088199369447
+Cutter | higher slot | high-IVB,R,Fenway Park,1.0,-13.964791462565833,-13.376055453669313
+Cutter | higher slot | high-IVB,R,George M. Steinbrenner Field,1.0,-7.725762117740661,-7.137026108844141
+Cutter | higher slot | high-IVB,R,Globe Life Field,1.0,7.472962042500451,8.061698051396972
+Cutter | higher slot | high-IVB,R,Great American Ball Park,1.0,-19.05545268503904,-18.466716676142518
+Cutter | higher slot | high-IVB,R,Kauffman Stadium,1.0,8.392998278368943,8.981734287265462
+Cutter | higher slot | high-IVB,R,Nationals Park,1.0,2.3555512697150363,2.9442872786115566
+Cutter | higher slot | high-IVB,R,Oakland Coliseum,1.0,4.391963151663584,4.980699160560104
+Cutter | higher slot | high-IVB,R,Oracle Park,1.0,3.516858876672693,4.1055948855692135
+Cutter | higher slot | high-IVB,R,Oriole Park at Camden Yards,1.0,5.0308151884213705,5.61955119731789
+Cutter | higher slot | high-IVB,R,PNC Park,1.0,6.687246969891115,7.275982978787635
+Cutter | higher slot | high-IVB,R,Petco Park,1.0,14.391101631266633,14.979837640163153
+Cutter | higher slot | high-IVB,R,Progressive Field,1.0,3.6263974873324782,4.215133496228998
+Cutter | higher slot | high-IVB,R,Rate Field,1.0,2.5976265910653,3.18636259996182
+Cutter | higher slot | high-IVB,R,Rogers Centre,1.0,-0.1805908013966444,0.4081452074998758
+Cutter | higher slot | high-IVB,R,Sutter Health Park,1.0,-33.60827933540891,-33.01954332651239
+Cutter | higher slot | high-IVB,R,T-Mobile Park,1.0,11.922969970686255,12.511705979582775
+Cutter | higher slot | high-IVB,R,Target Field,1.0,-1.6952633675641742,-1.106527358667654
+Cutter | higher slot | high-IVB,R,Tropicana Field,1.0,-3.059859634694213,-2.4711236257976927
+Cutter | higher slot | high-IVB,R,Truist Park,1.0,2.3350700132503714,2.923806022146892
+Cutter | higher slot | high-IVB,R,Wrigley Field,1.0,1.7881245690292196,2.37686057792574
+Cutter | higher slot | high-IVB,R,Yankee Stadium,1.0,8.981232913224506,9.569968922121026
+Cutter | higher slot | high-IVB,R,loanDepot park,1.0,2.060078474294665,2.6488144831911855
+Cutter | higher slot | low-IVB,L,American Family Field,1.0,-2.502705033578029,-1.8957497975306687
+Cutter | higher slot | low-IVB,L,Angel Stadium,1.0,-1.340992945213439,-0.7340377091660788
+Cutter | higher slot | low-IVB,L,Busch Stadium,1.0,13.844174183900892,14.451129419948252
+Cutter | higher slot | low-IVB,L,Chase Field,1.0,0.06582277270962983,0.6727780087569901
+Cutter | higher slot | low-IVB,L,Citi Field,1.0,9.875372847484718,10.482328083532078
+Cutter | higher slot | low-IVB,L,Citizens Bank Park,1.0,-13.996368079631035,-13.389412843583674
+Cutter | higher slot | low-IVB,L,Comerica Park,1.0,3.9839568052055334,4.590912041252894
+Cutter | higher slot | low-IVB,L,Coors Field,1.0,-29.66349532780032,-29.05654009175296
+Cutter | higher slot | low-IVB,L,Daikin Park,1.0,-5.592707807711546,-4.985752571664186
+Cutter | higher slot | low-IVB,L,Dodger Stadium,1.0,-2.856949370244777,-2.249994134197417
+Cutter | higher slot | low-IVB,L,Fenway Park,1.0,-14.122614033275706,-13.515658797228346
+Cutter | higher slot | low-IVB,L,George M. Steinbrenner Field,1.0,-9.414694552191765,-8.807739316144405
+Cutter | higher slot | low-IVB,L,Globe Life Field,1.0,5.144600903435556,5.751556139482917
+Cutter | higher slot | low-IVB,L,Great American Ball Park,1.0,-16.446695262077018,-15.839740026029657
+Cutter | higher slot | low-IVB,L,Kauffman Stadium,1.0,8.531310652155298,9.138265888202659
+Cutter | higher slot | low-IVB,L,Nationals Park,1.0,1.3737650224763025,1.9807202585236627
+Cutter | higher slot | low-IVB,L,Oakland Coliseum,1.0,3.0354177901323736,3.642373026179734
+Cutter | higher slot | low-IVB,L,Oracle Park,1.0,2.9416739767348585,3.5486292127822185
+Cutter | higher slot | low-IVB,L,Oriole Park at Camden Yards,1.0,7.221033900104599,7.82798913615196
+Cutter | higher slot | low-IVB,L,PNC Park,1.0,7.962338877068891,8.569294113116252
+Cutter | higher slot | low-IVB,L,Petco Park,1.0,12.65152161423482,13.25847685028218
+Cutter | higher slot | low-IVB,L,Progressive Field,1.0,4.681042614842387,5.287997850889748
+Cutter | higher slot | low-IVB,L,Rate Field,1.0,2.6713861816088067,3.2783414176561667
+Cutter | higher slot | low-IVB,L,Rogers Centre,1.0,0.3831988647096924,0.9901541007570527
+Cutter | higher slot | low-IVB,L,Sutter Health Park,1.0,-34.126987173928555,-33.52003193788119
+Cutter | higher slot | low-IVB,L,T-Mobile Park,1.0,11.638993247455351,12.245948483502712
+Cutter | higher slot | low-IVB,L,Target Field,1.0,-3.2899575649069823,-2.6830023288596223
+Cutter | higher slot | low-IVB,L,Tropicana Field,1.0,-4.613720177981646,-4.006764941934286
+Cutter | higher slot | low-IVB,L,Truist Park,1.0,3.724354298187126,4.331309534234486
+Cutter | higher slot | low-IVB,L,Wrigley Field,1.0,4.469644771156819,5.0766000072041795
+Cutter | higher slot | low-IVB,L,Yankee Stadium,1.0,11.088093463949082,11.695048699996443
+Cutter | higher slot | low-IVB,L,loanDepot park,1.0,3.2576169874725522,3.8645722235199127
+Cutter | higher slot | low-IVB,R,American Family Field,1.0,-2.700780331014151,-2.09188479773695
+Cutter | higher slot | low-IVB,R,Angel Stadium,1.0,-1.4647455996662193,-0.8558500663890182
+Cutter | higher slot | low-IVB,R,Busch Stadium,1.0,15.097537942361232,15.706433475638432
+Cutter | higher slot | low-IVB,R,Chase Field,1.0,0.4169787719092109,1.025874305186412
+Cutter | higher slot | low-IVB,R,Citi Field,1.0,9.674500293852919,10.28339582713012
+Cutter | higher slot | low-IVB,R,Citizens Bank Park,1.0,-14.093898506772264,-13.485002973495064
+Cutter | higher slot | low-IVB,R,Comerica Park,1.0,4.185436534284866,4.794332067562068
+Cutter | higher slot | low-IVB,R,Coors Field,1.0,-29.997483696093273,-29.38858816281607
+Cutter | higher slot | low-IVB,R,Daikin Park,1.0,-4.570704666519005,-3.9618091332418044
+Cutter | higher slot | low-IVB,R,Dodger Stadium,1.0,-1.6934808908171342,-1.084585357539933
+Cutter | higher slot | low-IVB,R,Fenway Park,1.0,-14.725216249019487,-14.116320715742287
+Cutter | higher slot | low-IVB,R,George M. Steinbrenner Field,1.0,-8.582221134258791,-7.97332560098159
+Cutter | higher slot | low-IVB,R,Globe Life Field,1.0,5.737652132242557,6.346547665519759
+Cutter | higher slot | low-IVB,R,Great American Ball Park,1.0,-17.33228142552985,-16.723385892252647
+Cutter | higher slot | low-IVB,R,Kauffman Stadium,1.0,9.027074567400271,9.635970100677472
+Cutter | higher slot | low-IVB,R,Nationals Park,1.0,2.1409748349101423,2.7498703681873433
+Cutter | higher slot | low-IVB,R,Oakland Coliseum,1.0,3.163402699971895,3.772298233249096
+Cutter | higher slot | low-IVB,R,Oracle Park,1.0,3.316101946406037,3.924997479683238
+Cutter | higher slot | low-IVB,R,Oriole Park at Camden Yards,1.0,5.7877463616820854,6.396641894959287
+Cutter | higher slot | low-IVB,R,PNC Park,1.0,7.351333647360732,7.960229180637933
+Cutter | higher slot | low-IVB,R,Petco Park,1.0,13.142606051187444,13.751501584464645
+Cutter | higher slot | low-IVB,R,Progressive Field,1.0,3.8033597848396288,4.41225531811683
+Cutter | higher slot | low-IVB,R,Rate Field,1.0,2.407582656804124,3.016478190081325
+Cutter | higher slot | low-IVB,R,Rogers Centre,1.0,-0.1476246801785668,0.46127085309863436
+Cutter | higher slot | low-IVB,R,Sutter Health Park,1.0,-34.40974049516231,-33.80084496188511
+Cutter | higher slot | low-IVB,R,T-Mobile Park,1.0,11.803402134116084,12.412297667393284
+Cutter | higher slot | low-IVB,R,Target Field,1.0,-3.4689453202190927,-2.8600497869418917
+Cutter | higher slot | low-IVB,R,Tropicana Field,1.0,-3.874967053554768,-3.266071520277567
+Cutter | higher slot | low-IVB,R,Truist Park,1.0,2.768992940529782,3.377888473806983
+Cutter | higher slot | low-IVB,R,Wrigley Field,1.0,4.324112230271888,4.93300776354909
+Cutter | higher slot | low-IVB,R,Yankee Stadium,1.0,10.419251839806972,11.028147373084172
+Cutter | higher slot | low-IVB,R,loanDepot park,1.0,3.0093856139966064,3.6182811472738075
+Cutter | lower slot | high-IVB,L,American Family Field,1.0,-3.124345240365863,-2.4498276714932428
+Cutter | lower slot | high-IVB,L,Angel Stadium,1.0,-0.9246837081143845,-0.2501661392417641
+Cutter | lower slot | high-IVB,L,Busch Stadium,1.0,14.875065221780622,15.549582790653242
+Cutter | lower slot | high-IVB,L,Chase Field,1.0,1.4734283034952123,2.1479458723678326
+Cutter | lower slot | high-IVB,L,Citi Field,1.0,13.53772542508512,14.212242993957739
+Cutter | lower slot | high-IVB,L,Citizens Bank Park,1.0,-15.948308664620388,-15.273791095747768
+Cutter | lower slot | high-IVB,L,Comerica Park,1.0,5.809852063295335,6.484369632167956
+Cutter | lower slot | high-IVB,L,Coors Field,1.0,-33.32639625867749,-32.65187868980487
+Cutter | lower slot | high-IVB,L,Daikin Park,1.0,-9.22600680130071,-8.55148923242809
+Cutter | lower slot | high-IVB,L,Dodger Stadium,1.0,-7.5467782526371225,-6.872260683764502
+Cutter | lower slot | high-IVB,L,Fenway Park,1.0,-17.202697756768934,-16.528180187896314
+Cutter | lower slot | high-IVB,L,George M. Steinbrenner Field,1.0,-12.301659409731728,-11.627141840859109
+Cutter | lower slot | high-IVB,L,Globe Life Field,1.0,3.333310742425711,4.007828311298331
+Cutter | lower slot | high-IVB,L,Great American Ball Park,1.0,-15.261616910956143,-14.587099342083523
+Cutter | lower slot | high-IVB,L,Kauffman Stadium,1.0,12.197736527903553,12.872254096776173
+Cutter | lower slot | high-IVB,L,Nationals Park,1.0,1.5908204458079356,2.265338014680556
+Cutter | lower slot | high-IVB,L,Oakland Coliseum,1.0,3.8292133795564154,4.503730948429036
+Cutter | lower slot | high-IVB,L,Oracle Park,1.0,0.971128958967015,1.6456465278396353
+Cutter | lower slot | high-IVB,L,Oriole Park at Camden Yards,1.0,10.404037551650463,11.078555120523083
+Cutter | lower slot | high-IVB,L,PNC Park,1.0,10.356255290462391,11.030772859335011
+Cutter | lower slot | high-IVB,L,Petco Park,1.0,13.034577572790873,13.709095141663493
+Cutter | lower slot | high-IVB,L,Progressive Field,1.0,5.42222150990662,6.09673907877924
+Cutter | lower slot | high-IVB,L,Rate Field,1.0,4.669874811469014,5.344392380341635
+Cutter | lower slot | high-IVB,L,Rogers Centre,1.0,0.3740093441970837,1.0485269130697041
+Cutter | lower slot | high-IVB,L,Sutter Health Park,1.0,-39.561921998420075,-38.88740442954745
+Cutter | lower slot | high-IVB,L,T-Mobile Park,1.0,12.272744405652624,12.947261974525244
+Cutter | lower slot | high-IVB,L,Target Field,1.0,-3.5737244623166373,-2.899206893444017
+Cutter | lower slot | high-IVB,L,Tropicana Field,1.0,-4.843060907130447,-4.168543338257827
+Cutter | lower slot | high-IVB,L,Truist Park,1.0,4.228891932091801,4.903409500964422
+Cutter | lower slot | high-IVB,L,Wrigley Field,1.0,4.490773922235953,5.165291491108574
+Cutter | lower slot | high-IVB,L,Yankee Stadium,1.0,11.305574756147992,11.980092325020612
+Cutter | lower slot | high-IVB,L,loanDepot park,1.0,7.07939600219434,7.75391357106696
+Cutter | lower slot | high-IVB,R,American Family Field,1.0,-3.339684581582794,-2.7469335151290504
+Cutter | lower slot | high-IVB,R,Angel Stadium,1.0,-0.9934659458172882,-0.40071487936354455
+Cutter | lower slot | high-IVB,R,Busch Stadium,1.0,19.8729665464817,20.465717612935443
+Cutter | lower slot | high-IVB,R,Chase Field,1.0,2.506255969745296,3.0990070361990396
+Cutter | lower slot | high-IVB,R,Citi Field,1.0,6.8177735430903965,7.41052460954414
+Cutter | lower slot | high-IVB,R,Citizens Bank Park,1.0,-16.13037664088093,-15.537625574427185
+Cutter | lower slot | high-IVB,R,Comerica Park,1.0,5.209590118869543,5.802341185323287
+Cutter | lower slot | high-IVB,R,Coors Field,1.0,-32.6866333577879,-32.093882291334154
+Cutter | lower slot | high-IVB,R,Daikin Park,1.0,-4.308338686375799,-3.715587619922055
+Cutter | lower slot | high-IVB,R,Dodger Stadium,1.0,-0.1854149097825928,0.40733615667115086
+Cutter | lower slot | high-IVB,R,Fenway Park,1.0,-15.379018830216356,-14.786267763762613
+Cutter | lower slot | high-IVB,R,George M. Steinbrenner Field,1.0,-6.673938829846924,-6.081187763393181
+Cutter | lower slot | high-IVB,R,Globe Life Field,1.0,9.29858520203462,9.891336268488363
+Cutter | lower slot | high-IVB,R,Great American Ball Park,1.0,-21.716592599101016,-21.123841532647273
+Cutter | lower slot | high-IVB,R,Kauffman Stadium,1.0,9.663573447154896,10.25632451360864
+Cutter | lower slot | high-IVB,R,Nationals Park,1.0,3.70478378578766,4.297534852241403
+Cutter | lower slot | high-IVB,R,Oakland Coliseum,1.0,6.166686703233977,6.759437769687721
+Cutter | lower slot | high-IVB,R,Oracle Park,1.0,3.444247450231269,4.036998516685013
+Cutter | lower slot | high-IVB,R,Oriole Park at Camden Yards,1.0,3.6560436119939794,4.248794678447723
+Cutter | lower slot | high-IVB,R,PNC Park,1.0,6.192492945630307,6.785244012084051
+Cutter | lower slot | high-IVB,R,Petco Park,1.0,16.574419796910885,17.16717086336463
+Cutter | lower slot | high-IVB,R,Progressive Field,1.0,2.59838523265669,3.1911362991104335
+Cutter | lower slot | high-IVB,R,Rate Field,1.0,3.1881374486990453,3.780888515152789
+Cutter | lower slot | high-IVB,R,Rogers Centre,1.0,-1.1307306245103335,-0.5379795580565898
+Cutter | lower slot | high-IVB,R,Sutter Health Park,1.0,-35.414477505410986,-34.82172643895724
+Cutter | lower slot | high-IVB,R,T-Mobile Park,1.0,12.809622383560722,13.402373450014466
+Cutter | lower slot | high-IVB,R,Target Field,1.0,0.016559330566147158,0.6093103970198908
+Cutter | lower slot | high-IVB,R,Tropicana Field,1.0,-1.3239418752142342,-0.7311908087604906
+Cutter | lower slot | high-IVB,R,Truist Park,1.0,0.6696291959229386,1.2623802623766822
+Cutter | lower slot | high-IVB,R,Wrigley Field,1.0,-1.0931526058193224,-0.5004015393655787
+Cutter | lower slot | high-IVB,R,Yankee Stadium,1.0,6.656661721910803,7.2494127883645465
+Cutter | lower slot | high-IVB,R,loanDepot park,1.0,2.3613184313458073,2.954069497799551
+Cutter | lower slot | low-IVB,L,American Family Field,1.0,-3.369393509863918,-2.703134968251252
+Cutter | lower slot | low-IVB,L,Angel Stadium,1.0,-0.8473633727065172,-0.18110483109385156
+Cutter | lower slot | low-IVB,L,Busch Stadium,1.0,15.50407064117107,16.170329182783735
+Cutter | lower slot | low-IVB,L,Chase Field,1.0,1.2582767767884193,1.924535318401085
+Cutter | lower slot | low-IVB,L,Citi Field,1.0,12.186017468846526,12.85227601045919
+Cutter | lower slot | low-IVB,L,Citizens Bank Park,1.0,-16.151476344577304,-15.48521780296464
+Cutter | lower slot | low-IVB,L,Comerica Park,1.0,5.474263779914141,6.140522321526807
+Cutter | lower slot | low-IVB,L,Coors Field,1.0,-33.370462647416545,-32.70420410580388
+Cutter | lower slot | low-IVB,L,Daikin Park,1.0,-8.620566998467158,-7.954308456854492
+Cutter | lower slot | low-IVB,L,Dodger Stadium,1.0,-6.126302169930054,-5.460043628317388
+Cutter | lower slot | low-IVB,L,Fenway Park,1.0,-16.591912206708944,-15.925653665096279
+Cutter | lower slot | low-IVB,L,George M. Steinbrenner Field,1.0,-11.923242531057495,-11.25698398944483
+Cutter | lower slot | low-IVB,L,Globe Life Field,1.0,4.749316322425751,5.415574864038417
+Cutter | lower slot | low-IVB,L,Great American Ball Park,1.0,-16.874322865139728,-16.20806432352706
+Cutter | lower slot | low-IVB,L,Kauffman Stadium,1.0,11.436017600410988,12.102276142023653
+Cutter | lower slot | low-IVB,L,Nationals Park,1.0,1.6042841960610972,2.270542737673763
+Cutter | lower slot | low-IVB,L,Oakland Coliseum,1.0,4.311761733675215,4.978020275287881
+Cutter | lower slot | low-IVB,L,Oracle Park,1.0,1.8681509496643804,2.534409491277046
+Cutter | lower slot | low-IVB,L,Oriole Park at Camden Yards,1.0,9.931267530956399,10.597526072569064
+Cutter | lower slot | low-IVB,L,PNC Park,1.0,9.738301940991235,10.4045604826039
+Cutter | lower slot | low-IVB,L,Petco Park,1.0,13.585080094718608,14.251338636331273
+Cutter | lower slot | low-IVB,L,Progressive Field,1.0,5.106410642944659,5.772669184557325
+Cutter | lower slot | low-IVB,L,Rate Field,1.0,4.554378372501431,5.220636914114097
+Cutter | lower slot | low-IVB,L,Rogers Centre,1.0,0.346535808822886,1.0127943504355517
+Cutter | lower slot | low-IVB,L,Sutter Health Park,1.0,-38.73750063932683,-38.07124209771417
+Cutter | lower slot | low-IVB,L,T-Mobile Park,1.0,12.561904578840695,13.22816312045336
+Cutter | lower slot | low-IVB,L,Target Field,1.0,-3.1672449971566388,-2.5009864555439734
+Cutter | lower slot | low-IVB,L,Tropicana Field,1.0,-4.820149952958312,-4.153891411345646
+Cutter | lower slot | low-IVB,L,Truist Park,1.0,3.970001969782099,4.636260511394765
+Cutter | lower slot | low-IVB,L,Wrigley Field,1.0,3.9510105722260076,4.617269113838673
+Cutter | lower slot | low-IVB,L,Yankee Stadium,1.0,11.271738280293173,11.937996821905838
+Cutter | lower slot | low-IVB,L,loanDepot park,1.0,5.8708756426693665,6.537134184282032
+Cutter | lower slot | low-IVB,R,American Family Field,1.0,-3.0090959879592933,-2.4139840498545215
+Cutter | lower slot | low-IVB,R,Angel Stadium,1.0,-1.2243371119002284,-0.6292251737954565
+Cutter | lower slot | low-IVB,R,Busch Stadium,1.0,17.57800238387426,18.173114321979032
+Cutter | lower slot | low-IVB,R,Chase Field,1.0,1.3775539701133248,1.9726659082180968
+Cutter | lower slot | low-IVB,R,Citi Field,1.0,7.7999685957368285,8.3950805338416
+Cutter | lower slot | low-IVB,R,Citizens Bank Park,1.0,-15.085668720871709,-14.490556782766937
+Cutter | lower slot | low-IVB,R,Comerica Park,1.0,4.578643208736693,5.173755146841465
+Cutter | lower slot | low-IVB,R,Coors Field,1.0,-31.19146725483918,-30.596355316734407
+Cutter | lower slot | low-IVB,R,Daikin Park,1.0,-4.182847832575333,-3.587735894470561
+Cutter | lower slot | low-IVB,R,Dodger Stadium,1.0,-0.5467920465999319,0.04831989150484006
+Cutter | lower slot | low-IVB,R,Fenway Park,1.0,-14.868778589242927,-14.273666651138155
+Cutter | lower slot | low-IVB,R,George M. Steinbrenner Field,1.0,-7.390834106523407,-6.795722168418635
+Cutter | lower slot | low-IVB,R,Globe Life Field,1.0,7.842156135717536,8.437268073822308
+Cutter | lower slot | low-IVB,R,Great American Ball Park,1.0,-19.874606452258966,-19.279494514154194
+Cutter | lower slot | low-IVB,R,Kauffman Stadium,1.0,9.00726398677723,9.602375924882002
+Cutter | lower slot | low-IVB,R,Nationals Park,1.0,2.912294087716448,3.50740602582122
+Cutter | lower slot | low-IVB,R,Oakland Coliseum,1.0,4.796242966110315,5.391354904215087
+Cutter | lower slot | low-IVB,R,Oracle Park,1.0,3.5551185432055585,4.150230481310331
+Cutter | lower slot | low-IVB,R,Oriole Park at Camden Yards,1.0,4.525386452792604,5.120498390897376
+Cutter | lower slot | low-IVB,R,PNC Park,1.0,6.597911479596964,7.193023417701736
+Cutter | lower slot | low-IVB,R,Petco Park,1.0,14.988233900354208,15.58334583845898
+Cutter | lower slot | low-IVB,R,Progressive Field,1.0,3.147665514790737,3.742777452895509
+Cutter | lower slot | low-IVB,R,Rate Field,1.0,2.7248441755747455,3.3199561136795173
+Cutter | lower slot | low-IVB,R,Rogers Centre,1.0,-0.6896977172638866,-0.0945857791591147
+Cutter | lower slot | low-IVB,R,Sutter Health Park,1.0,-34.56503357178205,-33.96992163367728
+Cutter | lower slot | low-IVB,R,T-Mobile Park,1.0,12.373644594979751,12.968756533084523
+Cutter | lower slot | low-IVB,R,Target Field,1.0,-1.4873494796122833,-0.8922375415075113
+Cutter | lower slot | low-IVB,R,Tropicana Field,1.0,-2.566817697768515,-1.971705759663743
+Cutter | lower slot | low-IVB,R,Truist Park,1.0,1.6275142201333355,2.2226261582381075
+Cutter | lower slot | low-IVB,R,Wrigley Field,1.0,1.368006188164642,1.9631181262694137
+Cutter | lower slot | low-IVB,R,Yankee Stadium,1.0,8.447105515565083,9.042217453669855
+Cutter | lower slot | low-IVB,R,loanDepot park,1.0,2.3921886299047412,2.987300568009513
+Four-seam | higher slot | high-IVB,L,American Family Field,1.0,-4.2190325551072245,-3.503132518572495
+Four-seam | higher slot | high-IVB,L,Angel Stadium,1.0,-0.39207956624650603,0.3238204702882234
+Four-seam | higher slot | high-IVB,L,Busch Stadium,1.0,18.44963346815619,19.16553350469092
+Four-seam | higher slot | high-IVB,L,Chase Field,1.0,3.0501586485871433,3.7660586851218727
+Four-seam | higher slot | high-IVB,L,Citi Field,1.0,13.362583794621624,14.078483831156355
+Four-seam | higher slot | high-IVB,L,Citizens Bank Park,1.0,-18.838328081863416,-18.122428045328686
+Four-seam | higher slot | high-IVB,L,Comerica Park,1.0,7.220068382696024,7.935968419230753
+Four-seam | higher slot | high-IVB,L,Coors Field,1.0,-37.398351890398374,-36.68245185386365
+Four-seam | higher slot | high-IVB,L,Daikin Park,1.0,-11.527747345189931,-10.811847308655203
+Four-seam | higher slot | high-IVB,L,Dodger Stadium,1.0,-8.883889191648214,-8.167989155113485
+Four-seam | higher slot | high-IVB,L,Fenway Park,1.0,-19.326187402198762,-18.610287365664032
+Four-seam | higher slot | high-IVB,L,George M. Steinbrenner Field,1.0,-13.677148750657956,-12.961248714123226
+Four-seam | higher slot | high-IVB,L,Globe Life Field,1.0,5.451608622319523,6.167508658854253
+Four-seam | higher slot | high-IVB,L,Great American Ball Park,1.0,-18.506358459291206,-17.790458422756476
+Four-seam | higher slot | high-IVB,L,Kauffman Stadium,1.0,14.232259337064637,14.948159373599367
+Four-seam | higher slot | high-IVB,L,Nationals Park,1.0,2.236275814900046,2.9521758514347756
+Four-seam | higher slot | high-IVB,L,Oakland Coliseum,1.0,6.723155373189006,7.439055409723736
+Four-seam | higher slot | high-IVB,L,Oracle Park,1.0,0.6833151476869979,1.3992151842217273
+Four-seam | higher slot | high-IVB,L,Oriole Park at Camden Yards,1.0,11.823761558551311,12.539661595086042
+Four-seam | higher slot | high-IVB,L,PNC Park,1.0,11.189696793901305,11.905596830436036
+Four-seam | higher slot | high-IVB,L,Petco Park,1.0,15.537611642394202,16.25351167892893
+Four-seam | higher slot | high-IVB,L,Progressive Field,1.0,5.22443537637358,5.9403354129083095
+Four-seam | higher slot | high-IVB,L,Rate Field,1.0,6.701217270390433,7.417117306925163
+Four-seam | higher slot | high-IVB,L,Rogers Centre,1.0,-0.08192586879766905,0.6339741677370604
+Four-seam | higher slot | high-IVB,L,Sutter Health Park,1.0,-43.38620139214213,-42.6703013556074
+Four-seam | higher slot | high-IVB,L,T-Mobile Park,1.0,13.688529192340242,14.404429228874971
+Four-seam | higher slot | high-IVB,L,Target Field,1.0,-1.6401232274967557,-0.9242231909620262
+Four-seam | higher slot | high-IVB,L,Tropicana Field,1.0,-4.283474399084849,-3.5675743625501193
+Four-seam | higher slot | high-IVB,L,Truist Park,1.0,3.557481925223219,4.2733819617579485
+Four-seam | higher slot | high-IVB,L,Wrigley Field,1.0,1.4802462367767413,2.196146273311471
+Four-seam | higher slot | high-IVB,L,Yankee Stadium,1.0,10.199389239829522,10.915289276364252
+Four-seam | higher slot | high-IVB,L,loanDepot park,1.0,8.440619136009904,9.156519172544634
+Four-seam | higher slot | high-IVB,R,American Family Field,1.0,-4.160875919967603,-3.5055141019250744
+Four-seam | higher slot | high-IVB,R,Angel Stadium,1.0,-0.4694762045657212,0.1858856134768076
+Four-seam | higher slot | high-IVB,R,Busch Stadium,1.0,21.275343035666413,21.930704853708942
+Four-seam | higher slot | high-IVB,R,Chase Field,1.0,3.5942012592739294,4.249563077316458
+Four-seam | higher slot | high-IVB,R,Citi Field,1.0,9.821413106370711,10.47677492441324
+Four-seam | higher slot | high-IVB,R,Citizens Bank Park,1.0,-18.16348091752542,-17.50811909948289
+Four-seam | higher slot | high-IVB,R,Comerica Park,1.0,6.7842846071043255,7.439646425146854
+Four-seam | higher slot | high-IVB,R,Coors Field,1.0,-36.44101743899702,-35.78565562095449
+Four-seam | higher slot | high-IVB,R,Daikin Park,1.0,-7.322549370459006,-6.667187552416477
+Four-seam | higher slot | high-IVB,R,Dodger Stadium,1.0,-3.9634114038824326,-3.3080495858399037
+Four-seam | higher slot | high-IVB,R,Fenway Park,1.0,-18.283014814755017,-17.627652996712488
+Four-seam | higher slot | high-IVB,R,George M. Steinbrenner Field,1.0,-9.31292585625342,-8.657564038210891
+Four-seam | higher slot | high-IVB,R,Globe Life Field,1.0,8.217242382912357,8.872604200954886
+Four-seam | higher slot | high-IVB,R,Great American Ball Park,1.0,-21.531767206091633,-20.876405388049104
+Four-seam | higher slot | high-IVB,R,Kauffman Stadium,1.0,12.816600259629176,13.471962077671705
+Four-seam | higher slot | high-IVB,R,Nationals Park,1.0,3.9277047691985647,4.583066587241094
+Four-seam | higher slot | high-IVB,R,Oakland Coliseum,1.0,7.121945604689265,7.777307422731794
+Four-seam | higher slot | high-IVB,R,Oracle Park,1.0,2.104656338677889,2.760018156720418
+Four-seam | higher slot | high-IVB,R,Oriole Park at Camden Yards,1.0,6.616169389564837,7.2715312076073655
+Four-seam | higher slot | high-IVB,R,PNC Park,1.0,8.287213412456005,8.942575230498534
+Four-seam | higher slot | high-IVB,R,Petco Park,1.0,17.209133066537856,17.864494884580385
+Four-seam | higher slot | high-IVB,R,Progressive Field,1.0,3.1364519643542303,3.7918137823967593
+Four-seam | higher slot | high-IVB,R,Rate Field,1.0,5.0407798758084255,5.696141693850954
+Four-seam | higher slot | high-IVB,R,Rogers Centre,1.0,-1.2913203225429362,-0.6359585045004074
+Four-seam | higher slot | high-IVB,R,Sutter Health Park,1.0,-40.48597196924886,-39.83061015120633
+Four-seam | higher slot | high-IVB,R,T-Mobile Park,1.0,13.807454549961427,14.462816368003956
+Four-seam | higher slot | high-IVB,R,Target Field,1.0,-0.15377613068136495,0.5015856873611638
+Four-seam | higher slot | high-IVB,R,Tropicana Field,1.0,-1.6533745987747888,-0.99801278073226
+Four-seam | higher slot | high-IVB,R,Truist Park,1.0,0.9524837931727949,1.6078456112153237
+Four-seam | higher slot | high-IVB,R,Wrigley Field,1.0,-1.052985909404488,-0.3976240913619592
+Four-seam | higher slot | high-IVB,R,Yankee Stadium,1.0,7.074707523429387,7.730069341471916
+Four-seam | higher slot | high-IVB,R,loanDepot park,1.0,5.526584946981199,6.181946765023728
+Four-seam | higher slot | low-IVB,L,American Family Field,1.0,-3.1152257913767474,-2.4611993303499906
+Four-seam | higher slot | low-IVB,L,Angel Stadium,1.0,-0.8994581640273337,-0.24543170300057715
+Four-seam | higher slot | low-IVB,L,Busch Stadium,1.0,14.15927902529949,14.813305486326247
+Four-seam | higher slot | low-IVB,L,Chase Field,1.0,0.5330085026553827,1.1870349636821391
+Four-seam | higher slot | low-IVB,L,Citi Field,1.0,12.544945142166648,13.198971603193405
+Four-seam | higher slot | low-IVB,L,Citizens Bank Park,1.0,-15.118139138515177,-14.464112677488421
+Four-seam | higher slot | low-IVB,L,Comerica Park,1.0,4.918105162008514,5.57213162303527
+Four-seam | higher slot | low-IVB,L,Coors Field,1.0,-32.16377040015156,-31.509743939124807
+Four-seam | higher slot | low-IVB,L,Daikin Park,1.0,-7.75843120932825,-7.104404748301493
+Four-seam | higher slot | low-IVB,L,Dodger Stadium,1.0,-5.713567358449626,-5.0595408974228695
+Four-seam | higher slot | low-IVB,L,Fenway Park,1.0,-15.805651315831389,-15.151624854804632
+Four-seam | higher slot | low-IVB,L,George M. Steinbrenner Field,1.0,-11.62406012229096,-10.970033661264203
+Four-seam | higher slot | low-IVB,L,Globe Life Field,1.0,3.849975135802868,4.5040015968296245
+Four-seam | higher slot | low-IVB,L,Great American Ball Park,1.0,-15.677371834533972,-15.023345373507215
+Four-seam | higher slot | low-IVB,L,Kauffman Stadium,1.0,10.792809477240144,11.4468359382669
+Four-seam | higher slot | low-IVB,L,Nationals Park,1.0,1.3213162985994962,1.9753427596262527
+Four-seam | higher slot | low-IVB,L,Oakland Coliseum,1.0,3.006833330193062,3.660859791219819
+Four-seam | higher slot | low-IVB,L,Oracle Park,1.0,2.12095629112101,2.774982752147767
+Four-seam | higher slot | low-IVB,L,Oriole Park at Camden Yards,1.0,9.658580895704068,10.312607356730824
+Four-seam | higher slot | low-IVB,L,PNC Park,1.0,9.517095361111442,10.171121822138199
+Four-seam | higher slot | low-IVB,L,Petco Park,1.0,12.550528421562012,13.204554882588768
+Four-seam | higher slot | low-IVB,L,Progressive Field,1.0,5.213617139335293,5.867643600362049
+Four-seam | higher slot | low-IVB,L,Rate Field,1.0,3.7565978980562447,4.410624359083001
+Four-seam | higher slot | low-IVB,L,Rogers Centre,1.0,0.558794242471091,1.2128207034978475
+Four-seam | higher slot | low-IVB,L,Sutter Health Park,1.0,-37.50970087900681,-36.85567441798005
+Four-seam | higher slot | low-IVB,L,T-Mobile Park,1.0,12.165419188708208,12.819445649734964
+Four-seam | higher slot | low-IVB,L,Target Field,1.0,-4.20834737545672,-3.5543209144299635
+Four-seam | higher slot | low-IVB,L,Tropicana Field,1.0,-5.1692750432519805,-4.515248582225224
+Four-seam | higher slot | low-IVB,L,Truist Park,1.0,4.303441816788471,4.957468277815227
+Four-seam | higher slot | low-IVB,L,Wrigley Field,1.0,5.551193305551332,6.205219766578089
+Four-seam | higher slot | low-IVB,L,Yankee Stadium,1.0,12.00759891801548,12.661625379042237
+Four-seam | higher slot | low-IVB,L,loanDepot park,1.0,5.304056326974056,5.958082788000812
+Four-seam | higher slot | low-IVB,R,American Family Field,1.0,-3.0180742115367263,-2.4421169006026395
+Four-seam | higher slot | low-IVB,R,Angel Stadium,1.0,-0.964752447350629,-0.3887951364165423
+Four-seam | higher slot | low-IVB,R,Busch Stadium,1.0,17.052459201342625,17.62841651227671
+Four-seam | higher slot | low-IVB,R,Chase Field,1.0,0.7582517792172853,1.3342090901513721
+Four-seam | higher slot | low-IVB,R,Citi Field,1.0,7.170519301717928,7.746476612652014
+Four-seam | higher slot | low-IVB,R,Citizens Bank Park,1.0,-14.783089935432429,-14.207132624498342
+Four-seam | higher slot | low-IVB,R,Comerica Park,1.0,3.9801774637751404,4.556134774709227
+Four-seam | higher slot | low-IVB,R,Coors Field,1.0,-30.746565735764722,-30.170608424830636
+Four-seam | higher slot | low-IVB,R,Daikin Park,1.0,-3.730526466452744,-3.1545691555186575
+Four-seam | higher slot | low-IVB,R,Dodger Stadium,1.0,0.04698555241134029,0.622942863345427
+Four-seam | higher slot | low-IVB,R,Fenway Park,1.0,-13.72346480882844,-13.147507497894354
+Four-seam | higher slot | low-IVB,R,George M. Steinbrenner Field,1.0,-7.181615984532441,-6.605658673598354
+Four-seam | higher slot | low-IVB,R,Globe Life Field,1.0,8.12369494776446,8.699652258698546
+Four-seam | higher slot | low-IVB,R,Great American Ball Park,1.0,-20.015202850910683,-19.439245539976596
+Four-seam | higher slot | low-IVB,R,Kauffman Stadium,1.0,7.941763636169706,8.517720947103793
+Four-seam | higher slot | low-IVB,R,Nationals Park,1.0,2.4798751666472643,3.055832477581351
+Four-seam | higher slot | low-IVB,R,Oakland Coliseum,1.0,4.390012528960159,4.965969839894246
+Four-seam | higher slot | low-IVB,R,Oracle Park,1.0,4.102431573038574,4.67838888397266
+Four-seam | higher slot | low-IVB,R,Oriole Park at Camden Yards,1.0,4.567402015398736,5.143359326332822
+Four-seam | higher slot | low-IVB,R,PNC Park,1.0,6.360622838633303,6.936580149567389
+Four-seam | higher slot | low-IVB,R,Petco Park,1.0,14.718559790436412,15.294517101370499
+Four-seam | higher slot | low-IVB,R,Progressive Field,1.0,3.416807051755729,3.9927643626898157
+Four-seam | higher slot | low-IVB,R,Rate Field,1.0,2.2750924839053437,2.8510497948394304
+Four-seam | higher slot | low-IVB,R,Rogers Centre,1.0,-0.427227300084982,0.14873001084910475
+Four-seam | higher slot | low-IVB,R,Sutter Health Park,1.0,-33.25023236171857,-32.67427505078448
+Four-seam | higher slot | low-IVB,R,T-Mobile Park,1.0,12.355643580555737,12.931600891489824
+Four-seam | higher slot | low-IVB,R,Target Field,1.0,-1.4606228374396881,-0.8846655265056014
+Four-seam | higher slot | low-IVB,R,Tropicana Field,1.0,-2.865073222221954,-2.289115911287867
+Four-seam | higher slot | low-IVB,R,Truist Park,1.0,1.977465392815397,2.553422703749484
+Four-seam | higher slot | low-IVB,R,Wrigley Field,1.0,1.7631619191329324,2.339119230067019
+Four-seam | higher slot | low-IVB,R,Yankee Stadium,1.0,8.937273587410163,9.513230898344249
+Four-seam | higher slot | low-IVB,R,loanDepot park,1.0,1.3176144012949964,1.8935717122290832
+Four-seam | lower slot | high-IVB,L,American Family Field,1.0,-4.6136272658987325,-3.8669833909859057
+Four-seam | lower slot | high-IVB,L,Angel Stadium,1.0,-0.27365795589387965,0.47298591901894715
+Four-seam | lower slot | high-IVB,L,Busch Stadium,1.0,19.465937493987635,20.212581368900462
+Four-seam | lower slot | high-IVB,L,Chase Field,1.0,3.6773928444332027,4.424036719346029
+Four-seam | lower slot | high-IVB,L,Citi Field,1.0,13.99214188949873,14.738785764411558
+Four-seam | lower slot | high-IVB,L,Citizens Bank Park,1.0,-20.165841522389854,-19.419197647477027
+Four-seam | lower slot | high-IVB,L,Comerica Park,1.0,7.982395460806536,8.729039335719364
+Four-seam | lower slot | high-IVB,L,Coors Field,1.0,-39.17239866633962,-38.42575479142679
+Four-seam | lower slot | high-IVB,L,Daikin Park,1.0,-13.236355515361033,-12.489711640448206
+Four-seam | lower slot | high-IVB,L,Dodger Stadium,1.0,-10.39862658120732,-9.651982706294493
+Four-seam | lower slot | high-IVB,L,Fenway Park,1.0,-20.72535290330455,-19.978709028391723
+Four-seam | lower slot | high-IVB,L,George M. Steinbrenner Field,1.0,-14.999334649475765,-14.252690774562938
+Four-seam | lower slot | high-IVB,L,Globe Life Field,1.0,5.746636822703051,6.493280697615878
+Four-seam | lower slot | high-IVB,L,Great American Ball Park,1.0,-19.250145580221776,-18.50350170530895
+Four-seam | lower slot | high-IVB,L,Kauffman Stadium,1.0,15.433304721211213,16.17994859612404
+Four-seam | lower slot | high-IVB,L,Nationals Park,1.0,2.273312247030838,3.0199561219436646
+Four-seam | lower slot | high-IVB,L,Oakland Coliseum,1.0,7.988984252678197,8.735628127591024
+Four-seam | lower slot | high-IVB,L,Oracle Park,1.0,0.1610612756164678,0.9077051505292946
+Four-seam | lower slot | high-IVB,L,Oriole Park at Camden Yards,1.0,13.291310359842514,14.037954234755341
+Four-seam | lower slot | high-IVB,L,PNC Park,1.0,12.125198353001535,12.871842227914362
+Four-seam | lower slot | high-IVB,L,Petco Park,1.0,16.307894970796635,17.054538845709462
+Four-seam | lower slot | high-IVB,L,Progressive Field,1.0,5.466312225574724,6.212956100487551
+Four-seam | lower slot | high-IVB,L,Rate Field,1.0,7.930914845348776,8.677558720261603
+Four-seam | lower slot | high-IVB,L,Rogers Centre,1.0,-0.18448726460642917,0.5621566103063976
+Four-seam | lower slot | high-IVB,L,Sutter Health Park,1.0,-45.716490716061244,-44.96984684114842
+Four-seam | lower slot | high-IVB,L,T-Mobile Park,1.0,14.276645728379222,15.02328960329205
+Four-seam | lower slot | high-IVB,L,Target Field,1.0,-1.02348682284335,-0.2768429479305232
+Four-seam | lower slot | high-IVB,L,Tropicana Field,1.0,-4.502652060963918,-3.756008186051091
+Four-seam | lower slot | high-IVB,L,Truist Park,1.0,3.636615687145647,4.383259562058473
+Four-seam | lower slot | high-IVB,L,Wrigley Field,1.0,0.5698648465026699,1.3165087214154967
+Four-seam | lower slot | high-IVB,L,Yankee Stadium,1.0,10.20442786796938,10.951071742882208
+Four-seam | lower slot | high-IVB,L,loanDepot park,1.0,9.839501614830036,10.586145489742863
+Four-seam | lower slot | high-IVB,R,American Family Field,1.0,-4.459847031513503,-3.796980779897698
+Four-seam | lower slot | high-IVB,R,Angel Stadium,1.0,-0.4564168263993327,0.20644942521647214
+Four-seam | lower slot | high-IVB,R,Busch Stadium,1.0,23.90110658484833,24.56397283646413
+Four-seam | lower slot | high-IVB,R,Chase Field,1.0,4.969675618855469,5.6325418704712735
+Four-seam | lower slot | high-IVB,R,Citi Field,1.0,9.511119552430348,10.173985804046152
+Four-seam | lower slot | high-IVB,R,Citizens Bank Park,1.0,-19.098333054376965,-18.435466802761162
+Four-seam | lower slot | high-IVB,R,Comerica Park,1.0,7.731625522515697,8.394491774131502
+Four-seam | lower slot | high-IVB,R,Coors Field,1.0,-37.99298707839754,-37.33012082678174
+Four-seam | lower slot | high-IVB,R,Daikin Park,1.0,-7.056766546484843,-6.393900294869038
+Four-seam | lower slot | high-IVB,R,Dodger Stadium,1.0,-3.6021018978044097,-2.939235646188605
+Four-seam | lower slot | high-IVB,R,Fenway Park,1.0,-19.73353528343371,-19.070669031817907
+Four-seam | lower slot | high-IVB,R,George M. Steinbrenner Field,1.0,-8.352165649029047,-7.689299397413242
+Four-seam | lower slot | high-IVB,R,Globe Life Field,1.0,9.20211987520129,9.864986126817096
+Four-seam | lower slot | high-IVB,R,Great American Ball Park,1.0,-23.058013557730668,-22.395147306114865
+Four-seam | lower slot | high-IVB,R,Kauffman Stadium,1.0,14.19810656910144,14.860972820717246
+Four-seam | lower slot | high-IVB,R,Nationals Park,1.0,5.191507153983624,5.8543734055994285
+Four-seam | lower slot | high-IVB,R,Oakland Coliseum,1.0,8.329281000161282,8.992147251777087
+Four-seam | lower slot | high-IVB,R,Oracle Park,1.0,1.7568117119220206,2.4196779635378256
+Four-seam | lower slot | high-IVB,R,Oriole Park at Camden Yards,1.0,5.187618356907882,5.850484608523687
+Four-seam | lower slot | high-IVB,R,PNC Park,1.0,7.880729268950854,8.543595520566658
+Four-seam | lower slot | high-IVB,R,Petco Park,1.0,18.743904549841012,19.406770801456815
+Four-seam | lower slot | high-IVB,R,Progressive Field,1.0,2.1666739267901978,2.8295401784060026
+Four-seam | lower slot | high-IVB,R,Rate Field,1.0,5.447914526500558,6.1107807781163626
+Four-seam | lower slot | high-IVB,R,Rogers Centre,1.0,-2.1259171536418795,-1.4630509020260747
+Four-seam | lower slot | high-IVB,R,Sutter Health Park,1.0,-42.100249670111026,-41.43738341849522
+Four-seam | lower slot | high-IVB,R,T-Mobile Park,1.0,14.262889317941388,14.925755569557193
+Four-seam | lower slot | high-IVB,R,Target Field,1.0,0.9034345165524169,1.5663007681682217
+Four-seam | lower slot | high-IVB,R,Tropicana Field,1.0,-0.10600783703743288,0.5568584145783719
+Four-seam | lower slot | high-IVB,R,Truist Park,1.0,-0.49721027370382487,0.16565597791197995
+Four-seam | lower slot | high-IVB,R,Wrigley Field,1.0,-3.1540752891790245,-2.4912090375632197
+Four-seam | lower slot | high-IVB,R,Yankee Stadium,1.0,5.035122449276414,5.6979887008922185
+Four-seam | lower slot | high-IVB,R,loanDepot park,1.0,6.162266595357225,6.8251328469730295
+Four-seam | lower slot | low-IVB,L,American Family Field,1.0,-3.7699526800520484,-3.0759817637401614
+Four-seam | lower slot | low-IVB,L,Angel Stadium,1.0,-0.5713401155483404,0.1226308007635466
+Four-seam | lower slot | low-IVB,L,Busch Stadium,1.0,15.986936248365474,16.68090716467736
+Four-seam | lower slot | low-IVB,L,Chase Field,1.0,1.6110225907749078,2.304993507086795
+Four-seam | lower slot | low-IVB,L,Citi Field,1.0,13.04153870604697,13.735509622358856
+Four-seam | lower slot | low-IVB,L,Citizens Bank Park,1.0,-17.230446513672593,-16.536475597360706
+Four-seam | lower slot | low-IVB,L,Comerica Park,1.0,6.056366500944728,6.750337417256615
+Four-seam | lower slot | low-IVB,L,Coors Field,1.0,-35.04324355129859,-34.349272634986704
+Four-seam | lower slot | low-IVB,L,Daikin Park,1.0,-10.310086894351404,-9.616115978039517
+Four-seam | lower slot | low-IVB,L,Dodger Stadium,1.0,-7.816725644368604,-7.122754728056717
+Four-seam | lower slot | low-IVB,L,Fenway Park,1.0,-17.57299878800054,-16.879027871688653
+Four-seam | lower slot | low-IVB,L,George M. Steinbrenner Field,1.0,-13.398273680864323,-12.704302764552436
+Four-seam | lower slot | low-IVB,L,Globe Life Field,1.0,4.682428413649618,5.376399329961505
+Four-seam | lower slot | low-IVB,L,Great American Ball Park,1.0,-17.215725624380415,-16.521754708068528
+Four-seam | lower slot | low-IVB,L,Kauffman Stadium,1.0,12.446765222613582,13.140736138925469
+Four-seam | lower slot | low-IVB,L,Nationals Park,1.0,1.4214473934286656,2.1154183097405523
+Four-seam | lower slot | low-IVB,L,Oakland Coliseum,1.0,5.088622183324479,5.782593099636366
+Four-seam | lower slot | low-IVB,L,Oracle Park,1.0,1.4146070847302574,2.1085780010421447
+Four-seam | lower slot | low-IVB,L,Oriole Park at Camden Yards,1.0,11.760706425391543,12.45467734170343
+Four-seam | lower slot | low-IVB,L,PNC Park,1.0,10.735552926957348,11.429523843269235
+Four-seam | lower slot | low-IVB,L,Petco Park,1.0,14.012626709153611,14.706597625465498
+Four-seam | lower slot | low-IVB,L,Progressive Field,1.0,5.568837284688479,6.262808201000366
+Four-seam | lower slot | low-IVB,L,Rate Field,1.0,5.602517994688505,6.296488911000392
+Four-seam | lower slot | low-IVB,L,Rogers Centre,1.0,0.45524452140465155,1.1492154377165384
+Four-seam | lower slot | low-IVB,L,Sutter Health Park,1.0,-40.787117687436066,-40.09314677112418
+Four-seam | lower slot | low-IVB,L,T-Mobile Park,1.0,13.110485924178375,13.804456840490262
+Four-seam | lower slot | low-IVB,L,Target Field,1.0,-2.8903066466527227,-2.1963357303408357
+Four-seam | lower slot | low-IVB,L,Tropicana Field,1.0,-5.269419420983967,-4.57544850467208
+Four-seam | lower slot | low-IVB,L,Truist Park,1.0,4.355889474606484,5.049860390918371
+Four-seam | lower slot | low-IVB,L,Wrigley Field,1.0,3.600359758729792,4.294330675041679
+Four-seam | lower slot | low-IVB,L,Yankee Stadium,1.0,11.654922319543068,12.348893235854955
+Four-seam | lower slot | low-IVB,L,loanDepot park,1.0,7.061690242408685,7.755661158720572
+Four-seam | lower slot | low-IVB,R,American Family Field,1.0,-3.7285067183412064,-3.127745444196124
+Four-seam | lower slot | low-IVB,R,Angel Stadium,1.0,-0.6214754180770096,-0.020714143931927054
+Four-seam | lower slot | low-IVB,R,Busch Stadium,1.0,20.89068842701513,21.491449701160214
+Four-seam | lower slot | low-IVB,R,Chase Field,1.0,2.7633919820029025,3.364153256147985
+Four-seam | lower slot | low-IVB,R,Citi Field,1.0,7.611071683819334,8.211832957964416
+Four-seam | lower slot | low-IVB,R,Citizens Bank Park,1.0,-16.68750709660942,-16.086745822464337
+Four-seam | lower slot | low-IVB,R,Comerica Park,1.0,5.596403975491516,6.197165249636598
+Four-seam | lower slot | low-IVB,R,Coors Field,1.0,-34.076087430898546,-33.47532615675346
+Four-seam | lower slot | low-IVB,R,Daikin Park,1.0,-4.339370103816751,-3.738608829671669
+Four-seam | lower slot | low-IVB,R,Dodger Stadium,1.0,-0.6793254152482363,-0.0785641411031538
+Four-seam | lower slot | low-IVB,R,Fenway Park,1.0,-16.26628333539218,-15.6655220612471
+Four-seam | lower slot | low-IVB,R,George M. Steinbrenner Field,1.0,-6.788555881005581,-6.187794606860498
+Four-seam | lower slot | low-IVB,R,Globe Life Field,1.0,9.15151280656722,9.752274080712303
+Four-seam | lower slot | low-IVB,R,Great American Ball Park,1.0,-22.044561622986656,-21.443800348841574
+Four-seam | lower slot | low-IVB,R,Kauffman Stadium,1.0,10.523334123997746,11.124095398142828
+Four-seam | lower slot | low-IVB,R,Nationals Park,1.0,4.070527687190303,4.671288961335385
+Four-seam | lower slot | low-IVB,R,Oakland Coliseum,1.0,6.210312106653907,6.811073380798989
+Four-seam | lower slot | low-IVB,R,Oracle Park,1.0,3.3373909438852167,3.9381522180302992
+Four-seam | lower slot | low-IVB,R,Oriole Park at Camden Yards,1.0,3.800014376935363,4.400775651080446
+Four-seam | lower slot | low-IVB,R,PNC Park,1.0,6.517284158534342,7.118045432679425
+Four-seam | lower slot | low-IVB,R,Petco Park,1.0,16.91724020307308,17.518001477218164
+Four-seam | lower slot | low-IVB,R,Progressive Field,1.0,2.4547168327717706,3.055478106916853
+Four-seam | lower slot | low-IVB,R,Rate Field,1.0,3.335185191183533,3.9359464653286156
+Four-seam | lower slot | low-IVB,R,Rogers Centre,1.0,-1.4953103185568035,-0.894549044411721
+Four-seam | lower slot | low-IVB,R,Sutter Health Park,1.0,-36.77092481028707,-36.170163536141985
+Four-seam | lower slot | low-IVB,R,T-Mobile Park,1.0,13.339979556879415,13.940740831024497
+Four-seam | lower slot | low-IVB,R,Target Field,1.0,-0.04504369914779945,0.555717574997283
+Four-seam | lower slot | low-IVB,R,Tropicana Field,1.0,-1.0238593548978117,-0.42309808075272914
+Four-seam | lower slot | low-IVB,R,Truist Park,1.0,0.29318437489843063,0.8939456490435131
+Four-seam | lower slot | low-IVB,R,Wrigley Field,1.0,-0.9241400703813526,-0.3233787962362701
+Four-seam | lower slot | low-IVB,R,Yankee Stadium,1.0,6.535639019752095,7.136400293897177
+Four-seam | lower slot | low-IVB,R,loanDepot park,1.0,2.9187130523524756,3.519474326497558
+Sinker | higher slot | high-IVB,L,American Family Field,1.0,-2.3261057809029513,-1.7368105607132471
+Sinker | higher slot | high-IVB,L,Angel Stadium,1.0,-1.5298090986891637,-0.9405138784994596
+Sinker | higher slot | high-IVB,L,Busch Stadium,1.0,12.520004249904268,13.109299470093973
+Sinker | higher slot | high-IVB,L,Chase Field,1.0,-0.8472924765668809,-0.25799725637717674
+Sinker | higher slot | high-IVB,L,Citi Field,1.0,8.343812246392716,8.93310746658242
+Sinker | higher slot | high-IVB,L,Citizens Bank Park,1.0,-13.421569058113302,-12.832273837923598
+Sinker | higher slot | high-IVB,L,Comerica Park,1.0,2.9576337094592673,3.5469289296489714
+Sinker | higher slot | high-IVB,L,Coors Field,1.0,-28.05789410813619,-27.468598887946484
+Sinker | higher slot | high-IVB,L,Daikin Park,1.0,-5.349852514852905,-4.760557294663201
+Sinker | higher slot | high-IVB,L,Dodger Stadium,1.0,-1.4643484356281682,-0.875053215438464
+Sinker | higher slot | high-IVB,L,Fenway Park,1.0,-12.060879316247371,-11.471584096057667
+Sinker | higher slot | high-IVB,L,George M. Steinbrenner Field,1.0,-9.504971986131249,-8.915676765941544
+Sinker | higher slot | high-IVB,L,Globe Life Field,1.0,6.088002730067184,6.677297950256888
+Sinker | higher slot | high-IVB,L,Great American Ball Park,1.0,-16.787108809806927,-16.197813589617223
+Sinker | higher slot | high-IVB,L,Kauffman Stadium,1.0,6.721572823918655,7.310868044108359
+Sinker | higher slot | high-IVB,L,Nationals Park,1.0,0.52590014243636,1.1151953626260642
+Sinker | higher slot | high-IVB,L,Oakland Coliseum,1.0,2.8038425206227524,3.3931377408124566
+Sinker | higher slot | high-IVB,L,Oracle Park,1.0,3.9825853315269666,4.571880551716671
+Sinker | higher slot | high-IVB,L,Oriole Park at Camden Yards,1.0,7.220031917418739,7.809327137608443
+Sinker | higher slot | high-IVB,L,PNC Park,1.0,7.348471222647479,7.937766442837184
+Sinker | higher slot | high-IVB,L,Petco Park,1.0,12.130620557874304,12.719915778064008
+Sinker | higher slot | high-IVB,L,Progressive Field,1.0,4.966967721975404,5.556262942165109
+Sinker | higher slot | high-IVB,L,Rate Field,1.0,2.2280945263150675,2.8173897465047717
+Sinker | higher slot | high-IVB,L,Rogers Centre,1.0,1.1404543804933165,1.7297496006830206
+Sinker | higher slot | high-IVB,L,Sutter Health Park,1.0,-31.541222292785726,-30.95192707259602
+Sinker | higher slot | high-IVB,L,T-Mobile Park,1.0,11.09051488846707,11.679810108656774
+Sinker | higher slot | high-IVB,L,Target Field,1.0,-3.475563057540431,-2.8862678373507267
+Sinker | higher slot | high-IVB,L,Tropicana Field,1.0,-5.4299318617445245,-4.84063664155482
+Sinker | higher slot | high-IVB,L,Truist Park,1.0,4.532799444867404,5.122094665057109
+Sinker | higher slot | high-IVB,L,Wrigley Field,1.0,4.92462608778087,5.513921307970573
+Sinker | higher slot | high-IVB,L,Yankee Stadium,1.0,12.07994664403696,12.669241864226665
+Sinker | higher slot | high-IVB,L,loanDepot park,1.0,1.3332206048704713,1.9225158250601755
+Sinker | higher slot | high-IVB,R,American Family Field,1.0,-2.0409468952165426,-1.4438923179344234
+Sinker | higher slot | high-IVB,R,Angel Stadium,1.0,-1.7890489184628244,-1.1919943411807052
+Sinker | higher slot | high-IVB,R,Busch Stadium,1.0,12.295210490033865,12.892265067315984
+Sinker | higher slot | high-IVB,R,Chase Field,1.0,-0.7171115909111891,-0.12005701362906995
+Sinker | higher slot | high-IVB,R,Citi Field,1.0,11.153898907410362,11.75095348469248
+Sinker | higher slot | high-IVB,R,Citizens Bank Park,1.0,-12.200045757976682,-11.602991180694563
+Sinker | higher slot | high-IVB,R,Comerica Park,1.0,3.444454499254235,4.041509076536355
+Sinker | higher slot | high-IVB,R,Coors Field,1.0,-27.661575634292717,-27.064521057010598
+Sinker | higher slot | high-IVB,R,Daikin Park,1.0,-3.5601430858030434,-2.963088508520924
+Sinker | higher slot | high-IVB,R,Dodger Stadium,1.0,-1.8472610690008044,-1.2502064917186853
+Sinker | higher slot | high-IVB,R,Fenway Park,1.0,-13.947553636008204,-13.350499058726085
+Sinker | higher slot | high-IVB,R,George M. Steinbrenner Field,1.0,-8.42556270928048,-7.828508131998362
+Sinker | higher slot | high-IVB,R,Globe Life Field,1.0,3.318881676473539,3.9159362537556586
+Sinker | higher slot | high-IVB,R,Great American Ball Park,1.0,-14.205061064412204,-13.608006487130085
+Sinker | higher slot | high-IVB,R,Kauffman Stadium,1.0,8.40858082617858,9.0056354034607
+Sinker | higher slot | high-IVB,R,Nationals Park,1.0,1.6117837339606318,2.2088383112427508
+Sinker | higher slot | high-IVB,R,Oakland Coliseum,1.0,0.7550574994347157,1.3521120767168349
+Sinker | higher slot | high-IVB,R,Oracle Park,1.0,3.1656925449856717,3.7627471222677906
+Sinker | higher slot | high-IVB,R,Oriole Park at Camden Yards,1.0,5.5908829032429335,6.187937480525052
+Sinker | higher slot | high-IVB,R,PNC Park,1.0,7.419040518393366,8.016095095675485
+Sinker | higher slot | high-IVB,R,Petco Park,1.0,10.951739219911332,11.54879379719345
+Sinker | higher slot | high-IVB,R,Progressive Field,1.0,4.156870112519125,4.753924689801244
+Sinker | higher slot | high-IVB,R,Rate Field,1.0,1.1984008859905977,1.7954554632727169
+Sinker | higher slot | high-IVB,R,Rogers Centre,1.0,0.2064569821229011,0.8035115594050203
+Sinker | higher slot | high-IVB,R,Sutter Health Park,1.0,-32.85638081501916,-32.259326237737035
+Sinker | higher slot | high-IVB,R,T-Mobile Park,1.0,10.85788426786397,11.454938845146089
+Sinker | higher slot | high-IVB,R,Target Field,1.0,-5.5643393483078905,-4.9672847710257715
+Sinker | higher slot | high-IVB,R,Tropicana Field,1.0,-4.621047604131898,-4.023993026849779
+Sinker | higher slot | high-IVB,R,Truist Park,1.0,3.521712985949497,4.118767563231616
+Sinker | higher slot | high-IVB,R,Wrigley Field,1.0,7.483039730572885,8.080094307855004
+Sinker | higher slot | high-IVB,R,Yankee Stadium,1.0,11.835934623022126,12.432989200304245
+Sinker | higher slot | high-IVB,R,loanDepot park,1.0,2.9548092484754926,3.5518638257576116
+Sinker | higher slot | low-IVB,L,American Family Field,1.0,-0.9145559839174265,-0.3679552645527412
+Sinker | higher slot | low-IVB,L,Angel Stadium,1.0,-2.917459125279534,-2.3708584059148485
+Sinker | higher slot | low-IVB,L,Busch Stadium,1.0,8.137611454303896,8.68421217366858
+Sinker | higher slot | low-IVB,L,Chase Field,1.0,-3.1621900625841564,-2.615589343219471
+Sinker | higher slot | low-IVB,L,Citi Field,1.0,8.180379135085257,8.726979854449942
+Sinker | higher slot | low-IVB,L,Citizens Bank Park,1.0,-9.505548719794051,-8.958948000429366
+Sinker | higher slot | low-IVB,L,Comerica Park,1.0,0.8832912727734269,1.4298919921381121
+Sinker | higher slot | low-IVB,L,Coors Field,1.0,-21.873460082100376,-21.32685936273569
+Sinker | higher slot | low-IVB,L,Daikin Park,1.0,-1.4696527576792384,-0.9230520383145531
+Sinker | higher slot | low-IVB,L,Dodger Stadium,1.0,1.9864476083765146,2.5330483277412
+Sinker | higher slot | low-IVB,L,Fenway Park,1.0,-9.722755874773924,-9.176155155409239
+Sinker | higher slot | low-IVB,L,George M. Steinbrenner Field,1.0,-7.5039387730427825,-6.957338053678097
+Sinker | higher slot | low-IVB,L,Globe Life Field,1.0,4.106900854951408,4.653501574316094
+Sinker | higher slot | low-IVB,L,Great American Ball Park,1.0,-13.253824323245585,-12.7072236038809
+Sinker | higher slot | low-IVB,L,Kauffman Stadium,1.0,3.9853347879160745,4.53193550728076
+Sinker | higher slot | low-IVB,L,Nationals Park,1.0,-0.04528215836598172,0.5013185609987036
+Sinker | higher slot | low-IVB,L,Oakland Coliseum,1.0,-0.8042119545154588,-0.25761123515077344
+Sinker | higher slot | low-IVB,L,Oracle Park,1.0,5.188537316445566,5.735138035810252
+Sinker | higher slot | low-IVB,L,Oriole Park at Camden Yards,1.0,4.095310106290215,4.6419108256549
+Sinker | higher slot | low-IVB,L,PNC Park,1.0,5.699509288585135,6.24611000794982
+Sinker | higher slot | low-IVB,L,Petco Park,1.0,8.739359433761342,9.285960153126027
+Sinker | higher slot | low-IVB,L,Progressive Field,1.0,4.401570091330733,4.948170810695418
+Sinker | higher slot | low-IVB,L,Rate Field,1.0,-0.649430536744483,-0.10282981737979768
+Sinker | higher slot | low-IVB,L,Rogers Centre,1.0,1.450519167472403,1.9971198868370883
+Sinker | higher slot | low-IVB,L,Sutter Health Park,1.0,-26.110249884979535,-25.563649165614848
+Sinker | higher slot | low-IVB,L,T-Mobile Park,1.0,9.018524034358563,9.565124753723248
+Sinker | higher slot | low-IVB,L,Target Field,1.0,-6.824342864012269,-6.2777421446475845
+Sinker | higher slot | low-IVB,L,Tropicana Field,1.0,-6.341771746353231,-5.795171026988546
+Sinker | higher slot | low-IVB,L,Truist Park,1.0,4.923978094852342,5.470578814217028
+Sinker | higher slot | low-IVB,L,Wrigley Field,1.0,9.711558791733005,10.25815951109769
+Sinker | higher slot | low-IVB,L,Yankee Stadium,1.0,14.037473912664593,14.584074632029278
+Sinker | higher slot | low-IVB,L,loanDepot park,1.0,-0.9388535231823752,-0.3922528038176899
+Sinker | higher slot | low-IVB,R,American Family Field,1.0,-1.072325224560026,-0.5306882341179624
+Sinker | higher slot | low-IVB,R,Angel Stadium,1.0,-2.683543720352346,-2.141906729910282
+Sinker | higher slot | low-IVB,R,Busch Stadium,1.0,9.520181622440253,10.061818612882316
+Sinker | higher slot | low-IVB,R,Chase Field,1.0,-2.725411377762767,-2.183774387320703
+Sinker | higher slot | low-IVB,R,Citi Field,1.0,8.26327305017952,8.804910040621584
+Sinker | higher slot | low-IVB,R,Citizens Bank Park,1.0,-9.76185407676573,-9.220217086323666
+Sinker | higher slot | low-IVB,R,Comerica Park,1.0,1.3097644730500586,1.8514014634921223
+Sinker | higher slot | low-IVB,R,Coors Field,1.0,-22.75772685792291,-22.216089867480846
+Sinker | higher slot | low-IVB,R,Daikin Park,1.0,-0.6049760694640857,-0.06333907902202196
+Sinker | higher slot | low-IVB,R,Dodger Stadium,1.0,2.201107029609662,2.7427440200517257
+Sinker | higher slot | low-IVB,R,Fenway Park,1.0,-10.76314181071455,-10.221504820272488
+Sinker | higher slot | low-IVB,R,George M. Steinbrenner Field,1.0,-6.559013355128576,-6.017376364686512
+Sinker | higher slot | low-IVB,R,Globe Life Field,1.0,4.181490831746154,4.723127822188218
+Sinker | higher slot | low-IVB,R,Great American Ball Park,1.0,-13.906448221877453,-13.36481123143539
+Sinker | higher slot | low-IVB,R,Kauffman Stadium,1.0,4.51111824540605,5.052755235848114
+Sinker | higher slot | low-IVB,R,Nationals Park,1.0,0.7024818501370382,1.244118840579102
+Sinker | higher slot | low-IVB,R,Oakland Coliseum,1.0,-0.5460042533690999,-0.004367262927036153
+Sinker | higher slot | low-IVB,R,Oracle Park,1.0,4.977107853620017,5.5187448440620805
+Sinker | higher slot | low-IVB,R,Oriole Park at Camden Yards,1.0,3.259207700367993,3.800844690810057
+Sinker | higher slot | low-IVB,R,PNC Park,1.0,5.562727236022367,6.104364226464431
+Sinker | higher slot | low-IVB,R,Petco Park,1.0,9.43180574461624,9.973442735058303
+Sinker | higher slot | low-IVB,R,Progressive Field,1.0,3.9045126614270926,4.446149651869156
+Sinker | higher slot | low-IVB,R,Rate Field,1.0,-0.7313697650061853,-0.18973277456412163
+Sinker | higher slot | low-IVB,R,Rogers Centre,1.0,0.6628091290552924,1.2044461194973561
+Sinker | higher slot | low-IVB,R,Sutter Health Park,1.0,-27.07089189271926,-26.529254902277195
+Sinker | higher slot | low-IVB,R,T-Mobile Park,1.0,9.634314296709679,10.175951287151742
+Sinker | higher slot | low-IVB,R,Target Field,1.0,-6.2547144892240425,-5.713077498781979
+Sinker | higher slot | low-IVB,R,Tropicana Field,1.0,-5.4754592997454,-4.933822309303336
+Sinker | higher slot | low-IVB,R,Truist Park,1.0,3.9161166750930714,4.457753665535135
+Sinker | higher slot | low-IVB,R,Wrigley Field,1.0,8.974662429473538,9.516299419915601
+Sinker | higher slot | low-IVB,R,Yankee Stadium,1.0,12.99641133034571,13.538048320787773
+Sinker | higher slot | low-IVB,R,loanDepot park,1.0,-0.42859543883334134,0.11304155160872237
+Sinker | lower slot | high-IVB,L,American Family Field,1.0,-2.8273311732644992,-2.217265446482085
+Sinker | lower slot | high-IVB,L,Angel Stadium,1.0,-1.2402031425130988,-0.6301374157306845
+Sinker | lower slot | high-IVB,L,Busch Stadium,1.0,14.355761180501386,14.9658269072838
+Sinker | lower slot | high-IVB,L,Chase Field,1.0,0.011764325188644415,0.6218300519710588
+Sinker | lower slot | high-IVB,L,Citi Field,1.0,8.545551618630018,9.155617345412432
+Sinker | lower slot | high-IVB,L,Citizens Bank Park,1.0,-14.865644691255376,-14.255578964472962
+Sinker | lower slot | high-IVB,L,Comerica Park,1.0,3.783973829955603,4.394039556738017
+Sinker | lower slot | high-IVB,L,Coors Field,1.0,-30.190324565675198,-29.58025883889278
+Sinker | lower slot | high-IVB,L,Daikin Park,1.0,-6.488891460853126,-5.878825734070712
+Sinker | lower slot | high-IVB,L,Dodger Stadium,1.0,-2.436257455312624,-1.8261917285302096
+Sinker | lower slot | high-IVB,L,Fenway Park,1.0,-13.44870941371126,-12.838643686928846
+Sinker | lower slot | high-IVB,L,George M. Steinbrenner Field,1.0,-10.12566130951963,-9.515595582737216
+Sinker | lower slot | high-IVB,L,Globe Life Field,1.0,6.83553355050718,7.4455992772895945
+Sinker | lower slot | high-IVB,L,Great American Ball Park,1.0,-18.15362227508568,-17.543556548303265
+Sinker | lower slot | high-IVB,L,Kauffman Stadium,1.0,7.915828129701898,8.525893856484313
+Sinker | lower slot | high-IVB,L,Nationals Park,1.0,0.9274411529095373,1.5375068796919518
+Sinker | lower slot | high-IVB,L,Oakland Coliseum,1.0,4.215791415513273,4.825857142295687
+Sinker | lower slot | high-IVB,L,Oracle Park,1.0,3.5937714360936486,4.203837162876063
+Sinker | lower slot | high-IVB,L,Oriole Park at Camden Yards,1.0,7.9461789335177215,8.556244660300136
+Sinker | lower slot | high-IVB,L,PNC Park,1.0,7.922541724914571,8.532607451696986
+Sinker | lower slot | high-IVB,L,Petco Park,1.0,13.36183036814257,13.971896094924984
+Sinker | lower slot | high-IVB,L,Progressive Field,1.0,4.898935952531828,5.509001679314243
+Sinker | lower slot | high-IVB,L,Rate Field,1.0,3.265813470186441,3.8758791969688553
+Sinker | lower slot | high-IVB,L,Rogers Centre,1.0,0.7681727712891963,1.3782384980716107
+Sinker | lower slot | high-IVB,L,Sutter Health Park,1.0,-33.777095325705254,-33.16702959892284
+Sinker | lower slot | high-IVB,L,T-Mobile Park,1.0,11.8649333449965,12.474999071778914
+Sinker | lower slot | high-IVB,L,Target Field,1.0,-2.44192266367471,-1.8318569368922955
+Sinker | lower slot | high-IVB,L,Tropicana Field,1.0,-5.061746166806355,-4.4516804400239405
+Sinker | lower slot | high-IVB,L,Truist Park,1.0,4.106388282612602,4.716454009395016
+Sinker | lower slot | high-IVB,L,Wrigley Field,1.0,3.4101642859898815,4.020230012772296
+Sinker | lower slot | high-IVB,L,Yankee Stadium,1.0,11.40486504183782,12.014930768620234
+Sinker | lower slot | high-IVB,L,loanDepot park,1.0,2.4000655713192334,3.0101312981016477
+Sinker | lower slot | high-IVB,R,American Family Field,1.0,-2.447659788606167,-1.8489363647507557
+Sinker | lower slot | high-IVB,R,Angel Stadium,1.0,-1.4882061373872542,-0.889482713531843
+Sinker | lower slot | high-IVB,R,Busch Stadium,1.0,14.043047283513419,14.64177070736883
+Sinker | lower slot | high-IVB,R,Chase Field,1.0,-0.08351021924106876,0.5152132046143424
+Sinker | lower slot | high-IVB,R,Citi Field,1.0,10.669462736371631,11.268186160227042
+Sinker | lower slot | high-IVB,R,Citizens Bank Park,1.0,-13.076976229513322,-12.478252805657911
+Sinker | lower slot | high-IVB,R,Comerica Park,1.0,3.867237899285518,4.465961323140929
+Sinker | lower slot | high-IVB,R,Coors Field,1.0,-29.083539947562116,-28.484816523706705
+Sinker | lower slot | high-IVB,R,Daikin Park,1.0,-3.6020408661319188,-3.003317442276508
+Sinker | lower slot | high-IVB,R,Dodger Stadium,1.0,-1.6173465870113348,-1.0186231631559237
+Sinker | lower slot | high-IVB,R,Fenway Park,1.0,-14.471203341311691,-13.87247991745628
+Sinker | lower slot | high-IVB,R,George M. Steinbrenner Field,1.0,-8.117066358683417,-7.518342934828006
+Sinker | lower slot | high-IVB,R,Globe Life Field,1.0,4.359629831273488,4.958353255128899
+Sinker | lower slot | high-IVB,R,Great American Ball Park,1.0,-15.709364812983763,-15.110641389128352
+Sinker | lower slot | high-IVB,R,Kauffman Stadium,1.0,8.936210249700569,9.53493367355598
+Sinker | lower slot | high-IVB,R,Nationals Park,1.0,2.138212590443886,2.736936014299297
+Sinker | lower slot | high-IVB,R,Oakland Coliseum,1.0,1.6572225286141515,2.2559459524695624
+Sinker | lower slot | high-IVB,R,Oracle Park,1.0,3.2627300091722127,3.8614534330276236
+Sinker | lower slot | high-IVB,R,Oriole Park at Camden Yards,1.0,5.229763416317114,5.828486840172525
+Sinker | lower slot | high-IVB,R,PNC Park,1.0,7.260975958923498,7.859699382778909
+Sinker | lower slot | high-IVB,R,Petco Park,1.0,12.062397155047071,12.661120578902482
+Sinker | lower slot | high-IVB,R,Progressive Field,1.0,3.7828649919503228,4.381588415805734
+Sinker | lower slot | high-IVB,R,Rate Field,1.0,1.541489859264291,2.140213283119702
+Sinker | lower slot | high-IVB,R,Rogers Centre,1.0,-0.1629574402442171,0.435765983611194
+Sinker | lower slot | high-IVB,R,Sutter Health Park,1.0,-33.74961793754793,-33.15089451369252
+Sinker | lower slot | high-IVB,R,T-Mobile Park,1.0,11.407456072465648,12.006179496321058
+Sinker | lower slot | high-IVB,R,Target Field,1.0,-4.6848161274241855,-4.086092703568775
+Sinker | lower slot | high-IVB,R,Tropicana Field,1.0,-3.9113442233101643,-3.312620799454753
+Sinker | lower slot | high-IVB,R,Truist Park,1.0,2.853446754389658,3.452170178245069
+Sinker | lower slot | high-IVB,R,Wrigley Field,1.0,6.128210796803872,6.726934220659283
+Sinker | lower slot | high-IVB,R,Yankee Stadium,1.0,10.90587219079782,11.504595614653232
+Sinker | lower slot | high-IVB,R,loanDepot park,1.0,2.9402701292512248,3.5389935531066357
+Sinker | lower slot | low-IVB,L,American Family Field,1.0,-1.2668941272158654,-0.7232380671929908
+Sinker | lower slot | low-IVB,L,Angel Stadium,1.0,-2.585982976520218,-2.0423269164973434
+Sinker | lower slot | low-IVB,L,Busch Stadium,1.0,9.4032224201539,9.946878480176775
+Sinker | lower slot | low-IVB,L,Chase Field,1.0,-2.8245680221590863,-2.2809119621362117
+Sinker | lower slot | low-IVB,L,Citi Field,1.0,6.867529266898371,7.411185326921245
+Sinker | lower slot | low-IVB,L,Citizens Bank Park,1.0,-10.617019321426131,-10.073363261403257
+Sinker | lower slot | low-IVB,L,Comerica Park,1.0,1.0098124670231168,1.5534685270459914
+Sinker | lower slot | low-IVB,L,Coors Field,1.0,-23.02786336252986,-22.484207302506984
+Sinker | lower slot | low-IVB,L,Daikin Park,1.0,-2.215295399758916,-1.6716393397360414
+Sinker | lower slot | low-IVB,L,Dodger Stadium,1.0,2.082412135353343,2.6260681953762175
+Sinker | lower slot | low-IVB,L,Fenway Park,1.0,-9.55458609229199,-9.010930032269115
+Sinker | lower slot | low-IVB,L,George M. Steinbrenner Field,1.0,-7.720142305325213,-7.176486245302339
+Sinker | lower slot | low-IVB,L,Globe Life Field,1.0,5.7442112747931615,6.2878673348160365
+Sinker | lower slot | low-IVB,L,Great American Ball Park,1.0,-15.178849263222913,-14.63519320320004
+Sinker | lower slot | low-IVB,L,Kauffman Stadium,1.0,3.660202306741835,4.20385836676471
+Sinker | lower slot | low-IVB,L,Nationals Park,1.0,-0.14422136193091514,0.3994346980919594
+Sinker | lower slot | low-IVB,L,Oakland Coliseum,1.0,0.6638801904022057,1.2075362504250804
+Sinker | lower slot | low-IVB,L,Oracle Park,1.0,5.438650688512221,5.9823067485350965
+Sinker | lower slot | low-IVB,L,Oriole Park at Camden Yards,1.0,4.6051652553983855,5.1488213154212605
+Sinker | lower slot | low-IVB,L,PNC Park,1.0,5.732334983569334,6.275991043592208
+Sinker | lower slot | low-IVB,L,Petco Park,1.0,9.940812468568238,10.484468528591112
+Sinker | lower slot | low-IVB,L,Progressive Field,1.0,4.555540160600813,5.099196220623687
+Sinker | lower slot | low-IVB,L,Rate Field,1.0,0.03320322131080036,0.5768592813336749
+Sinker | lower slot | low-IVB,L,Rogers Centre,1.0,1.4571818018856328,2.0008378619085074
+Sinker | lower slot | low-IVB,L,Sutter Health Park,1.0,-26.376421315608237,-25.83276525558536
+Sinker | lower slot | low-IVB,L,T-Mobile Park,1.0,9.581858683905013,10.125514743927887
+Sinker | lower slot | low-IVB,L,Target Field,1.0,-5.263916831251114,-4.72026077122824
+Sinker | lower slot | low-IVB,L,Tropicana Field,1.0,-6.221361124864908,-5.6777050648420335
+Sinker | lower slot | low-IVB,L,Truist Park,1.0,4.852968225731876,5.396624285754751
+Sinker | lower slot | low-IVB,L,Wrigley Field,1.0,7.770682460246372,8.314338520269247
+Sinker | lower slot | low-IVB,L,Yankee Stadium,1.0,13.524019470358724,14.067675530381598
+Sinker | lower slot | low-IVB,L,loanDepot park,1.0,-1.3235598980799703,-0.7799038380570957
+Sinker | lower slot | low-IVB,R,American Family Field,1.0,-1.257732528839159,-0.7163377275268895
+Sinker | lower slot | low-IVB,R,Angel Stadium,1.0,-2.4530302561942934,-1.911635454882024
+Sinker | lower slot | low-IVB,R,Busch Stadium,1.0,10.231398535527719,10.772793336839989
+Sinker | lower slot | low-IVB,R,Chase Field,1.0,-2.412339195757481,-1.8709443944452118
+Sinker | lower slot | low-IVB,R,Citi Field,1.0,8.331267581279015,8.872662382591285
+Sinker | lower slot | low-IVB,R,Citizens Bank Park,1.0,-10.077712530371778,-9.536317729059508
+Sinker | lower slot | low-IVB,R,Comerica Park,1.0,1.5392166115731358,2.080611412885405
+Sinker | lower slot | low-IVB,R,Coors Field,1.0,-23.506932661739263,-22.965537860426995
+Sinker | lower slot | low-IVB,R,Daikin Park,1.0,-0.6198885043347158,-0.07849370302244629
+Sinker | lower slot | low-IVB,R,Dodger Stadium,1.0,2.0746410905723627,2.616035891884632
+Sinker | lower slot | low-IVB,R,Fenway Park,1.0,-10.981186845477936,-10.439792044165666
+Sinker | lower slot | low-IVB,R,George M. Steinbrenner Field,1.0,-6.400080933854886,-5.8586861325426165
+Sinker | lower slot | low-IVB,R,Globe Life Field,1.0,4.3491358544104095,4.890530655722679
+Sinker | lower slot | low-IVB,R,Great American Ball Park,1.0,-14.281539572628155,-13.740144771315885
+Sinker | lower slot | low-IVB,R,Kauffman Stadium,1.0,4.89345485426265,5.4348496555749195
+Sinker | lower slot | low-IVB,R,Nationals Park,1.0,0.9679925519803875,1.509387353292657
+Sinker | lower slot | low-IVB,R,Oakland Coliseum,1.0,-0.3860210526185168,0.15537374869375264
+Sinker | lower slot | low-IVB,R,Oracle Park,1.0,4.902694111177615,5.444088912489884
+Sinker | lower slot | low-IVB,R,Oriole Park at Camden Yards,1.0,3.142988323561515,3.684383124873784
+Sinker | lower slot | low-IVB,R,PNC Park,1.0,5.547021400152085,6.088416201464354
+Sinker | lower slot | low-IVB,R,Petco Park,1.0,9.824356758185543,10.365751559497813
+Sinker | lower slot | low-IVB,R,Progressive Field,1.0,3.7868044971943546,4.328199298506624
+Sinker | lower slot | low-IVB,R,Rate Field,1.0,-0.6589196985476723,-0.11752489723540283
+Sinker | lower slot | low-IVB,R,Rogers Centre,1.0,0.5186796046103441,1.0600744059226135
+Sinker | lower slot | low-IVB,R,Sutter Health Park,1.0,-27.567177636909364,-27.025782835597095
+Sinker | lower slot | low-IVB,R,T-Mobile Park,1.0,9.857752056758457,10.399146858070727
+Sinker | lower slot | low-IVB,R,Target Field,1.0,-5.994881820059439,-5.45348701874717
+Sinker | lower slot | low-IVB,R,Tropicana Field,1.0,-5.0800400791865865,-4.538645277874317
+Sinker | lower slot | low-IVB,R,Truist Park,1.0,3.6464097511044002,4.18780455241667
+Sinker | lower slot | low-IVB,R,Wrigley Field,1.0,8.541402647124071,9.082797448436342
+Sinker | lower slot | low-IVB,R,Yankee Stadium,1.0,12.546073921354456,13.087468722666726
+Sinker | lower slot | low-IVB,R,loanDepot park,1.0,-0.34844047630189384,0.19295432501037563
+Slider | higher slot | high-IVB,L,American Family Field,1.0,-2.887474754942953,-2.2675616021203537
+Slider | higher slot | high-IVB,L,Angel Stadium,1.0,-1.547891445663084,-0.9279782928404845
+Slider | higher slot | high-IVB,L,Busch Stadium,1.0,16.161345856579207,16.781259009401808
+Slider | higher slot | high-IVB,L,Chase Field,1.0,1.0442860260028037,1.6641991788254031
+Slider | higher slot | high-IVB,L,Citi Field,1.0,9.130724527552085,9.750637680374684
+Slider | higher slot | high-IVB,L,Citizens Bank Park,1.0,-15.128585350259986,-14.508672197437386
+Slider | higher slot | high-IVB,L,Comerica Park,1.0,4.560760113227211,5.18067326604981
+Slider | higher slot | high-IVB,L,Coors Field,1.0,-30.83916902431959,-30.21925587149699
+Slider | higher slot | high-IVB,L,Daikin Park,1.0,-5.703905163944423,-5.083992011121824
+Slider | higher slot | high-IVB,L,Dodger Stadium,1.0,-1.9888938726723877,-1.3689807198497883
+Slider | higher slot | high-IVB,L,Fenway Park,1.0,-15.109999621015247,-14.490086468192647
+Slider | higher slot | high-IVB,L,George M. Steinbrenner Field,1.0,-9.090479116988693,-8.470565964166093
+Slider | higher slot | high-IVB,L,Globe Life Field,1.0,6.830504776084011,7.45041792890661
+Slider | higher slot | high-IVB,L,Great American Ball Park,1.0,-18.411610999605546,-17.791697846782945
+Slider | higher slot | high-IVB,L,Kauffman Stadium,1.0,9.437081099940576,10.056994252763175
+Slider | higher slot | high-IVB,L,Nationals Park,1.0,2.197596378158894,2.8175095309814933
+Slider | higher slot | high-IVB,L,Oakland Coliseum,1.0,4.511939244091297,5.131852396913897
+Slider | higher slot | high-IVB,L,Oracle Park,1.0,3.1941098672633266,3.814023020085926
+Slider | higher slot | high-IVB,L,Oriole Park at Camden Yards,1.0,6.041104083943242,6.661017236765842
+Slider | higher slot | high-IVB,L,PNC Park,1.0,7.5481043786890085,8.168017531511609
+Slider | higher slot | high-IVB,L,Petco Park,1.0,14.003761973634333,14.623675126456932
+Slider | higher slot | high-IVB,L,Progressive Field,1.0,3.799840451025125,4.419753603847724
+Slider | higher slot | high-IVB,L,Rate Field,1.0,3.19947930787572,3.8193924606983196
+Slider | higher slot | high-IVB,L,Rogers Centre,1.0,-0.12069431730706154,0.49921883551553786
+Slider | higher slot | high-IVB,L,Sutter Health Park,1.0,-35.1336977476236,-34.513784594801
+Slider | higher slot | high-IVB,L,T-Mobile Park,1.0,11.887534884239171,12.50744803706177
+Slider | higher slot | high-IVB,L,Target Field,1.0,-2.5071994372660096,-1.8872862844434102
+Slider | higher slot | high-IVB,L,Tropicana Field,1.0,-3.7211672535432965,-3.101254100720697
+Slider | higher slot | high-IVB,L,Truist Park,1.0,2.7160309097870687,3.335944062609668
+Slider | higher slot | high-IVB,L,Wrigley Field,1.0,2.8602329348723643,3.4801460876949637
+Slider | higher slot | high-IVB,L,Yankee Stadium,1.0,9.95550580011241,10.57541895293501
+Slider | higher slot | high-IVB,L,loanDepot park,1.0,3.273604601750843,3.8935177545734425
+Slider | higher slot | high-IVB,R,American Family Field,0.9999999999999999,-2.9786552096620764,-2.323257410791432
+Slider | higher slot | high-IVB,R,Angel Stadium,0.9999999999999999,-1.5366833794020458,-0.881285580531401
+Slider | higher slot | high-IVB,R,Busch Stadium,0.9999999999999999,15.59030545196649,16.245703250837135
+Slider | higher slot | high-IVB,R,Chase Field,0.9999999999999999,1.2471732488480134,1.9025710477186581
+Slider | higher slot | high-IVB,R,Citi Field,0.9999999999999999,11.747651485454094,12.403049284324739
+Slider | higher slot | high-IVB,R,Citizens Bank Park,0.9999999999999999,-15.246694894768952,-14.591297095898307
+Slider | higher slot | high-IVB,R,Comerica Park,0.9999999999999999,5.250012195967379,5.905409994838024
+Slider | higher slot | high-IVB,R,Coors Field,0.9999999999999999,-31.76026967868687,-31.104871879816226
+Slider | higher slot | high-IVB,R,Daikin Park,0.9999999999999999,-6.83466979569907,-6.179271996828425
+Slider | higher slot | high-IVB,R,Dodger Stadium,0.9999999999999999,-4.250444128802874,-3.595046329932229
+Slider | higher slot | high-IVB,R,Fenway Park,0.9999999999999999,-16.709315104441913,-16.053917305571268
+Slider | higher slot | high-IVB,R,George M. Steinbrenner Field,0.9999999999999999,-10.449401261457133,-9.794003462586488
+Slider | higher slot | high-IVB,R,Globe Life Field,0.9999999999999999,4.82694673684086,5.482344535711505
+Slider | higher slot | high-IVB,R,Great American Ball Park,0.9999999999999999,-16.64319640959547,-15.987798610724823
+Slider | higher slot | high-IVB,R,Kauffman Stadium,0.9999999999999999,11.207168569992183,11.862566368862828
+Slider | higher slot | high-IVB,R,Nationals Park,0.9999999999999999,2.2436331024908345,2.8990309013614795
+Slider | higher slot | high-IVB,R,Oakland Coliseum,0.9999999999999999,3.8426534903025997,4.498051289173245
+Slider | higher slot | high-IVB,R,Oracle Park,0.9999999999999999,2.2116003148837744,2.866998113754419
+Slider | higher slot | high-IVB,R,Oriole Park at Camden Yards,0.9999999999999999,7.516001168559483,8.171398967430127
+Slider | higher slot | high-IVB,R,PNC Park,0.9999999999999999,8.73787923819144,9.393277037062084
+Slider | higher slot | high-IVB,R,Petco Park,0.9999999999999999,13.292536827657441,13.947934626528086
+Slider | higher slot | high-IVB,R,Progressive Field,0.9999999999999999,4.12450668910587,4.779904487976515
+Slider | higher slot | high-IVB,R,Rate Field,0.9999999999999999,3.6991884338956567,4.354586232766302
+Slider | higher slot | high-IVB,R,Rogers Centre,0.9999999999999999,-0.13952747000025456,0.5158703288703902
+Slider | higher slot | high-IVB,R,Sutter Health Park,0.9999999999999999,-37.55265068471937,-36.89725288584872
+Slider | higher slot | high-IVB,R,T-Mobile Park,0.9999999999999999,11.983677616101607,12.639075414972252
+Slider | higher slot | high-IVB,R,Target Field,0.9999999999999999,-3.779521457828455,-3.12412365895781
+Slider | higher slot | high-IVB,R,Tropicana Field,0.9999999999999999,-4.173846795289443,-3.5184489964187984
+Slider | higher slot | high-IVB,R,Truist Park,0.9999999999999999,3.083835889193326,3.7392336880639707
+Slider | higher slot | high-IVB,R,Wrigley Field,0.9999999999999999,4.420321533684468,5.075719332555113
+Slider | higher slot | high-IVB,R,Yankee Stadium,0.9999999999999999,10.715353396092373,11.370751194963018
+Slider | higher slot | high-IVB,R,loanDepot park,0.9999999999999999,5.341701317265398,5.997099116136043
+Slider | higher slot | low-IVB,L,American Family Field,1.0,-2.9640536030376903,-2.3474630396693352
+Slider | higher slot | low-IVB,L,Angel Stadium,1.0,-1.25378201918458,-0.637191455816225
+Slider | higher slot | low-IVB,L,Busch Stadium,1.0,15.597141657516074,16.21373222088443
+Slider | higher slot | low-IVB,L,Chase Field,1.0,0.5437142957824513,1.1603048591508065
+Slider | higher slot | low-IVB,L,Citi Field,1.0,9.014901069846683,9.631491633215038
+Slider | higher slot | low-IVB,L,Citizens Bank Park,1.0,-15.047274220930968,-14.430683657562613
+Slider | higher slot | low-IVB,L,Comerica Park,1.0,4.316285235212409,4.932875798580764
+Slider | higher slot | low-IVB,L,Coors Field,1.0,-30.917453421722463,-30.300862858354108
+Slider | higher slot | low-IVB,L,Daikin Park,1.0,-5.765745099622082,-5.149154536253727
+Slider | higher slot | low-IVB,L,Dodger Stadium,1.0,-2.244775431207106,-1.6281848678387512
+Slider | higher slot | low-IVB,L,Fenway Park,1.0,-14.751315321760307,-14.134724758391952
+Slider | higher slot | low-IVB,L,George M. Steinbrenner Field,1.0,-9.430994319149873,-8.814403755781518
+Slider | higher slot | low-IVB,L,Globe Life Field,1.0,6.713789967641773,7.330380531010128
+Slider | higher slot | low-IVB,L,Great American Ball Park,1.0,-18.51761495501679,-17.901024391648434
+Slider | higher slot | low-IVB,L,Kauffman Stadium,1.0,8.86021125699584,9.476801820364194
+Slider | higher slot | low-IVB,L,Nationals Park,1.0,1.768942293285343,2.3855328566536977
+Slider | higher slot | low-IVB,L,Oakland Coliseum,1.0,4.355535324097703,4.972125887466058
+Slider | higher slot | low-IVB,L,Oracle Park,1.0,3.3545116675112876,3.9711022308796426
+Slider | higher slot | low-IVB,L,Oriole Park at Camden Yards,1.0,7.021155045543349,7.637745608911704
+Slider | higher slot | low-IVB,L,PNC Park,1.0,7.786906577907531,8.403497141275885
+Slider | higher slot | low-IVB,L,Petco Park,1.0,13.858206854278828,14.474797417647183
+Slider | higher slot | low-IVB,L,Progressive Field,1.0,4.23125664895296,4.847847212321315
+Slider | higher slot | low-IVB,L,Rate Field,1.0,3.2379560241140823,3.8545465874824374
+Slider | higher slot | low-IVB,L,Rogers Centre,1.0,0.036159127099664914,0.65274969046802
+Slider | higher slot | low-IVB,L,Sutter Health Park,1.0,-34.98790182626437,-34.371311262896015
+Slider | higher slot | low-IVB,L,T-Mobile Park,1.0,12.259567888056377,12.876158451424732
+Slider | higher slot | low-IVB,L,Target Field,1.0,-2.4153780934005855,-1.7987875300322305
+Slider | higher slot | low-IVB,L,Tropicana Field,1.0,-4.2691492257687615,-3.6525586624004065
+Slider | higher slot | low-IVB,L,Truist Park,1.0,3.1113453944609697,3.7279359578293247
+Slider | higher slot | low-IVB,L,Wrigley Field,1.0,3.1106466190415896,3.7272371824099446
+Slider | higher slot | low-IVB,L,Yankee Stadium,1.0,10.537018650395432,11.153609213763787
+Slider | higher slot | low-IVB,L,loanDepot park,1.0,3.119287911537868,3.7358784749062233
+Slider | higher slot | low-IVB,R,American Family Field,1.0,-2.8167985091912255,-2.187800461111793
+Slider | higher slot | low-IVB,R,Angel Stadium,1.0,-1.4656358158692617,-0.836637767789829
+Slider | higher slot | low-IVB,R,Busch Stadium,1.0,15.05090250251999,15.679900550599424
+Slider | higher slot | low-IVB,R,Chase Field,1.0,0.5649854380572467,1.1939834861366794
+Slider | higher slot | low-IVB,R,Citi Field,1.0,10.827824881410304,11.456822929489737
+Slider | higher slot | low-IVB,R,Citizens Bank Park,1.0,-14.443548105160986,-13.814550057081552
+Slider | higher slot | low-IVB,R,Comerica Park,1.0,4.559589075941701,5.188587124021134
+Slider | higher slot | low-IVB,R,Coors Field,1.0,-30.663649282478676,-30.034651234399245
+Slider | higher slot | low-IVB,R,Daikin Park,1.0,-5.40326678492264,-4.774268736843207
+Slider | higher slot | low-IVB,R,Dodger Stadium,1.0,-2.8545902663785814,-2.2255922182991488
+Slider | higher slot | low-IVB,R,Fenway Park,1.0,-15.614957407033362,-14.985959358953929
+Slider | higher slot | low-IVB,R,George M. Steinbrenner Field,1.0,-9.45125911152426,-8.822261063444827
+Slider | higher slot | low-IVB,R,Globe Life Field,1.0,5.059173229014621,5.688171277094054
+Slider | higher slot | low-IVB,R,Great American Ball Park,1.0,-16.780711080656157,-16.151713032576726
+Slider | higher slot | low-IVB,R,Kauffman Stadium,1.0,9.910887567315056,10.539885615394489
+Slider | higher slot | low-IVB,R,Nationals Park,1.0,2.108060800762046,2.7370588488414787
+Slider | higher slot | low-IVB,R,Oakland Coliseum,1.0,3.1793709770393805,3.808369025118813
+Slider | higher slot | low-IVB,R,Oracle Park,1.0,2.877075302566973,3.5060733506464055
+Slider | higher slot | low-IVB,R,Oriole Park at Camden Yards,1.0,6.657934009954298,7.286932058033731
+Slider | higher slot | low-IVB,R,PNC Park,1.0,8.04027383792128,8.669271886000713
+Slider | higher slot | low-IVB,R,Petco Park,1.0,12.9684502383871,13.597448286466532
+Slider | higher slot | low-IVB,R,Progressive Field,1.0,4.001873444392853,4.630871492472286
+Slider | higher slot | low-IVB,R,Rate Field,1.0,2.851757042587851,3.4807550906672837
+Slider | higher slot | low-IVB,R,Rogers Centre,1.0,-0.15768853872055355,0.47130950935887916
+Slider | higher slot | low-IVB,R,Sutter Health Park,1.0,-35.76152015773542,-35.13252210965599
+Slider | higher slot | low-IVB,R,T-Mobile Park,1.0,11.919715007891245,12.548713055970678
+Slider | higher slot | low-IVB,R,Target Field,1.0,-3.8755152237401282,-3.2465171756606956
+Slider | higher slot | low-IVB,R,Tropicana Field,1.0,-4.17368068682857,-3.5446826387491375
+Slider | higher slot | low-IVB,R,Truist Park,1.0,2.9814547653119594,3.610452813391392
+Slider | higher slot | low-IVB,R,Wrigley Field,1.0,4.861248340865225,5.490246388944658
+Slider | higher slot | low-IVB,R,Yankee Stadium,1.0,10.84902198616586,11.478020034245294
+Slider | higher slot | low-IVB,R,loanDepot park,1.0,4.065284983592984,4.694283031672417
+Slider | lower slot | high-IVB,L,American Family Field,1.0,-3.5408942222679674,-2.892074843751174
+Slider | lower slot | high-IVB,L,Angel Stadium,1.0,-1.0272188797423887,-0.3783995012255954
+Slider | lower slot | high-IVB,L,Busch Stadium,1.0,18.154034889013843,18.802854267530638
+Slider | lower slot | high-IVB,L,Chase Field,1.0,2.2058146730234527,2.8546340515402457
+Slider | lower slot | high-IVB,L,Citi Field,1.0,9.914448453369978,10.56326783188677
+Slider | lower slot | high-IVB,L,Citizens Bank Park,1.0,-16.79756036951657,-16.148740990999777
+Slider | lower slot | high-IVB,L,Comerica Park,1.0,5.692363369789481,6.341182748306275
+Slider | lower slot | high-IVB,L,Coors Field,1.0,-33.73566006070047,-33.08684068218368
+Slider | lower slot | high-IVB,L,Daikin Park,1.0,-7.383949982449143,-6.735130603932349
+Slider | lower slot | high-IVB,L,Dodger Stadium,1.0,-3.7545338458880146,-3.1057144673712216
+Slider | lower slot | high-IVB,L,Fenway Park,1.0,-16.68471493054045,-16.035895552023657
+Slider | lower slot | high-IVB,L,George M. Steinbrenner Field,1.0,-10.075763169645722,-9.426943791128929
+Slider | lower slot | high-IVB,L,Globe Life Field,1.0,7.223896363002596,7.872715741519389
+Slider | lower slot | high-IVB,L,Great American Ball Park,1.0,-19.560691320906635,-18.91187194238984
+Slider | lower slot | high-IVB,L,Kauffman Stadium,1.0,11.269760538984695,11.918579917501487
+Slider | lower slot | high-IVB,L,Nationals Park,1.0,2.681045002640568,3.3298643811573614
+Slider | lower slot | high-IVB,L,Oakland Coliseum,1.0,5.8338936797507115,6.482713058267505
+Slider | lower slot | high-IVB,L,Oracle Park,1.0,2.49221203621993,3.141031414736723
+Slider | lower slot | high-IVB,L,Oriole Park at Camden Yards,1.0,7.315343786173219,7.964163164690013
+Slider | lower slot | high-IVB,L,PNC Park,1.0,8.380262636880351,9.029082015397144
+Slider | lower slot | high-IVB,L,Petco Park,1.0,15.331679614604305,15.980498993121097
+Slider | lower slot | high-IVB,L,Progressive Field,1.0,3.865327258957925,4.514146637474719
+Slider | lower slot | high-IVB,L,Rate Field,1.0,4.459015591775454,5.107834970292248
+Slider | lower slot | high-IVB,L,Rogers Centre,1.0,-0.3772566720450704,0.27156270647172287
+Slider | lower slot | high-IVB,L,Sutter Health Park,1.0,-38.14526812307198,-37.49644874455519
+Slider | lower slot | high-IVB,L,T-Mobile Park,1.0,12.76150863123151,13.410328009748303
+Slider | lower slot | high-IVB,L,Target Field,1.0,-1.5683611742829304,-0.9195417957661371
+Slider | lower slot | high-IVB,L,Tropicana Field,1.0,-3.23141407364844,-2.5825946951316467
+Slider | lower slot | high-IVB,L,Truist Park,1.0,2.3967953185164874,3.0456146970332805
+Slider | lower slot | high-IVB,L,Wrigley Field,1.0,1.2720739256856786,1.9208933042024718
+Slider | lower slot | high-IVB,L,Yankee Stadium,1.0,9.133436515351306,9.782255893868099
+Slider | lower slot | high-IVB,L,loanDepot park,1.0,4.738154427196909,5.386973805713702
+Slider | lower slot | high-IVB,R,American Family Field,1.0,-3.250600543459946,-2.593437728734921
+Slider | lower slot | high-IVB,R,Angel Stadium,1.0,-1.248385107058916,-0.5912222923338913
+Slider | lower slot | high-IVB,R,Busch Stadium,1.0,16.810981343446016,17.46814415817104
+Slider | lower slot | high-IVB,R,Chase Field,1.0,1.7672121956996933,2.424375010424718
+Slider | lower slot | high-IVB,R,Citi Field,1.0,11.446851713023586,12.10401452774861
+Slider | lower slot | high-IVB,R,Citizens Bank Park,1.0,-16.014978337481143,-15.357815522756118
+Slider | lower slot | high-IVB,R,Comerica Park,1.0,5.643055086763874,6.300217901488899
+Slider | lower slot | high-IVB,R,Coors Field,1.0,-32.955661937291346,-32.29849912256632
+Slider | lower slot | high-IVB,R,Daikin Park,1.0,-7.201515221288486,-6.544352406563461
+Slider | lower slot | high-IVB,R,Dodger Stadium,1.0,-4.5239049937066,-3.866742178981575
+Slider | lower slot | high-IVB,R,Fenway Park,1.0,-17.17620694210677,-16.519044127381747
+Slider | lower slot | high-IVB,R,George M. Steinbrenner Field,1.0,-10.39901310392501,-9.741850289199986
+Slider | lower slot | high-IVB,R,Globe Life Field,1.0,5.482377795353691,6.139540610078716
+Slider | lower slot | high-IVB,R,Great American Ball Park,1.0,-17.66043608536172,-17.003273270636697
+Slider | lower slot | high-IVB,R,Kauffman Stadium,1.0,11.608674743191374,12.265837557916399
+Slider | lower slot | high-IVB,R,Nationals Park,1.0,2.5270457353546827,3.1842085500797075
+Slider | lower slot | high-IVB,R,Oakland Coliseum,1.0,4.668685165148528,5.3258479798735525
+Slider | lower slot | high-IVB,R,Oracle Park,1.0,2.0594340684109174,2.716596883135942
+Slider | lower slot | high-IVB,R,Oriole Park at Camden Yards,1.0,7.644820643184954,8.301983457909978
+Slider | lower slot | high-IVB,R,PNC Park,1.0,8.844401213979998,9.501564028705022
+Slider | lower slot | high-IVB,R,Petco Park,1.0,14.171244561164436,14.82840737588946
+Slider | lower slot | high-IVB,R,Progressive Field,1.0,4.057580886175761,4.714743700900786
+Slider | lower slot | high-IVB,R,Rate Field,1.0,4.139095776428327,4.796258591153352
+Slider | lower slot | high-IVB,R,Rogers Centre,1.0,-0.38232352655576335,0.27483928816926134
+Slider | lower slot | high-IVB,R,Sutter Health Park,1.0,-38.43711188170995,-37.779949066984926
+Slider | lower slot | high-IVB,R,T-Mobile Park,1.0,12.464353616686195,13.12151643141122
+Slider | lower slot | high-IVB,R,Target Field,1.0,-2.8541663585541817,-2.197003543829157
+Slider | lower slot | high-IVB,R,Tropicana Field,1.0,-3.7221253614060017,-3.064962546680977
+Slider | lower slot | high-IVB,R,Truist Park,1.0,2.717951321030828,3.3751141357558527
+Slider | lower slot | high-IVB,R,Wrigley Field,1.0,3.1462301012562026,3.8033929159812274
+Slider | lower slot | high-IVB,R,Yankee Stadium,1.0,9.98855648656417,10.645719301289194
+Slider | lower slot | high-IVB,R,loanDepot park,1.0,5.608666875841808,6.265829690566833
+Slider | lower slot | low-IVB,L,American Family Field,1.0,-2.7339176773060436,-2.122663624613032
+Slider | lower slot | low-IVB,L,Angel Stadium,1.0,-1.4703796214461213,-0.8591255687531097
+Slider | lower slot | low-IVB,L,Busch Stadium,1.0,14.521987974572895,15.133242027265906
+Slider | lower slot | low-IVB,L,Chase Field,1.0,0.1055011708028792,0.7167552234958908
+Slider | lower slot | low-IVB,L,Citi Field,1.0,9.40134476360261,10.012598816295622
+Slider | lower slot | low-IVB,L,Citizens Bank Park,1.0,-14.3308813715733,-13.719627318880288
+Slider | lower slot | low-IVB,L,Comerica Park,1.0,3.8972105283492775,4.508464581042289
+Slider | lower slot | low-IVB,L,Coors Field,1.0,-29.843098204748333,-29.23184415205532
+Slider | lower slot | low-IVB,L,Daikin Park,1.0,-5.431795389789041,-4.82054133709603
+Slider | lower slot | low-IVB,L,Dodger Stadium,1.0,-1.9500472412204675,-1.3387931885274558
+Slider | lower slot | low-IVB,L,Fenway Park,1.0,-14.068897541754454,-13.457643489061443
+Slider | lower slot | low-IVB,L,George M. Steinbrenner Field,1.0,-9.412726912010656,-8.801472859317645
+Slider | lower slot | low-IVB,L,Globe Life Field,1.0,6.088048276794468,6.699302329487479
+Slider | lower slot | low-IVB,L,Great American Ball Park,1.0,-17.38973837881341,-16.778484326120395
+Slider | lower slot | low-IVB,L,Kauffman Stadium,1.0,8.554637702855223,9.165891755548234
+Slider | lower slot | low-IVB,L,Nationals Park,1.0,1.5205725201609148,2.1318265728539263
+Slider | lower slot | low-IVB,L,Oakland Coliseum,1.0,3.3971215512927526,4.0083756039857645
+Slider | lower slot | low-IVB,L,Oracle Park,1.0,3.5425279155925464,4.153781968285558
+Slider | lower slot | low-IVB,L,Oriole Park at Camden Yards,1.0,6.6497490756470645,7.261003128340076
+Slider | lower slot | low-IVB,L,PNC Park,1.0,7.61752037987475,8.228774432567763
+Slider | lower slot | low-IVB,L,Petco Park,1.0,12.947913175663581,13.559167228356593
+Slider | lower slot | low-IVB,L,Progressive Field,1.0,4.278741606705698,4.88999565939871
+Slider | lower slot | low-IVB,L,Rate Field,1.0,2.6735001546497705,3.284754207342782
+Slider | lower slot | low-IVB,L,Rogers Centre,1.0,0.35495155771897524,0.9662056104119868
+Slider | lower slot | low-IVB,L,Sutter Health Park,1.0,-33.944304383710964,-33.33305033101795
+Slider | lower slot | low-IVB,L,T-Mobile Park,1.0,11.619197800487248,12.23045185318026
+Slider | lower slot | low-IVB,L,Target Field,1.0,-3.4254306083453048,-2.8141765556522933
+Slider | lower slot | low-IVB,L,Tropicana Field,1.0,-4.552118531043003,-3.940864478349991
+Slider | lower slot | low-IVB,L,Truist Park,1.0,3.498445534547239,4.109699587240251
+Slider | lower slot | low-IVB,L,Wrigley Field,1.0,4.483717146591293,5.094971199284305
+Slider | lower slot | low-IVB,L,Yankee Stadium,1.0,11.197714231226366,11.808968283919377
+Slider | lower slot | low-IVB,L,loanDepot park,1.0,2.6428031084491796,3.254057161142191
+Slider | lower slot | low-IVB,R,American Family Field,1.0,-2.659599041905864,-2.0472579060909943
+Slider | lower slot | low-IVB,R,Angel Stadium,1.0,-1.5382764443261885,-0.9259353085113189
+Slider | lower slot | low-IVB,R,Busch Stadium,1.0,14.751918171937733,15.364259307752603
+Slider | lower slot | low-IVB,R,Chase Field,1.0,0.21835389427467555,0.8306950300895451
+Slider | lower slot | low-IVB,R,Citi Field,1.0,10.289725111977555,10.902066247792424
+Slider | lower slot | low-IVB,R,Citizens Bank Park,1.0,-13.889260051510616,-13.276918915695747
+Slider | lower slot | low-IVB,R,Comerica Park,1.0,4.136839458332597,4.749180594147466
+Slider | lower slot | low-IVB,R,Coors Field,1.0,-29.805606329549057,-29.193265193734188
+Slider | lower slot | low-IVB,R,Daikin Park,1.0,-4.448101008694862,-3.8357598728799926
+Slider | lower slot | low-IVB,R,Dodger Stadium,1.0,-1.8535720400983882,-1.2412309042835186
+Slider | lower slot | low-IVB,R,Fenway Park,1.0,-14.951023790161988,-14.338682654347119
+Slider | lower slot | low-IVB,R,George M. Steinbrenner Field,1.0,-8.719889501207383,-8.107548365392514
+Slider | lower slot | low-IVB,R,Globe Life Field,1.0,5.195670067538816,5.8080112033536855
+Slider | lower slot | low-IVB,R,Great American Ball Park,1.0,-16.730231360212837,-16.117890224397968
+Slider | lower slot | low-IVB,R,Kauffman Stadium,1.0,9.190264607302918,9.802605743117788
+Slider | lower slot | low-IVB,R,Nationals Park,1.0,2.1044713248830336,2.716812460697903
+Slider | lower slot | low-IVB,R,Oakland Coliseum,1.0,2.729587343411774,3.3419284792266435
+Slider | lower slot | low-IVB,R,Oracle Park,1.0,3.2765548748772226,3.8888960106920925
+Slider | lower slot | low-IVB,R,Oriole Park at Camden Yards,1.0,5.791353981411154,6.4036951172260235
+Slider | lower slot | low-IVB,R,PNC Park,1.0,7.517507035956188,8.129848171771059
+Slider | lower slot | low-IVB,R,Petco Park,1.0,12.710164927211084,13.322506063025953
+Slider | lower slot | low-IVB,R,Progressive Field,1.0,3.8134800478751805,4.42582118369005
+Slider | lower slot | low-IVB,R,Rate Field,1.0,2.250385351925715,2.8627264877405842
+Slider | lower slot | low-IVB,R,Rogers Centre,1.0,-0.18413072618584767,0.4282104096290219
+Slider | lower slot | low-IVB,R,Sutter Health Park,1.0,-34.53412958020199,-33.92178844438712
+Slider | lower slot | low-IVB,R,T-Mobile Park,1.0,11.702373879369233,12.314715015184102
+Slider | lower slot | low-IVB,R,Target Field,1.0,-4.041357922305866,-3.4290167864909966
+Slider | lower slot | low-IVB,R,Tropicana Field,1.0,-4.061072005181847,-3.448730869366978
+Slider | lower slot | low-IVB,R,Truist Park,1.0,2.849386790542994,3.461727926357864
+Slider | lower slot | low-IVB,R,Wrigley Field,1.0,5.197431297084153,5.809772432899022
+Slider | lower slot | low-IVB,R,Yankee Stadium,1.0,10.847481871450144,11.459823007265014
+Slider | lower slot | low-IVB,R,loanDepot park,1.0,3.2483834181047397,3.860724553919609
+Splitter | higher slot | high-IVB,R,American Family Field,1.0,-2.201682141264052,-1.6654451055577608
+Splitter | higher slot | high-IVB,R,Angel Stadium,1.0,-1.9327435615713082,-1.3965065258650173
+Splitter | higher slot | high-IVB,R,Busch Stadium,1.0,15.837059090952746,16.373296126659035
+Splitter | higher slot | high-IVB,R,Chase Field,1.0,-0.017279558258787846,0.5189574774475032
+Splitter | higher slot | high-IVB,R,Citi Field,1.0,4.358314122386165,4.894551158092456
+Splitter | higher slot | high-IVB,R,Citizens Bank Park,1.0,-13.45708719661833,-12.920850160912039
+Splitter | higher slot | high-IVB,R,Comerica Park,1.0,2.700894836969983,3.237131872676274
+Splitter | higher slot | high-IVB,R,Coors Field,1.0,-27.152589030809036,-26.616351995102747
+Splitter | higher slot | high-IVB,R,Daikin Park,1.0,-2.0197297021531218,-1.4834926664468306
+Splitter | higher slot | high-IVB,R,Dodger Stadium,1.0,3.231713816724808,3.767950852431099
+Splitter | higher slot | high-IVB,R,Fenway Park,1.0,-11.550358868583098,-11.014121832876807
+Splitter | higher slot | high-IVB,R,George M. Steinbrenner Field,1.0,-5.572203685513895,-5.035966649807604
+Splitter | higher slot | high-IVB,R,Globe Life Field,1.0,9.580014678305837,10.116251714012128
+Splitter | higher slot | high-IVB,R,Great American Ball Park,1.0,-20.35434701279738,-19.81810997709109
+Splitter | higher slot | high-IVB,R,Kauffman Stadium,1.0,5.337662129537165,5.873899165243456
+Splitter | higher slot | high-IVB,R,Nationals Park,1.0,2.0945232074013695,2.6307602431076607
+Splitter | higher slot | high-IVB,R,Oakland Coliseum,1.0,4.395394801144502,4.931631836850793
+Splitter | higher slot | high-IVB,R,Oracle Park,1.0,5.2108996497913225,5.747136685497614
+Splitter | higher slot | high-IVB,R,Oriole Park at Camden Yards,1.0,2.145493354625631,2.6817303903319223
+Splitter | higher slot | high-IVB,R,PNC Park,1.0,4.772007698864313,5.3082447345706045
+Splitter | higher slot | high-IVB,R,Petco Park,1.0,14.243341731375533,14.779578767081825
+Splitter | higher slot | high-IVB,R,Progressive Field,1.0,2.9667503966682007,3.502987432374492
+Splitter | higher slot | high-IVB,R,Rate Field,1.0,1.2140409480872862,1.7502779837935774
+Splitter | higher slot | high-IVB,R,Rogers Centre,1.0,-0.15644730601293866,0.37978972969335234
+Splitter | higher slot | high-IVB,R,Sutter Health Park,1.0,-29.02204705812633,-28.48581002242004
+Splitter | higher slot | high-IVB,R,T-Mobile Park,1.0,11.153404315843547,11.689641351549838
+Splitter | higher slot | high-IVB,R,Target Field,1.0,-1.1535679907629508,-0.6173309550566598
+Splitter | higher slot | high-IVB,R,Tropicana Field,1.0,-2.945425130275683,-2.4091880945693918
+Splitter | higher slot | high-IVB,R,Truist Park,1.0,1.9567942853868916,2.4930313210931825
+Splitter | higher slot | high-IVB,R,Wrigley Field,1.0,1.4130263396816274,1.9492633753879183
+Splitter | higher slot | high-IVB,R,Yankee Stadium,1.0,8.860023273898571,9.396260309604862
+Splitter | higher slot | high-IVB,R,loanDepot park,1.0,-1.0954355774999016,-0.5591985417936106
+Splitter | higher slot | low-IVB,R,American Family Field,1.0,-1.5699311024332954,-1.0636590368860763
+Splitter | higher slot | low-IVB,R,Angel Stadium,1.0,-2.170053835901912,-1.6637817703546929
+Splitter | higher slot | low-IVB,R,Busch Stadium,1.0,12.732592438004863,13.238864503552081
+Splitter | higher slot | low-IVB,R,Chase Field,1.0,-1.6924049372139502,-1.1861328716667312
+Splitter | higher slot | low-IVB,R,Citi Field,1.0,3.725315903586466,4.231587969133685
+Splitter | higher slot | low-IVB,R,Citizens Bank Park,1.0,-11.693454174116505,-11.187182108569287
+Splitter | higher slot | low-IVB,R,Comerica Park,1.0,1.2478447129027952,1.7541167784500142
+Splitter | higher slot | low-IVB,R,Coors Field,1.0,-24.2019559556875,-23.69568389014028
+Splitter | higher slot | low-IVB,R,Daikin Park,1.0,-1.0851476139358116,-0.5788755483885926
+Splitter | higher slot | low-IVB,R,Dodger Stadium,1.0,4.233530189762448,4.739802255309668
+Splitter | higher slot | low-IVB,R,Fenway Park,1.0,-9.135024890420924,-8.628752824873706
+Splitter | higher slot | low-IVB,R,George M. Steinbrenner Field,1.0,-5.443621350403756,-4.937349284856537
+Splitter | higher slot | low-IVB,R,Globe Life Field,1.0,8.827230028323342,9.33350209387056
+Splitter | higher slot | low-IVB,R,Great American Ball Park,1.0,-18.717623976810515,-18.211351911263296
+Splitter | higher slot | low-IVB,R,Kauffman Stadium,1.0,2.975425609354878,3.4816976749020974
+Splitter | higher slot | low-IVB,R,Nationals Park,1.0,0.8711546716589634,1.3774267372061826
+Splitter | higher slot | low-IVB,R,Oakland Coliseum,1.0,2.7202163873761984,3.2264884529234177
+Splitter | higher slot | low-IVB,R,Oracle Park,1.0,5.955727296066359,6.461999361613579
+Splitter | higher slot | low-IVB,R,Oriole Park at Camden Yards,1.0,2.2984556737455146,2.8047277392927334
+Splitter | higher slot | low-IVB,R,PNC Park,1.0,4.36474696045368,4.8710190260009
+Splitter | higher slot | low-IVB,R,Petco Park,1.0,12.441159249965901,12.94743131551312
+Splitter | higher slot | low-IVB,R,Progressive Field,1.0,3.650604399971413,4.156876465518632
+Splitter | higher slot | low-IVB,R,Rate Field,1.0,0.06363655910621971,0.5699086246534387
+Splitter | higher slot | low-IVB,R,Rogers Centre,1.0,0.6897036917778909,1.19597575732511
+Splitter | higher slot | low-IVB,R,Sutter Health Park,1.0,-25.628299041544615,-25.122026975997397
+Splitter | higher slot | low-IVB,R,T-Mobile Park,1.0,10.266608136362015,10.772880201909233
+Splitter | higher slot | low-IVB,R,Target Field,1.0,-2.2588520146372,-1.752579949089981
+Splitter | higher slot | low-IVB,R,Tropicana Field,1.0,-4.226443935983232,-3.7201718704360127
+Splitter | higher slot | low-IVB,R,Truist Park,1.0,3.204841630920275,3.7111136964674944
+Splitter | higher slot | low-IVB,R,Wrigley Field,1.0,3.5479206190568355,4.054192684604055
+Splitter | higher slot | low-IVB,R,Yankee Stadium,1.0,10.598414334070146,11.104686399617364
+Splitter | higher slot | low-IVB,R,loanDepot park,1.0,-2.793021760887993,-2.2867496953407738
+Splitter | lower slot | high-IVB,R,American Family Field,1.0,-2.131222435973315,-1.6152739712434019
+Splitter | lower slot | high-IVB,R,Angel Stadium,1.0,-1.8330857219748082,-1.3171372572448952
+Splitter | lower slot | high-IVB,R,Busch Stadium,1.0,15.696164454628638,16.212112919358553
+Splitter | lower slot | high-IVB,R,Chase Field,1.0,-0.4484037951179206,0.06754466961199246
+Splitter | lower slot | high-IVB,R,Citi Field,1.0,3.4697598241056062,3.9857082888355193
+Splitter | lower slot | high-IVB,R,Citizens Bank Park,1.0,-13.024445444658031,-12.508496979928118
+Splitter | lower slot | high-IVB,R,Comerica Park,1.0,2.2335869319382184,2.7495353966681315
+Splitter | lower slot | high-IVB,R,Coors Field,1.0,-26.5277257581388,-26.011777293408887
+Splitter | lower slot | high-IVB,R,Daikin Park,1.0,-0.9946659637351352,-0.4787174990052221
+Splitter | lower slot | high-IVB,R,Dodger Stadium,1.0,4.313813958603865,4.829762423333778
+Splitter | lower slot | high-IVB,R,Fenway Park,1.0,-10.790465037670534,-10.274516572940621
+Splitter | lower slot | high-IVB,R,George M. Steinbrenner Field,1.0,-4.789123659661503,-4.27317519493159
+Splitter | lower slot | high-IVB,R,Globe Life Field,1.0,9.99763727509272,10.513585739822632
+Splitter | lower slot | high-IVB,R,Great American Ball Park,1.0,-20.781323968681217,-20.265375503951304
+Splitter | lower slot | high-IVB,R,Kauffman Stadium,1.0,4.348342402610961,4.864290867340874
+Splitter | lower slot | high-IVB,R,Nationals Park,1.0,2.030255050143797,2.54620351487371
+Splitter | lower slot | high-IVB,R,Oakland Coliseum,1.0,4.143447134996985,4.659395599726898
+Splitter | lower slot | high-IVB,R,Oracle Park,1.0,5.724653263312256,6.2406017280421695
+Splitter | lower slot | high-IVB,R,Oriole Park at Camden Yards,1.0,1.5175951831261962,2.033543647856109
+Splitter | lower slot | high-IVB,R,PNC Park,1.0,4.241659591843815,4.757608056573728
+Splitter | lower slot | high-IVB,R,Petco Park,1.0,14.222737210115607,14.73868567484552
+Splitter | lower slot | high-IVB,R,Progressive Field,1.0,2.8587794280247993,3.3747278927547124
+Splitter | lower slot | high-IVB,R,Rate Field,1.0,0.6808683129607658,1.1968167776906788
+Splitter | lower slot | high-IVB,R,Rogers Centre,1.0,-0.22692648945825059,0.2890219752716625
+Splitter | lower slot | high-IVB,R,Sutter Health Park,1.0,-27.782345689392056,-27.266397224662143
+Splitter | lower slot | high-IVB,R,T-Mobile Park,1.0,11.226090064800758,11.74203852953067
+Splitter | lower slot | high-IVB,R,Target Field,1.0,-0.9532953094675922,-0.43734684473767915
+Splitter | lower slot | high-IVB,R,Tropicana Field,1.0,-2.875116101160938,-2.359167636431025
+Splitter | lower slot | high-IVB,R,Truist Park,1.0,1.7970244729598337,2.3129729376897465
+Splitter | lower slot | high-IVB,R,Wrigley Field,1.0,1.394545875925497,1.91049434065541
+Splitter | lower slot | high-IVB,R,Yankee Stadium,1.0,8.808948619429874,9.324897084159787
+Splitter | lower slot | high-IVB,R,loanDepot park,1.0,-2.0581145508873093,-1.5421660861573963
+Splitter | lower slot | low-IVB,R,American Family Field,1.0,-1.4461182322705666,-0.9602149391366787
+Splitter | lower slot | low-IVB,R,Angel Stadium,1.0,-2.238060004149753,-1.7521567110158651
+Splitter | lower slot | low-IVB,R,Busch Stadium,1.0,12.373772910973162,12.85967620410705
+Splitter | lower slot | low-IVB,R,Chase Field,1.0,-2.351000924119106,-1.8650976309852183
+Splitter | lower slot | low-IVB,R,Citi Field,1.0,2.313305389978756,2.799208683112644
+Splitter | lower slot | low-IVB,R,Citizens Bank Park,1.0,-11.407317869791841,-10.921414576657954
+Splitter | lower slot | low-IVB,R,Comerica Park,1.0,0.564202392432262,1.05010568556615
+Splitter | lower slot | low-IVB,R,Coors Field,1.0,-23.200014818978065,-22.714111525844178
+Splitter | lower slot | low-IVB,R,Daikin Park,1.0,-0.3453339687531851,0.1405693243807028
+Splitter | lower slot | low-IVB,R,Dodger Stadium,1.0,5.540985186497542,6.02688847963143
+Splitter | lower slot | low-IVB,R,Fenway Park,1.0,-8.147858217708789,-7.661954924574901
+Splitter | lower slot | low-IVB,R,George M. Steinbrenner Field,1.0,-4.957093948120067,-4.471190654986179
+Splitter | lower slot | low-IVB,R,Globe Life Field,1.0,9.739744652857265,10.225647945991152
+Splitter | lower slot | low-IVB,R,Great American Ball Park,1.0,-19.478208362082146,-18.99230506894826
+Splitter | lower slot | low-IVB,R,Kauffman Stadium,1.0,1.479546257194256,1.965449550328144
+Splitter | lower slot | low-IVB,R,Nationals Park,1.0,0.4792887731810336,0.9651920663149215
+Splitter | lower slot | low-IVB,R,Oakland Coliseum,1.0,2.8916727106112856,3.3775760037451734
+Splitter | lower slot | low-IVB,R,Oracle Park,1.0,6.690447612182163,7.176350905316052
+Splitter | lower slot | low-IVB,R,Oriole Park at Camden Yards,1.0,1.8973439202371374,2.383247213371025
+Splitter | lower slot | low-IVB,R,PNC Park,1.0,3.8921000804543504,4.378003373588238
+Splitter | lower slot | low-IVB,R,Petco Park,1.0,12.424941664624555,12.910844957758442
+Splitter | lower slot | low-IVB,R,Progressive Field,1.0,3.697911226542904,4.183814519676792
+Splitter | lower slot | low-IVB,R,Rate Field,1.0,-0.2892476008142408,0.19665569231964714
+Splitter | lower slot | low-IVB,R,Rogers Centre,1.0,0.7524778771301784,1.2383811702640664
+Splitter | lower slot | low-IVB,R,Sutter Health Park,1.0,-23.964743829206483,-23.478840536072596
+Splitter | lower slot | low-IVB,R,T-Mobile Park,1.0,10.272472852958964,10.758376146092852
+Splitter | lower slot | low-IVB,R,Target Field,1.0,-1.8013938687545579,-1.3154905756206698
+Splitter | lower slot | low-IVB,R,Tropicana Field,1.0,-4.564387384117578,-4.0784840909836895
+Splitter | lower slot | low-IVB,R,Truist Park,1.0,3.30112257979756,3.787025872931448
+Splitter | lower slot | low-IVB,R,Wrigley Field,1.0,3.381233833949703,3.867137127083591
+Splitter | lower slot | low-IVB,R,Yankee Stadium,1.0,10.933084226340616,11.418987519474504
+Splitter | lower slot | low-IVB,R,loanDepot park,1.0,-3.9837804993617274,-3.4978772062278396
+Sweeper | higher slot | high-IVB,R,American Family Field,1.0,-3.8063178053286006,-3.087024564632434
+Sweeper | higher slot | high-IVB,R,Angel Stadium,1.0,-0.9545177687526951,-0.2352245280565285
+Sweeper | higher slot | high-IVB,R,Busch Stadium,1.0,17.88047857845964,18.59977181915581
+Sweeper | higher slot | high-IVB,R,Chase Field,1.0,3.0506709943765165,3.769964235072683
+Sweeper | higher slot | high-IVB,R,Citi Field,1.0,13.386186226161445,14.105479466857613
+Sweeper | higher slot | high-IVB,R,Citizens Bank Park,1.0,-18.50070619810569,-17.781412957409522
+Sweeper | higher slot | high-IVB,R,Comerica Park,1.0,7.221157108303921,7.940450349000088
+Sweeper | higher slot | high-IVB,R,Coors Field,1.0,-36.30511609902608,-35.58582285832991
+Sweeper | higher slot | high-IVB,R,Daikin Park,1.0,-11.540648966747817,-10.82135572605165
+Sweeper | higher slot | high-IVB,R,Dodger Stadium,1.0,-8.854147530042223,-8.134854289346055
+Sweeper | higher slot | high-IVB,R,Fenway Park,1.0,-19.683058897195096,-18.96376565649893
+Sweeper | higher slot | high-IVB,R,George M. Steinbrenner Field,1.0,-13.612359002020215,-12.893065761324047
+Sweeper | higher slot | high-IVB,R,Globe Life Field,1.0,5.124019691675407,5.843312932371574
+Sweeper | higher slot | high-IVB,R,Great American Ball Park,1.0,-17.83986433122017,-17.120571090524002
+Sweeper | higher slot | high-IVB,R,Kauffman Stadium,1.0,14.139899199794424,14.859192440490592
+Sweeper | higher slot | high-IVB,R,Nationals Park,1.0,2.2004696864818802,2.9197629271780468
+Sweeper | higher slot | high-IVB,R,Oakland Coliseum,1.0,6.847991566202163,7.567284806898329
+Sweeper | higher slot | high-IVB,R,Oracle Park,1.0,0.36528074608902145,1.084573986785188
+Sweeper | higher slot | high-IVB,R,Oriole Park at Camden Yards,1.0,11.467620702685583,12.18691394338175
+Sweeper | higher slot | high-IVB,R,PNC Park,1.0,11.234838487660427,11.954131728356595
+Sweeper | higher slot | high-IVB,R,Petco Park,1.0,15.20721117099746,15.926504411693628
+Sweeper | higher slot | high-IVB,R,Progressive Field,1.0,5.165198879320058,5.884492120016224
+Sweeper | higher slot | high-IVB,R,Rate Field,1.0,6.749744262609735,7.469037503305901
+Sweeper | higher slot | high-IVB,R,Rogers Centre,1.0,-0.17085249115653692,0.5484407495396297
+Sweeper | higher slot | high-IVB,R,Sutter Health Park,1.0,-43.155865385492746,-42.43657214479658
+Sweeper | higher slot | high-IVB,R,T-Mobile Park,1.0,13.269930531230463,13.98922377192663
+Sweeper | higher slot | high-IVB,R,Target Field,1.0,-1.7023761839566527,-0.9830829432604861
+Sweeper | higher slot | high-IVB,R,Tropicana Field,1.0,-4.4303367470962325,-3.711043506400066
+Sweeper | higher slot | high-IVB,R,Truist Park,1.0,3.5579822377798838,4.27727547847605
+Sweeper | higher slot | high-IVB,R,Wrigley Field,1.0,1.520404867870552,2.2396981085667185
+Sweeper | higher slot | high-IVB,R,Yankee Stadium,1.0,10.208339543289952,10.92763278398612
+Sweeper | higher slot | high-IVB,R,loanDepot park,1.0,8.941359222874883,9.66065246357105
+Sweeper | higher slot | low-IVB,L,American Family Field,1.0,-2.967044528188215,-2.359610195977341
+Sweeper | higher slot | low-IVB,L,Angel Stadium,1.0,-1.3187261871680143,-0.7112918549571401
+Sweeper | higher slot | low-IVB,L,Busch Stadium,1.0,16.732634360440642,17.340068692651517
+Sweeper | higher slot | low-IVB,L,Chase Field,1.0,1.1401615810642722,1.7475959132751464
+Sweeper | higher slot | low-IVB,L,Citi Field,1.0,8.462291073576694,9.069725405787567
+Sweeper | higher slot | low-IVB,L,Citizens Bank Park,1.0,-15.121581032765945,-14.514146700555072
+Sweeper | higher slot | low-IVB,L,Comerica Park,1.0,4.532434669708559,5.1398690019194335
+Sweeper | higher slot | low-IVB,L,Coors Field,1.0,-31.065168180248687,-30.45773384803781
+Sweeper | higher slot | low-IVB,L,Daikin Park,1.0,-5.074853331008957,-4.467418998798083
+Sweeper | higher slot | low-IVB,L,Dodger Stadium,1.0,-1.4046637432074247,-0.7972294109965505
+Sweeper | higher slot | low-IVB,L,Fenway Park,1.0,-14.868745117764972,-14.261310785554098
+Sweeper | higher slot | low-IVB,L,George M. Steinbrenner Field,1.0,-8.381024486783737,-7.7735901545728625
+Sweeper | higher slot | low-IVB,L,Globe Life Field,1.0,7.309580506412678,7.917014838623553
+Sweeper | higher slot | low-IVB,L,Great American Ball Park,1.0,-19.12813180786157,-18.520697475650696
+Sweeper | higher slot | low-IVB,L,Kauffman Stadium,1.0,9.137977858861523,9.745412191072397
+Sweeper | higher slot | low-IVB,L,Nationals Park,1.0,2.441169411701234,3.048603743912108
+Sweeper | higher slot | low-IVB,L,Oakland Coliseum,1.0,4.635136212687515,5.242570544898389
+Sweeper | higher slot | low-IVB,L,Oracle Park,1.0,3.3797411790457113,3.987175511256585
+Sweeper | higher slot | low-IVB,L,Oriole Park at Camden Yards,1.0,5.5509432255834845,6.158377557794359
+Sweeper | higher slot | low-IVB,L,PNC Park,1.0,7.147355374774055,7.754789706984929
+Sweeper | higher slot | low-IVB,L,Petco Park,1.0,14.464303657024097,15.07173798923497
+Sweeper | higher slot | low-IVB,L,Progressive Field,1.0,3.5993780114140637,4.206812343624938
+Sweeper | higher slot | low-IVB,L,Rate Field,1.0,3.004218251361158,3.611652583572032
+Sweeper | higher slot | low-IVB,L,Rogers Centre,1.0,-0.3196673171099875,0.28776701510088665
+Sweeper | higher slot | low-IVB,L,Sutter Health Park,1.0,-34.82980335558228,-34.22236902337141
+Sweeper | higher slot | low-IVB,L,T-Mobile Park,1.0,12.169670716679438,12.777105048890311
+Sweeper | higher slot | low-IVB,L,Target Field,1.0,-1.9736991704115288,-1.3662648382006546
+Sweeper | higher slot | low-IVB,L,Tropicana Field,1.0,-3.2642351009232904,-2.656800768712416
+Sweeper | higher slot | low-IVB,L,Truist Park,1.0,2.3094664388581876,2.916900771069062
+Sweeper | higher slot | low-IVB,L,Wrigley Field,1.0,2.1361373598447067,2.743571692055581
+Sweeper | higher slot | low-IVB,L,Yankee Stadium,1.0,9.322684323572155,9.930118655783028
+Sweeper | higher slot | low-IVB,L,loanDepot park,1.0,2.8041605156664637,3.411594847877338
+Sweeper | higher slot | low-IVB,R,American Family Field,1.0,-3.2863056641062505,-2.6155980099487564
+Sweeper | higher slot | low-IVB,R,Angel Stadium,1.0,-1.0853875864583364,-0.41467993230084244
+Sweeper | higher slot | low-IVB,R,Busch Stadium,1.0,15.437323624868654,16.108031279026147
+Sweeper | higher slot | low-IVB,R,Chase Field,1.0,1.1360741852920098,1.8067818394495037
+Sweeper | higher slot | low-IVB,R,Citi Field,1.0,12.304430010553578,12.975137664711072
+Sweeper | higher slot | low-IVB,R,Citizens Bank Park,1.0,-16.04461656178155,-15.373908907624054
+Sweeper | higher slot | low-IVB,R,Comerica Park,1.0,5.472649659997579,6.143357314155073
+Sweeper | higher slot | low-IVB,R,Coors Field,1.0,-33.0329129220909,-32.362205267933405
+Sweeper | higher slot | low-IVB,R,Daikin Park,1.0,-8.350937785624394,-7.6802301314669
+Sweeper | higher slot | low-IVB,R,Dodger Stadium,1.0,-5.9128494885479155,-5.242141834390422
+Sweeper | higher slot | low-IVB,R,Fenway Park,1.0,-17.058929257525286,-16.388221603367793
+Sweeper | higher slot | low-IVB,R,George M. Steinbrenner Field,1.0,-11.876291667318673,-11.205584013161179
+Sweeper | higher slot | low-IVB,R,Globe Life Field,1.0,4.644647607424945,5.315355261582439
+Sweeper | higher slot | low-IVB,R,Great American Ball Park,1.0,-16.810700267173793,-16.1399926130163
+Sweeper | higher slot | low-IVB,R,Kauffman Stadium,1.0,11.447791301139768,12.118498955297262
+Sweeper | higher slot | low-IVB,R,Nationals Park,1.0,1.6717875476816755,2.3424952018391694
+Sweeper | higher slot | low-IVB,R,Oakland Coliseum,1.0,4.349941648774407,5.020649302931901
+Sweeper | higher slot | low-IVB,R,Oracle Park,1.0,1.8897053509114181,2.560413005068912
+Sweeper | higher slot | low-IVB,R,Oriole Park at Camden Yards,1.0,9.717716666119138,10.388424320276632
+Sweeper | higher slot | low-IVB,R,PNC Park,1.0,9.771778075787317,10.442485729944812
+Sweeper | higher slot | low-IVB,R,Petco Park,1.0,13.458336406599965,14.12904406075746
+Sweeper | higher slot | low-IVB,R,Progressive Field,1.0,4.946313150386253,5.617020804543746
+Sweeper | higher slot | low-IVB,R,Rate Field,1.0,4.543539158953428,5.214246813110922
+Sweeper | higher slot | low-IVB,R,Rogers Centre,1.0,0.127843478730142,0.798551132887636
+Sweeper | higher slot | low-IVB,R,Sutter Health Park,1.0,-38.87540089609862,-38.20469324194112
+Sweeper | higher slot | low-IVB,R,T-Mobile Park,1.0,12.587516558185609,13.258224212343103
+Sweeper | higher slot | low-IVB,R,Target Field,1.0,-3.354037386528361,-2.6833297323708667
+Sweeper | higher slot | low-IVB,R,Tropicana Field,1.0,-4.952687735322541,-4.281980081165047
+Sweeper | higher slot | low-IVB,R,Truist Park,1.0,3.8045052472517367,4.475212901409231
+Sweeper | higher slot | low-IVB,R,Wrigley Field,1.0,4.262012305428603,4.932719959586096
+Sweeper | higher slot | low-IVB,R,Yankee Stadium,1.0,11.454914165833882,12.125621819991377
+Sweeper | higher slot | low-IVB,R,loanDepot park,1.0,6.149586135616699,6.820293789774193
+Sweeper | lower slot | high-IVB,L,American Family Field,1.0,-3.6043934397718913,-2.9350495825088516
+Sweeper | lower slot | high-IVB,L,Angel Stadium,1.0,-1.2389223146911674,-0.5695784574281277
+Sweeper | lower slot | high-IVB,L,Busch Stadium,1.0,19.835772881571987,20.505116738835028
+Sweeper | lower slot | high-IVB,L,Chase Field,1.0,3.685477607128756,4.3548214643917955
+Sweeper | lower slot | high-IVB,L,Citi Field,1.0,9.812134699455973,10.481478556719011
+Sweeper | lower slot | high-IVB,L,Citizens Bank Park,1.0,-17.84226674009948,-17.17292288283644
+Sweeper | lower slot | high-IVB,L,Comerica Park,1.0,6.775369292659092,7.444713149922132
+Sweeper | lower slot | high-IVB,L,Coors Field,1.0,-34.97656812331354,-34.307224266050504
+Sweeper | lower slot | high-IVB,L,Daikin Park,1.0,-8.540502538713291,-7.871158681450251
+Sweeper | lower slot | high-IVB,L,Dodger Stadium,1.0,-4.60491961345556,-3.93557575619252
+Sweeper | lower slot | high-IVB,L,Fenway Park,1.0,-18.06401028064903,-17.39466642338599
+Sweeper | lower slot | high-IVB,L,George M. Steinbrenner Field,1.0,-10.140796451148741,-9.4714525938857
+Sweeper | lower slot | high-IVB,L,Globe Life Field,1.0,7.825083784567045,8.494427641830086
+Sweeper | lower slot | high-IVB,L,Great American Ball Park,1.0,-20.38411945720713,-19.71477559994409
+Sweeper | lower slot | high-IVB,L,Kauffman Stadium,1.0,12.727753241785669,13.397097099048707
+Sweeper | lower slot | high-IVB,L,Nationals Park,1.0,3.4284231894078343,4.097767046670874
+Sweeper | lower slot | high-IVB,L,Oakland Coliseum,1.0,7.402217759631937,8.071561616894977
+Sweeper | lower slot | high-IVB,L,Oracle Park,1.0,1.5725288114269536,2.241872668689993
+Sweeper | lower slot | high-IVB,L,Oriole Park at Camden Yards,1.0,7.167740064214609,7.837083921477649
+Sweeper | lower slot | high-IVB,L,PNC Park,1.0,8.544930259336908,9.214274116599949
+Sweeper | lower slot | high-IVB,L,Petco Park,1.0,16.63682888982708,17.30617274709012
+Sweeper | lower slot | high-IVB,L,Progressive Field,1.0,3.501253630655875,4.170597487918915
+Sweeper | lower slot | high-IVB,L,Rate Field,1.0,5.5011498622145645,6.170493719477604
+Sweeper | lower slot | high-IVB,L,Rogers Centre,1.0,-0.7226438986695353,-0.05330004140649558
+Sweeper | lower slot | high-IVB,L,Sutter Health Park,1.0,-40.0313044113702,-39.36196055410716
+Sweeper | lower slot | high-IVB,L,T-Mobile Park,1.0,12.903798933758331,13.573142791021372
+Sweeper | lower slot | high-IVB,L,Target Field,1.0,-0.3214445457899786,0.3478993114730611
+Sweeper | lower slot | high-IVB,L,Tropicana Field,1.0,-2.2765346454571556,-1.6071907881941159
+Sweeper | lower slot | high-IVB,L,Truist Park,1.0,1.7149872316268842,2.384331088889924
+Sweeper | lower slot | high-IVB,L,Wrigley Field,1.0,-1.1779989695387594,-0.5086551122757197
+Sweeper | lower slot | high-IVB,L,Yankee Stadium,1.0,7.418815453869465,8.088159311132504
+Sweeper | lower slot | high-IVB,L,loanDepot park,1.0,6.0531564043192265,6.722500261582266
+Sweeper | lower slot | high-IVB,R,American Family Field,1.0,-3.8607319132624887,-3.1614108857413785
+Sweeper | lower slot | high-IVB,R,Angel Stadium,1.0,-0.8870560839083133,-0.18773505638720311
+Sweeper | lower slot | high-IVB,R,Busch Stadium,1.0,18.40478662062373,19.10410764814484
+Sweeper | lower slot | high-IVB,R,Chase Field,1.0,2.83665033579272,3.53597136331383
+Sweeper | lower slot | high-IVB,R,Citi Field,1.0,12.44112860352606,13.14044963104717
+Sweeper | lower slot | high-IVB,R,Citizens Bank Park,1.0,-18.119034428459237,-17.41971340093813
+Sweeper | lower slot | high-IVB,R,Comerica Park,1.0,6.849256981591939,7.548578009113049
+Sweeper | lower slot | high-IVB,R,Coors Field,1.0,-35.90321364770787,-35.203892620186764
+Sweeper | lower slot | high-IVB,R,Daikin Park,1.0,-10.021638317672453,-9.322317290151343
+Sweeper | lower slot | high-IVB,R,Dodger Stadium,1.0,-7.1734519512531865,-6.474130923732076
+Sweeper | lower slot | high-IVB,R,Fenway Park,1.0,-19.110504561766003,-18.41118353424489
+Sweeper | lower slot | high-IVB,R,George M. Steinbrenner Field,1.0,-12.401486673617097,-11.702165646095986
+Sweeper | lower slot | high-IVB,R,Globe Life Field,1.0,5.843573570953272,6.5428945984743825
+Sweeper | lower slot | high-IVB,R,Great American Ball Park,1.0,-18.665042383113388,-17.96572135559228
+Sweeper | lower slot | high-IVB,R,Kauffman Stadium,1.0,13.463087851994315,14.162408879515425
+Sweeper | lower slot | high-IVB,R,Nationals Park,1.0,2.5417103516057376,3.2410313791268477
+Sweeper | lower slot | high-IVB,R,Oakland Coliseum,1.0,6.576550438131638,7.275871465652748
+Sweeper | lower slot | high-IVB,R,Oracle Park,1.0,1.0933831521457473,1.7927041796668575
+Sweeper | lower slot | high-IVB,R,Oriole Park at Camden Yards,1.0,10.041035380423262,10.740356407944372
+Sweeper | lower slot | high-IVB,R,PNC Park,1.0,10.351493590310294,11.050814617831405
+Sweeper | lower slot | high-IVB,R,Petco Park,1.0,15.413862048652454,16.113183076173563
+Sweeper | lower slot | high-IVB,R,Progressive Field,1.0,4.5982983573773,5.29761938489841
+Sweeper | lower slot | high-IVB,R,Rate Field,1.0,6.031783098356272,6.7311041258773825
+Sweeper | lower slot | high-IVB,R,Rogers Centre,1.0,-0.4518857663306336,0.24743526119047654
+Sweeper | lower slot | high-IVB,R,Sutter Health Park,1.0,-41.99537398274276,-41.296052955221654
+Sweeper | lower slot | high-IVB,R,T-Mobile Park,1.0,13.352519537705357,14.051840565226467
+Sweeper | lower slot | high-IVB,R,Target Field,1.0,-1.6755788741414537,-0.9762578466203435
+Sweeper | lower slot | high-IVB,R,Tropicana Field,1.0,-3.9221995703196875,-3.2228785427985773
+Sweeper | lower slot | high-IVB,R,Truist Park,1.0,2.937257928944529,3.6365789564656392
+Sweeper | lower slot | high-IVB,R,Wrigley Field,1.0,1.4893768282245425,2.1886978557456525
+Sweeper | lower slot | high-IVB,R,Yankee Stadium,1.0,9.797481292213694,10.496802319734805
+Sweeper | lower slot | high-IVB,R,loanDepot park,1.0,7.74568930504618,8.44501033256729
+Sweeper | lower slot | low-IVB,L,American Family Field,1.0,-2.842541995234291,-2.254251787726588
+Sweeper | lower slot | low-IVB,L,Angel Stadium,1.0,-1.3325409728575324,-0.7442507653498293
+Sweeper | lower slot | low-IVB,L,Busch Stadium,1.0,16.84603164461241,17.434321852120114
+Sweeper | lower slot | low-IVB,L,Chase Field,1.0,1.1895737984436776,1.7778640059513808
+Sweeper | lower slot | low-IVB,L,Citi Field,1.0,7.990278002967539,8.578568210475241
+Sweeper | lower slot | low-IVB,L,Citizens Bank Park,1.0,-14.604273829247937,-14.015983621740235
+Sweeper | lower slot | low-IVB,L,Comerica Park,1.0,4.272316673339423,4.8606068808471266
+Sweeper | lower slot | low-IVB,L,Coors Field,1.0,-30.464412438427594,-29.87612223091989
+Sweeper | lower slot | low-IVB,L,Daikin Park,1.0,-4.101591066748964,-3.5133008592412605
+Sweeper | lower slot | low-IVB,L,Dodger Stadium,1.0,-0.37255751910535184,0.21573268840235127
+Sweeper | lower slot | low-IVB,L,Fenway Park,1.0,-14.07515935420014,-13.486869146692438
+Sweeper | lower slot | low-IVB,L,George M. Steinbrenner Field,1.0,-7.349137968782667,-6.760847761274964
+Sweeper | lower slot | low-IVB,L,Globe Life Field,1.0,7.478501747376596,8.066791954884298
+Sweeper | lower slot | low-IVB,L,Great American Ball Park,1.0,-19.00984666558899,-18.421556458081287
+Sweeper | lower slot | low-IVB,L,Kauffman Stadium,1.0,8.809606268720273,9.397896476227976
+Sweeper | lower slot | low-IVB,L,Nationals Park,1.0,2.724975967873359,3.313266175381062
+Sweeper | lower slot | low-IVB,L,Oakland Coliseum,1.0,4.089353987181536,4.677644194689239
+Sweeper | lower slot | low-IVB,L,Oracle Park,1.0,3.666358825767557,4.25464903327526
+Sweeper | lower slot | low-IVB,L,Oriole Park at Camden Yards,1.0,4.169497602011939,4.757787809519642
+Sweeper | lower slot | low-IVB,L,PNC Park,1.0,6.396266835778866,6.98455704328657
+Sweeper | lower slot | low-IVB,L,Petco Park,1.0,14.370853423318136,14.959143630825839
+Sweeper | lower slot | low-IVB,L,Progressive Field,1.0,3.2175717599299003,3.8058619674376035
+Sweeper | lower slot | low-IVB,L,Rate Field,1.0,2.289602940297969,2.8778931478056724
+Sweeper | lower slot | low-IVB,L,Rogers Centre,1.0,-0.3180449212340473,0.2702452862736558
+Sweeper | lower slot | low-IVB,L,Sutter Health Park,1.0,-33.61149682099126,-33.02320661348356
+Sweeper | lower slot | low-IVB,L,T-Mobile Park,1.0,11.75127441861003,12.339564626117733
+Sweeper | lower slot | low-IVB,L,Target Field,1.0,-2.146732762037558,-1.5584425545298548
+Sweeper | lower slot | low-IVB,L,Tropicana Field,1.0,-2.6299417333477297,-2.0416515258400265
+Sweeper | lower slot | low-IVB,L,Truist Park,1.0,1.9845437861973934,2.5728339937050966
+Sweeper | lower slot | low-IVB,L,Wrigley Field,1.0,2.1759609160930595,2.7642511236007627
+Sweeper | lower slot | low-IVB,L,Yankee Stadium,1.0,8.759582222960365,9.347872430468067
+Sweeper | lower slot | low-IVB,L,loanDepot park,1.0,1.8508405860775385,2.4391307935852415
+Sweeper | lower slot | low-IVB,R,American Family Field,1.0,-2.992511012387811,-2.356690434694812
+Sweeper | lower slot | low-IVB,R,Angel Stadium,1.0,-1.2125966001121968,-0.576776022419198
+Sweeper | lower slot | low-IVB,R,Busch Stadium,1.0,15.073726425074847,15.709547002767845
+Sweeper | lower slot | low-IVB,R,Chase Field,1.0,0.6708429403263783,1.306663518019377
+Sweeper | lower slot | low-IVB,R,Citi Field,1.0,11.164111396009664,11.799931973702662
+Sweeper | lower slot | low-IVB,R,Citizens Bank Park,1.0,-14.94429151091897,-14.308470933225971
+Sweeper | lower slot | low-IVB,R,Comerica Park,1.0,4.699501032382374,5.335321610075373
+Sweeper | lower slot | low-IVB,R,Coors Field,1.0,-31.42146896624342,-30.78564838855042
+Sweeper | lower slot | low-IVB,R,Daikin Park,1.0,-6.412061937855487,-5.776241360162488
+Sweeper | lower slot | low-IVB,R,Dodger Stadium,1.0,-3.795776918999673,-3.159956341306674
+Sweeper | lower slot | low-IVB,R,Fenway Park,1.0,-15.57946709400917,-14.943646516316171
+Sweeper | lower slot | low-IVB,R,George M. Steinbrenner Field,1.0,-10.224509691554747,-9.588689113861749
+Sweeper | lower slot | low-IVB,R,Globe Life Field,1.0,5.023367353960886,5.659187931653885
+Sweeper | lower slot | low-IVB,R,Great American Ball Park,1.0,-16.74858530424105,-16.11276472654805
+Sweeper | lower slot | low-IVB,R,Kauffman Stadium,1.0,10.186779853619354,10.822600431312352
+Sweeper | lower slot | low-IVB,R,Nationals Park,1.0,1.8281301043082134,2.4639506820012125
+Sweeper | lower slot | low-IVB,R,Oakland Coliseum,1.0,3.416523972680725,4.052344550373724
+Sweeper | lower slot | low-IVB,R,Oracle Park,1.0,2.67558804639028,3.3114086240832785
+Sweeper | lower slot | low-IVB,R,Oriole Park at Camden Yards,1.0,7.655775366291936,8.291595943984934
+Sweeper | lower slot | low-IVB,R,PNC Park,1.0,8.533621373621946,9.169441951314944
+Sweeper | lower slot | low-IVB,R,Petco Park,1.0,13.060038486491253,13.695859064184251
+Sweeper | lower slot | low-IVB,R,Progressive Field,1.0,4.434439099176405,5.070259676869404
+Sweeper | lower slot | low-IVB,R,Rate Field,1.0,3.2701239450393174,3.905944522732316
+Sweeper | lower slot | low-IVB,R,Rogers Centre,1.0,0.11821281955039988,0.7540333972433987
+Sweeper | lower slot | low-IVB,R,Sutter Health Park,1.0,-36.33785453923446,-35.70203396154147
+Sweeper | lower slot | low-IVB,R,T-Mobile Park,1.0,12.019895538711294,12.655716116404292
+Sweeper | lower slot | low-IVB,R,Target Field,1.0,-3.6851339527141174,-3.0493133750211188
+Sweeper | lower slot | low-IVB,R,Tropicana Field,1.0,-4.4258206123869686,-3.7900000346939695
+Sweeper | lower slot | low-IVB,R,Truist Park,1.0,3.429936235022112,4.065756812715111
+Sweeper | lower slot | low-IVB,R,Wrigley Field,1.0,4.71631283012729,5.352133407820289
+Sweeper | lower slot | low-IVB,R,Yankee Stadium,1.0,11.113993371223359,11.749813948916357
+Sweeper | lower slot | low-IVB,R,loanDepot park,1.0,4.342899464474083,4.978720042167082

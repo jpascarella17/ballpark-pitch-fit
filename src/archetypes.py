@@ -16,10 +16,10 @@ PITCH_GROUPS = {
     "FS": "Splitter",
 }
 
-# Each pitch group is split into (slot tiers x velocity tiers x IVB tiers) archetypes.
-# More tiers = more specific archetypes but fewer balls in play per park/archetype cell.
-# 2 x 2 x 2 = 8 archetypes per pitch group is a safe starting point for ~5 seasons of data.
-# Try 3 slot tiers (["low", "mid", "high"]) only after checking cell sizes in notebook 03.
+# Each pitch group is split into (slot tiers x IVB tiers) archetypes: 2 x 2 = 4 per pitch group.
+# The velocity tier is still computed (velo_tier column) for slide text, but it no longer
+# splits the archetypes: park effects act on batted balls, and splitting by velocity made
+# the groups too thin. More tiers = more specific archetypes but fewer balls in play each.
 SLOT_LABELS = ["lower", "higher"]
 VELO_LABELS = ["slower", "faster"]
 IVB_LABELS = ["low-IVB", "high-IVB"]
@@ -68,7 +68,7 @@ def _tier(df: pd.DataFrame, col: str, labels: list) -> pd.Series:
 
 
 def add_archetypes(df, slot_labels=SLOT_LABELS, velo_labels=VELO_LABELS, ivb_labels=IVB_LABELS):
-    """Add tier columns and an `archetype` label like 'Four-seam | higher slot | faster | high-IVB'."""
+    """Add tier columns and an `archetype` label like 'Four-seam | higher slot | high-IVB'."""
     df = df.copy()
     df["slot_tier"] = _tier(df, "slot_value", slot_labels)
     df["velo_tier"] = _tier(df, "release_speed", velo_labels)
@@ -81,5 +81,3 @@ def add_archetypes(df, slot_labels=SLOT_LABELS, velo_labels=VELO_LABELS, ivb_lab
         + df.loc[ok, "ivb_tier"]
     )
     return df
-    
-
