@@ -1,65 +1,33 @@
 archetype,pitches
-Four-seam | lower slot | slower | low-IVB,198525
-Four-seam | higher slot | faster | high-IVB,197659
-Four-seam | higher slot | slower | high-IVB,193921
-Four-seam | lower slot | faster | low-IVB,192959
-Sinker | lower slot | slower | low-IVB,107638
-Sinker | higher slot | faster | high-IVB,106494
-Sinker | higher slot | slower | high-IVB,96247
-Sinker | lower slot | faster | low-IVB,95068
-Four-seam | lower slot | faster | high-IVB,91355
-Four-seam | higher slot | slower | low-IVB,90459
-Slider | higher slot | faster | high-IVB,86626
-Slider | lower slot | slower | low-IVB,84430
-Four-seam | higher slot | faster | low-IVB,83649
-Four-seam | lower slot | slower | high-IVB,82849
-Changeup | higher slot | slower | high-IVB,79626
-Changeup | lower slot | faster | low-IVB,75591
-Slider | higher slot | slower | low-IVB,73625
-Slider | lower slot | faster | high-IVB,71779
-Slider | lower slot | slower | high-IVB,59936
-Curveball | higher slot | slower | low-IVB,59867
-Slider | higher slot | faster | low-IVB,57860
-Changeup | lower slot | slower | low-IVB,57005
-Curveball | lower slot | faster | high-IVB,55261
-Changeup | higher slot | faster | high-IVB,52993
-Slider | lower slot | faster | low-IVB,46041
-Slider | higher slot | slower | high-IVB,44075
-Cutter | higher slot | faster | high-IVB,43989
-Cutter | higher slot | slower | low-IVB,42996
-Cutter | lower slot | slower | low-IVB,42469
-Cutter | lower slot | faster | high-IVB,41547
-Sweeper | lower slot | slower | high-IVB,40834
-Sinker | lower slot | faster | high-IVB,40682
-Curveball | lower slot | slower | high-IVB,39712
-Sinker | higher slot | slower | low-IVB,39538
-Sweeper | higher slot | slower | low-IVB,38648
-Sweeper | higher slot | faster | low-IVB,38584
-Sinker | higher slot | faster | low-IVB,36995
-Sweeper | lower slot | faster | high-IVB,36446
-Sinker | lower slot | slower | high-IVB,35885
-Curveball | higher slot | faster | low-IVB,35003
-Curveball | higher slot | faster | high-IVB,32487
-Changeup | lower slot | faster | high-IVB,31267
-Changeup | higher slot | faster | low-IVB,30648
-Sweeper | higher slot | faster | high-IVB,29671
-Curveball | lower slot | faster | low-IVB,27830
-Curveball | lower slot | slower | low-IVB,27720
-Sweeper | lower slot | slower | low-IVB,27427
-Changeup | higher slot | slower | low-IVB,27303
-Cutter | lower slot | slower | high-IVB,27021
-Cutter | lower slot | faster | low-IVB,26869
-Changeup | lower slot | slower | high-IVB,26706
-Sweeper | lower slot | faster | low-IVB,25982
-Cutter | higher slot | faster | low-IVB,25527
-Cutter | higher slot | slower | high-IVB,25395
-Sweeper | higher slot | slower | high-IVB,23787
-Curveball | higher slot | slower | high-IVB,23167
-Splitter | lower slot | faster | low-IVB,16471
-Splitter | higher slot | slower | high-IVB,14998
-Splitter | higher slot | faster | high-IVB,14318
-Splitter | lower slot | slower | low-IVB,12850
-Splitter | higher slot | slower | low-IVB,10061
-Splitter | lower slot | slower | high-IVB,9666
-Splitter | lower slot | faster | high-IVB,8491
-Splitter | higher slot | faster | low-IVB,8102
+Four-seam | higher slot | high-IVB,391580
+Four-seam | lower slot | low-IVB,391484
+Sinker | higher slot | high-IVB,202741
+Sinker | lower slot | low-IVB,202706
+Four-seam | lower slot | high-IVB,174204
+Four-seam | higher slot | low-IVB,174108
+Changeup | higher slot | high-IVB,132619
+Changeup | lower slot | low-IVB,132596
+Slider | lower slot | high-IVB,131715
+Slider | higher slot | low-IVB,131485
+Slider | higher slot | high-IVB,130701
+Slider | lower slot | low-IVB,130471
+Curveball | lower slot | high-IVB,94973
+Curveball | higher slot | low-IVB,94870
+Sweeper | lower slot | high-IVB,77280
+Sweeper | higher slot | low-IVB,77232
+Sinker | lower slot | high-IVB,76567
+Sinker | higher slot | low-IVB,76533
+Cutter | higher slot | high-IVB,69384
+Cutter | lower slot | low-IVB,69338
+Cutter | lower slot | high-IVB,68568
+Cutter | higher slot | low-IVB,68523
+Changeup | lower slot | high-IVB,57973
+Changeup | higher slot | low-IVB,57951
+Curveball | higher slot | high-IVB,55654
+Curveball | lower slot | low-IVB,55550
+Sweeper | higher slot | high-IVB,53458
+Sweeper | lower slot | low-IVB,53409
+Splitter | lower slot | low-IVB,29321
+Splitter | higher slot | high-IVB,29316
+Splitter | higher slot | low-IVB,18163
+Splitter | lower slot | high-IVB,18157

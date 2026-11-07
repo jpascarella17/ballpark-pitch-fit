@@ -78,6 +78,8 @@ def add_archetypes(df, slot_labels=SLOT_LABELS, velo_labels=VELO_LABELS, ivb_lab
     df["archetype"] = df["archetype"].astype("object")
     df.loc[ok, "archetype"] = (
         df.loc[ok, "pitch_group"] + " | " + df.loc[ok, "slot_tier"] + " slot | "
-        + df.loc[ok, "velo_tier"] + " | " + df.loc[ok, "ivb_tier"]
+        + df.loc[ok, "ivb_tier"]
     )
     return df
+    
+
