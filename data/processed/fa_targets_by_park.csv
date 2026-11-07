@@ -1,0 +1,97 @@
+park,name,role,fit_pts
+American Family Field,"Holmes, Clay",S,-0.7
+American Family Field,"Loáisiga, Jonathan",R,-0.9
+American Family Field,"Peterson, David",S,-1.4
+Angel Stadium,"Okert, Steven",R,0.1
+Angel Stadium,"Ray, Robbie",S,-0.2
+Angel Stadium,"Pivetta, Nick",S,-0.2
+Busch Stadium,"Pagán, Emilio",R,21.7
+Busch Stadium,"Vesia, Alex",R,19.8
+Busch Stadium,"Pivetta, Nick",S,19.7
+Chase Field,"Pagán, Emilio",R,4.3
+Chase Field,"Vesia, Alex",R,4.2
+Chase Field,"Okert, Steven",R,3.7
+Citi Field,"Imanaga, Shota",S,14.2
+Citi Field,"Ray, Robbie",S,13.9
+Citi Field,"Rogers, Trevor",S,13.0
+Citizens Bank Park,"Holmes, Clay",S,-10.2
+Citizens Bank Park,"Loáisiga, Jonathan",R,-10.6
+Citizens Bank Park,"Peterson, David",S,-11.2
+Comerica Park,"Imanaga, Shota",S,7.6
+Comerica Park,"Pagán, Emilio",R,7.6
+Comerica Park,"Vesia, Alex",R,7.6
+Coors Field,"Holmes, Clay",S,-22.1
+Coors Field,"Loáisiga, Jonathan",R,-24.1
+Coors Field,"Romero, JoJo",R,-26.2
+Daikin Park,"Holmes, Clay",S,-0.7
+Daikin Park,"Loáisiga, Jonathan",R,-0.7
+Daikin Park,"Blackburn, Paul",R,-2.4
+Dodger Stadium,"Holmes, Clay",S,4.2
+Dodger Stadium,"Loáisiga, Jonathan",R,2.4
+Dodger Stadium,"King, Michael",S,1.2
+Fenway Park,"Holmes, Clay",S,-9.2
+Fenway Park,"Loáisiga, Jonathan",R,-11.2
+Fenway Park,"Gray, Sonny",S,-11.9
+George M. Steinbrenner Field,"Loáisiga, Jonathan",R,-5.9
+George M. Steinbrenner Field,"King, Michael",S,-5.9
+George M. Steinbrenner Field,"Holmes, Clay",S,-6.0
+Globe Life Field,"Soroka, Michael",S,9.0
+Globe Life Field,"Peralta, Freddy",S,8.8
+Globe Life Field,"Iglesias, Raisel",R,8.8
+Great American Ball Park,"Peterson, David",S,-12.6
+Great American Ball Park,"Bubic, Kris",S,-14.1
+Great American Ball Park,"Rogers, Trevor",S,-14.3
+Kauffman Stadium,"Imanaga, Shota",S,14.6
+Kauffman Stadium,"Pagán, Emilio",R,14.3
+Kauffman Stadium,"Vesia, Alex",R,14.0
+Nationals Park,"Pagán, Emilio",R,5.0
+Nationals Park,"Vesia, Alex",R,4.1
+Nationals Park,"Iglesias, Raisel",R,3.9
+Oakland Coliseum,"Pagán, Emilio",R,7.4
+Oakland Coliseum,"Vesia, Alex",R,7.3
+Oakland Coliseum,"Imanaga, Shota",S,7.2
+Oracle Park,"Holmes, Clay",S,6.4
+Oracle Park,"Loáisiga, Jonathan",R,5.2
+Oracle Park,"Gray, Sonny",S,4.8
+Oriole Park at Camden Yards,"Ray, Robbie",S,12.1
+Oriole Park at Camden Yards,"Imanaga, Shota",S,12.0
+Oriole Park at Camden Yards,"Boyd, Matthew",S,11.7
+PNC Park,"Imanaga, Shota",S,11.8
+PNC Park,"Ray, Robbie",S,11.4
+PNC Park,"Boyd, Matthew",S,11.0
+Petco Park,"Pagán, Emilio",R,17.2
+Petco Park,"Okert, Steven",R,16.6
+Petco Park,"Vesia, Alex",R,16.6
+Progressive Field,"Boyd, Matthew",S,6.3
+Progressive Field,"Rogers, Trevor",S,6.2
+Progressive Field,"Skubal, Tarik",S,6.0
+Rate Field,"Imanaga, Shota",S,7.2
+Rate Field,"Ray, Robbie",S,6.5
+Rate Field,"Vesia, Alex",R,6.1
+Rogers Centre,"Peterson, David",S,1.7
+Rogers Centre,"Morejón, Adrian",R,1.7
+Rogers Centre,"Rogers, Trevor",S,1.6
+Sutter Health Park,"Holmes, Clay",S,-25.2
+Sutter Health Park,"Loáisiga, Jonathan",R,-28.1
+Sutter Health Park,"Gray, Sonny",S,-30.7
+T-Mobile Park,"Imanaga, Shota",S,14.1
+T-Mobile Park,"Okert, Steven",R,13.9
+T-Mobile Park,"Ray, Robbie",S,13.8
+Target Field,"Okert, Steven",R,0.0
+Target Field,"Iglesias, Raisel",R,-0.2
+Target Field,"Soroka, Michael",S,-0.5
+Tropicana Field,"Pagán, Emilio",R,-1.0
+Tropicana Field,"Peralta, Freddy",S,-1.6
+Tropicana Field,"Mize, Casey",S,-1.7
+Truist Park,"Rogers, Trevor",S,5.6
+Truist Park,"Boyd, Matthew",S,5.5
+Truist Park,"Skubal, Tarik",S,5.4
+Wrigley Field,"Peterson, David",S,9.4
+Wrigley Field,"Romero, JoJo",R,8.0
+Wrigley Field,"Bubic, Kris",S,7.5
+Yankee Stadium,"Peterson, David",S,13.9
+Yankee Stadium,"Skubal, Tarik",S,13.6
+Yankee Stadium,"Rogers, Trevor",S,13.4
+loanDepot park,"Imanaga, Shota",S,9.3
+loanDepot park,"Ray, Robbie",S,8.1
+loanDepot park,"Vesia, Alex",R,7.5
