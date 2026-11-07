@@ -1,4 +1,94 @@
 game_year,park,pitches,games
+2022,American Family Field,24868,81
+2022,Angel Stadium,23360,81
+2022,Busch Stadium,23541,81
+2022,Chase Field,23550,81
+2022,Citi Field,23511,81
+2022,Citizens Bank Park,23708,81
+2022,Comerica Park,23200,81
+2022,Coors Field,23758,81
+2022,Daikin Park,22965,81
+2022,Dodger Stadium,23626,81
+2022,Fenway Park,24092,81
+2022,Globe Life Field,23738,81
+2022,Great American Ball Park,24553,81
+2022,Kauffman Stadium,23705,81
+2022,Nationals Park,23773,81
+2022,Oracle Park,24150,81
+2022,Oriole Park at Camden Yards,23412,81
+2022,PNC Park,23942,81
+2022,Petco Park,23706,81
+2022,Progressive Field,23383,81
+2022,Rate Field,23599,81
+2022,Rogers Centre,22928,81
+2022,Sutter Health Park,23255,81
+2022,T-Mobile Park,23431,81
+2022,Target Field,24197,81
+2022,Tropicana Field,22941,81
+2022,Truist Park,23927,81
+2022,Wrigley Field,23744,81
+2022,Yankee Stadium,23752,81
+2022,loanDepot park,23895,81
+2023,American Family Field,24313,81
+2023,Angel Stadium,24298,81
+2023,Busch Stadium,24317,81
+2023,Chase Field,23893,81
+2023,Citi Field,24229,81
+2023,Citizens Bank Park,24085,81
+2023,Comerica Park,24012,81
+2023,Coors Field,24176,81
+2023,Daikin Park,23984,81
+2023,Dodger Stadium,23702,81
+2023,Fenway Park,24573,81
+2023,Globe Life Field,24162,81
+2023,Great American Ball Park,24482,81
+2023,Kauffman Stadium,24145,81
+2023,Nationals Park,23858,81
+2023,Oracle Park,22853,81
+2023,Oriole Park at Camden Yards,23544,81
+2023,PNC Park,23965,81
+2023,Petco Park,24330,81
+2023,Progressive Field,23665,81
+2023,Rate Field,24486,81
+2023,Rogers Centre,24236,81
+2023,Sutter Health Park,24408,81
+2023,T-Mobile Park,23797,81
+2023,Target Field,24098,81
+2023,Tropicana Field,23338,81
+2023,Truist Park,24363,81
+2023,Wrigley Field,24188,81
+2023,Yankee Stadium,23703,81
+2023,loanDepot park,23481,81
+2024,American Family Field,24139,81
+2024,Angel Stadium,23776,81
+2024,Busch Stadium,23411,81
+2024,Chase Field,24284,81
+2024,Citi Field,24168,81
+2024,Citizens Bank Park,23563,81
+2024,Comerica Park,23377,81
+2024,Coors Field,24054,81
+2024,Daikin Park,23248,81
+2024,Dodger Stadium,23925,81
+2024,Fenway Park,23800,81
+2024,Globe Life Field,23567,81
+2024,Great American Ball Park,23737,81
+2024,Kauffman Stadium,23289,81
+2024,Nationals Park,23269,81
+2024,Oracle Park,23754,81
+2024,Oriole Park at Camden Yards,23783,81
+2024,PNC Park,23810,81
+2024,Petco Park,23465,81
+2024,Progressive Field,23112,80
+2024,Rate Field,23890,81
+2024,Rogers Centre,23578,81
+2024,Sutter Health Park,23638,81
+2024,T-Mobile Park,23342,81
+2024,Target Field,23876,81
+2024,Tropicana Field,23856,81
+2024,Truist Park,23535,81
+2024,Wrigley Field,23194,81
+2024,Yankee Stadium,25013,81
+2024,loanDepot park,24446,81
 2025,American Family Field,24180,81
 2025,Angel Stadium,24000,81
 2025,Busch Stadium,23043,81
@@ -29,3 +119,33 @@ game_year,park,pitches,games
 2025,Wrigley Field,23414,81
 2025,Yankee Stadium,24012,81
 2025,loanDepot park,23389,81
+2026,American Family Field,24347,81
+2026,Angel Stadium,24070,81
+2026,Busch Stadium,23792,81
+2026,Chase Field,23433,81
+2026,Citi Field,24175,81
+2026,Citizens Bank Park,24170,81
+2026,Comerica Park,23396,81
+2026,Coors Field,23613,81
+2026,Daikin Park,24274,81
+2026,Dodger Stadium,23837,81
+2026,Fenway Park,23452,81
+2026,Globe Life Field,23134,81
+2026,Great American Ball Park,24648,81
+2026,Kauffman Stadium,23874,81
+2026,Nationals Park,24507,81
+2026,Oracle Park,23624,81
+2026,Oriole Park at Camden Yards,23757,81
+2026,PNC Park,24483,81
+2026,Petco Park,23905,81
+2026,Progressive Field,24246,81
+2026,Rate Field,24395,81
+2026,Rogers Centre,23828,81
+2026,Sutter Health Park,24922,81
+2026,T-Mobile Park,23498,81
+2026,Target Field,23943,81
+2026,Tropicana Field,22531,81
+2026,Truist Park,23269,81
+2026,Wrigley Field,24571,81
+2026,Yankee Stadium,23755,80
+2026,loanDepot park,23343,81
