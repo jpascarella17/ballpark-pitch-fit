@@ -9,8 +9,8 @@ The goal is to give a front office a data-driven way to answer *"Will this pitch
 1. **Data.** Pitch-level Statcast data for the regular seasons 2022-2026 (about 3.5 million pitches), pulled with `pybaseball`.
 2. **Pitch archetypes.** Each pitch is grouped by pitch type, arm slot (Statcast arm angle, 2 tiers), and induced vertical break (2 tiers), giving 32 archetypes. Velocity stays in the data and on the slides but does not split the groups, because park effects act on batted balls.
 3. **Park effects on contact.** On balls in play, compare actual wOBA to expected wOBA (built from exit velocity and launch angle, which does not know the park). The gap, relative to the league average for the same kind of contact and shrunk toward zero when samples are small, is the park effect. It is measured by **batter side and batted-ball type** (ground ball, line drive, fly ball, popup). Home and visiting pitchers both throw in every park, so team quality mostly cancels out.
-4. **Archetype and pitcher fit.** Each archetype or pitcher produces a mix of those batted balls. Weighting each park's effects by that mix gives the expected park effect. The fit score removes the park's overall effect, so it shows how much better a park suits him than it suits a typical pitcher (otherwise every pitcher would just inherit the park factor).
-5. **Backtest.** Check whether fit scores predict what happened to pitchers who changed parks, against a plain park-factor baseline.
+4. **Archetype and pitcher fit.** Each archetype or pitcher produces a mix of those batted balls. Weighting each park's effects by that mix gives the expected park effect. The fit score removes the park's overall effect, so it shows how much better a park suits him than it suits a typical pitcher (otherwise every pitcher would just inherit the park factor). A separate projection adds his park-neutral wOBA allowed (shrunk toward the league average) to give his projected wOBA allowed at each park.
+5. **Backtest.** Check whether the park effects predict how each pitcher-season's results at his home park differed from his road results, building every prediction from the other seasons only and comparing against a plain park-factor baseline.
 6. **Slides.** One slide per park plus summary slides on the biggest mismatches and how a team would use this.
 
 ## Status
@@ -18,9 +18,9 @@ The goal is to give a front office a data-driven way to answer *"Will this pitch
 - [x] **Setup:** repo, environment, folder structure
 - [x] **01 Data pull:** 5 seasons downloaded and checked
 - [x] **02 Archetypes:** 32 archetypes, cut points saved
-- [ ] **03 Park effects:** effects by batter side and batted-ball type, archetype fit scores, charts
+- [x] **03 Park effects:** effects by batter side and batted-ball type, archetype fit scores, charts
 - [ ] **04 Fit scores:** pitcher fit scores and free-agent targets
-- [ ] **Backtest:** pitchers who changed parks
+- [ ] **05 Backtest:** do park effects predict home vs. road results?
 - [ ] **Slides:** 30 park slides, summary, limitations, usage
 
 ## Key findings so far
@@ -38,7 +38,7 @@ Park-wide effects repeat across halves (correlation 0.59 across parks). Effects 
 
 ```
 src/                  reusable code (data pull, archetypes, park effects, fit scores, plots)
-notebooks/            01_pull_data, 02_archetypes, 03_park_effects, 04_fa_targets
+notebooks/            01_pull_data, 02_archetypes, 03_park_effects, 04_fa_targets, 05_backtest
 data/raw/             downloaded Statcast files (git-ignored)
 data/interim/         large intermediate files (git-ignored)
 data/processed/       small summary tables (committed)
@@ -60,5 +60,6 @@ In VS Code, select the `.venv` interpreter/kernel, then run the notebooks in ord
 
 - Weather, defense, umpires, and lineup quality are not modeled; some leak into the actual-minus-expected gap.
 - Park effects are measured by batter side and batted-ball type, not by spray direction or individual pitch type.
-- Sutter Health Park has two seasons of data and George M. Steinbrenner Field one, so those parks are low-confidence.
+- Oakland Coliseum and Steinbrenner Field are left out of scoring because no team plays there now. Sutter Health Park has only two seasons of data and is low-confidence.
+- Fit scores are relative to a typical pitcher. Projected wOBA allowed combines a shrunk estimate of talent with the park effect, and the amount of shrinkage is a judgment call.
 - Fit scores are estimates from past data, not predictions of exact performance.

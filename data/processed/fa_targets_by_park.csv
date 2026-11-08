@@ -1,97 +1,91 @@
-park,name,role,fit_pts
-American Family Field,"Holmes, Clay",S,1.6
-American Family Field,"Loáisiga, Jonathan",R,1.3
-American Family Field,"Peterson, David",S,0.9
-Angel Stadium,"Okert, Steven",R,0.8
-Angel Stadium,"Ray, Robbie",S,0.5
-Angel Stadium,"Pivetta, Nick",S,0.5
-Busch Stadium,"Pagán, Emilio",R,5.1
-Busch Stadium,"Vesia, Alex",R,3.2
-Busch Stadium,"Pivetta, Nick",S,3.1
-Chase Field,"Pagán, Emilio",R,2.9
-Chase Field,"Vesia, Alex",R,2.8
-Chase Field,"Okert, Steven",R,2.3
-Citi Field,"Imanaga, Shota",S,4.4
-Citi Field,"Ray, Robbie",S,4.1
-Citi Field,"Rogers, Trevor",S,3.2
-Citizens Bank Park,"Holmes, Clay",S,3.9
-Citizens Bank Park,"Loáisiga, Jonathan",R,3.6
-Citizens Bank Park,"Peterson, David",S,3.0
-Comerica Park,"Imanaga, Shota",S,2.6
-Comerica Park,"Pagán, Emilio",R,2.6
-Comerica Park,"Vesia, Alex",R,2.5
-Coors Field,"Holmes, Clay",S,8.0
-Coors Field,"Loáisiga, Jonathan",R,6.0
-Coors Field,"Romero, JoJo",R,3.9
-Daikin Park,"Holmes, Clay",S,3.8
-Daikin Park,"Loáisiga, Jonathan",R,3.7
-Daikin Park,"Blackburn, Paul",R,2.1
-Dodger Stadium,"Holmes, Clay",S,5.4
-Dodger Stadium,"Loáisiga, Jonathan",R,3.5
-Dodger Stadium,"King, Michael",S,2.4
-Fenway Park,"Holmes, Clay",S,5.1
-Fenway Park,"Loáisiga, Jonathan",R,3.1
-Fenway Park,"Gray, Sonny",S,2.4
-George M. Steinbrenner Field,"Loáisiga, Jonathan",R,2.2
-George M. Steinbrenner Field,"King, Michael",S,2.1
-George M. Steinbrenner Field,"Holmes, Clay",S,2.1
-Globe Life Field,"Soroka, Michael",S,1.9
-Globe Life Field,"Peralta, Freddy",S,1.7
-Globe Life Field,"Iglesias, Raisel",R,1.6
-Great American Ball Park,"Peterson, David",S,5.0
-Great American Ball Park,"Bubic, Kris",S,3.5
-Great American Ball Park,"Rogers, Trevor",S,3.4
-Kauffman Stadium,"Imanaga, Shota",S,4.8
-Kauffman Stadium,"Pagán, Emilio",R,4.5
-Kauffman Stadium,"Vesia, Alex",R,4.2
-Nationals Park,"Pagán, Emilio",R,2.1
-Nationals Park,"Vesia, Alex",R,1.2
-Nationals Park,"Iglesias, Raisel",R,1.0
-Oakland Coliseum,"Pagán, Emilio",R,2.8
-Oakland Coliseum,"Vesia, Alex",R,2.7
-Oakland Coliseum,"Imanaga, Shota",S,2.6
-Oracle Park,"Holmes, Clay",S,2.5
-Oracle Park,"Loáisiga, Jonathan",R,1.3
-Oracle Park,"Gray, Sonny",S,0.9
-Oriole Park at Camden Yards,"Ray, Robbie",S,5.6
-Oriole Park at Camden Yards,"Imanaga, Shota",S,5.5
-Oriole Park at Camden Yards,"Boyd, Matthew",S,5.2
-PNC Park,"Imanaga, Shota",S,3.7
-PNC Park,"Ray, Robbie",S,3.4
-PNC Park,"Boyd, Matthew",S,3.0
-Petco Park,"Pagán, Emilio",R,2.8
-Petco Park,"Okert, Steven",R,2.2
-Petco Park,"Vesia, Alex",R,2.1
-Progressive Field,"Boyd, Matthew",S,1.9
-Progressive Field,"Rogers, Trevor",S,1.8
-Progressive Field,"Skubal, Tarik",S,1.6
-Rate Field,"Imanaga, Shota",S,3.7
-Rate Field,"Ray, Robbie",S,3.1
-Rate Field,"Vesia, Alex",R,2.6
-Rogers Centre,"Peterson, David",S,1.3
-Rogers Centre,"Morejón, Adrian",R,1.3
-Rogers Centre,"Rogers, Trevor",S,1.2
-Sutter Health Park,"Holmes, Clay",S,9.1
-Sutter Health Park,"Loáisiga, Jonathan",R,6.2
-Sutter Health Park,"Gray, Sonny",S,3.5
-T-Mobile Park,"Imanaga, Shota",S,1.5
-T-Mobile Park,"Okert, Steven",R,1.3
-T-Mobile Park,"Ray, Robbie",S,1.2
-Target Field,"Okert, Steven",R,2.1
-Target Field,"Iglesias, Raisel",R,1.8
-Target Field,"Soroka, Michael",S,1.5
-Tropicana Field,"Pagán, Emilio",R,2.0
-Tropicana Field,"Peralta, Freddy",S,1.5
-Tropicana Field,"Mize, Casey",S,1.3
-Truist Park,"Rogers, Trevor",S,2.4
-Truist Park,"Boyd, Matthew",S,2.2
-Truist Park,"Skubal, Tarik",S,2.2
-Wrigley Field,"Peterson, David",S,5.6
-Wrigley Field,"Romero, JoJo",R,4.2
-Wrigley Field,"Bubic, Kris",S,3.7
-Yankee Stadium,"Peterson, David",S,3.3
-Yankee Stadium,"Skubal, Tarik",S,3.0
-Yankee Stadium,"Rogers, Trevor",S,2.9
-loanDepot park,"Imanaga, Shota",S,5.6
-loanDepot park,"Ray, Robbie",S,4.5
-loanDepot park,"Vesia, Alex",R,3.9
+park,park_seasons,name,role,proj_woba,talent_woba,edge_pts,fit_pts
+American Family Field,5,"Skubal, Tarik",S,0.278,0.276,-2.7,0.1
+American Family Field,5,"Morejón, Adrian",R,0.282,0.28,-2.3,0.5
+American Family Field,5,"Okert, Steven",R,0.283,0.28,-3.6,-0.7
+Angel Stadium,5,"Skubal, Tarik",S,0.277,0.276,-1.6,-0.3
+Angel Stadium,5,"Okert, Steven",R,0.281,0.28,-0.6,0.8
+Angel Stadium,5,"Morejón, Adrian",R,0.282,0.28,-2.1,-0.8
+Busch Stadium,5,"Skubal, Tarik",S,0.268,0.276,12.9,-3.2
+Busch Stadium,5,"Okert, Steven",R,0.268,0.28,18.5,2.6
+Busch Stadium,5,"Morejón, Adrian",R,0.272,0.28,12.7,-3.4
+Chase Field,5,"Skubal, Tarik",S,0.276,0.276,-0.0,-0.9
+Chase Field,5,"Okert, Steven",R,0.278,0.28,3.0,2.3
+Chase Field,5,"Morejón, Adrian",R,0.281,0.28,-0.6,-1.5
+Citi Field,5,"Skubal, Tarik",S,0.269,0.276,12.3,3.0
+Citi Field,5,"Okert, Steven",R,0.273,0.28,10.6,1.5
+Citi Field,5,"Morejón, Adrian",R,0.274,0.28,8.9,-0.4
+Citizens Bank Park,5,"Skubal, Tarik",S,0.286,0.276,-14.6,0.1
+Citizens Bank Park,5,"Morejón, Adrian",R,0.289,0.28,-13.8,0.9
+Citizens Bank Park,5,"Okert, Steven",R,0.291,0.28,-17.5,-2.6
+Comerica Park,5,"Skubal, Tarik",S,0.274,0.276,4.5,-0.0
+Comerica Park,5,"Okert, Steven",R,0.276,0.28,6.5,2.2
+Comerica Park,5,"Morejón, Adrian",R,0.278,0.28,3.1,-1.3
+Coors Field,5,"Skubal, Tarik",S,0.296,0.276,-30.5,0.1
+Coors Field,5,"Morejón, Adrian",R,0.298,0.28,-27.9,2.8
+Coors Field,5,"Okert, Steven",R,0.303,0.28,-35.3,-4.5
+Daikin Park,5,"Skubal, Tarik",S,0.281,0.276,-7.8,-2.8
+Daikin Park,5,"Morejón, Adrian",R,0.284,0.28,-6.0,-1.0
+Daikin Park,5,"Okert, Steven",R,0.286,0.28,-8.9,-3.8
+Dodger Stadium,5,"Skubal, Tarik",S,0.28,0.276,-5.3,-3.6
+Dodger Stadium,5,"Morejón, Adrian",R,0.281,0.28,-1.6,0.1
+Dodger Stadium,5,"Okert, Steven",R,0.284,0.28,-5.9,-4.1
+Fenway Park,5,"Skubal, Tarik",S,0.286,0.276,-15.5,-0.7
+Fenway Park,5,"Morejón, Adrian",R,0.289,0.28,-12.8,2.0
+Fenway Park,5,"Okert, Steven",R,0.291,0.28,-17.4,-2.4
+Globe Life Field,5,"Skubal, Tarik",S,0.274,0.276,3.7,-2.9
+Globe Life Field,5,"Okert, Steven",R,0.276,0.28,6.6,0.2
+Globe Life Field,5,"Morejón, Adrian",R,0.276,0.28,6.2,-0.4
+Great American Ball Park,5,"Skubal, Tarik",S,0.286,0.276,-15.0,3.1
+Great American Ball Park,5,"Morejón, Adrian",R,0.291,0.28,-16.5,1.6
+Great American Ball Park,5,"Okert, Steven",R,0.293,0.28,-19.3,-1.0
+Kauffman Stadium,5,"Skubal, Tarik",S,0.27,0.276,10.1,0.8
+Kauffman Stadium,5,"Okert, Steven",R,0.272,0.28,12.3,3.2
+Kauffman Stadium,5,"Morejón, Adrian",R,0.275,0.28,7.4,-1.9
+Nationals Park,5,"Skubal, Tarik",S,0.276,0.276,0.8,-1.5
+Nationals Park,5,"Okert, Steven",R,0.278,0.28,2.8,0.6
+Nationals Park,5,"Morejón, Adrian",R,0.28,0.28,0.6,-1.7
+Oracle Park,5,"Skubal, Tarik",S,0.275,0.276,2.3,-1.1
+Oracle Park,5,"Morejón, Adrian",R,0.278,0.28,3.9,0.5
+Oracle Park,5,"Okert, Steven",R,0.279,0.28,1.3,-1.9
+Oriole Park at Camden Yards,5,"Skubal, Tarik",S,0.27,0.276,9.6,3.6
+Oriole Park at Camden Yards,5,"Okert, Steven",R,0.274,0.28,8.9,3.1
+Oriole Park at Camden Yards,5,"Morejón, Adrian",R,0.276,0.28,7.0,1.0
+PNC Park,5,"Skubal, Tarik",S,0.27,0.276,9.5,2.0
+PNC Park,5,"Okert, Steven",R,0.274,0.28,9.2,1.8
+PNC Park,5,"Morejón, Adrian",R,0.275,0.28,7.6,0.1
+Petco Park,5,"Skubal, Tarik",S,0.269,0.276,11.8,-2.1
+Petco Park,5,"Okert, Steven",R,0.27,0.28,16.0,2.2
+Petco Park,5,"Morejón, Adrian",R,0.272,0.28,12.0,-1.9
+Progressive Field,5,"Skubal, Tarik",S,0.273,0.276,5.3,1.4
+Progressive Field,5,"Morejón, Adrian",R,0.277,0.28,4.8,0.9
+Progressive Field,5,"Okert, Steven",R,0.277,0.28,4.4,0.7
+Rate Field,5,"Skubal, Tarik",S,0.274,0.276,3.7,0.7
+Rate Field,5,"Okert, Steven",R,0.277,0.28,5.4,2.6
+Rate Field,5,"Morejón, Adrian",R,0.279,0.28,2.6,-0.3
+Rogers Centre,5,"Skubal, Tarik",S,0.276,0.276,0.8,0.9
+Rogers Centre,5,"Morejón, Adrian",R,0.28,0.28,1.1,1.2
+Rogers Centre,5,"Okert, Steven",R,0.28,0.28,-0.3,-0.0
+Sutter Health Park,2,"Skubal, Tarik",S,0.3,0.276,-36.5,-1.7
+Sutter Health Park,2,"Morejón, Adrian",R,0.301,0.28,-32.1,2.7
+Sutter Health Park,2,"Okert, Steven",R,0.306,0.28,-40.1,-5.1
+T-Mobile Park,5,"Skubal, Tarik",S,0.269,0.276,11.6,-0.6
+T-Mobile Park,5,"Okert, Steven",R,0.272,0.28,13.2,1.3
+T-Mobile Park,5,"Morejón, Adrian",R,0.273,0.28,10.7,-1.4
+Target Field,5,"Skubal, Tarik",S,0.279,0.276,-4.8,-2.2
+Target Field,5,"Okert, Steven",R,0.281,0.28,-0.6,2.1
+Target Field,5,"Morejón, Adrian",R,0.283,0.28,-3.9,-1.3
+Tropicana Field,4,"Skubal, Tarik",S,0.28,0.276,-5.9,-2.4
+Tropicana Field,4,"Okert, Steven",R,0.282,0.28,-3.0,0.7
+Tropicana Field,4,"Morejón, Adrian",R,0.284,0.28,-5.6,-2.1
+Truist Park,5,"Skubal, Tarik",S,0.273,0.276,4.8,2.1
+Truist Park,5,"Morejón, Adrian",R,0.277,0.28,4.6,1.9
+Truist Park,5,"Okert, Steven",R,0.279,0.28,2.6,0.0
+Wrigley Field,5,"Skubal, Tarik",S,0.272,0.276,6.4,3.1
+Wrigley Field,5,"Morejón, Adrian",R,0.277,0.28,5.4,2.1
+Wrigley Field,5,"Okert, Steven",R,0.28,0.28,-0.2,-3.4
+Yankee Stadium,5,"Skubal, Tarik",S,0.268,0.276,12.9,2.9
+Yankee Stadium,5,"Morejón, Adrian",R,0.272,0.28,12.5,2.4
+Yankee Stadium,5,"Okert, Steven",R,0.275,0.28,8.3,-1.6
+loanDepot park,5,"Skubal, Tarik",S,0.273,0.276,5.2,2.0
+loanDepot park,5,"Okert, Steven",R,0.276,0.28,6.2,3.2
+loanDepot park,5,"Morejón, Adrian",R,0.279,0.28,1.9,-1.2

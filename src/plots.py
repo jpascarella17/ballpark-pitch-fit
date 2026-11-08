@@ -42,6 +42,23 @@ def plot_park_bb(effects: pd.DataFrame, park: str, path=None):
     return fig
 
 
+def plot_calibration(cal: pd.DataFrame, path=None):
+    """Predicted vs. observed home-road gap by bin (backtest)."""
+    fig, ax = plt.subplots(figsize=(6, 6))
+    lim = max(cal["predicted_pts"].abs().max(), cal["observed_pts"].abs().max()) * 1.15
+    ax.plot([-lim, lim], [-lim, lim], color="gray", linestyle="--", label="perfect prediction")
+    ax.axhline(0, color="black", linewidth=0.6)
+    ax.axvline(0, color="black", linewidth=0.6)
+    ax.plot(cal["predicted_pts"], cal["observed_pts"], "o-", color="#1f618d", label="pitcher-seasons, grouped")
+    ax.set_xlabel("Predicted home-minus-road gap (wOBA points on contact)")
+    ax.set_ylabel("Observed home-minus-road gap (wOBA points on contact)")
+    ax.set_title("Backtest: predicted vs. observed (positive = hitters did better at home)")
+    ax.legend()
+    fig.tight_layout()
+    _save(fig, path)
+    return fig
+
+
 def plot_park_archetypes(arch: pd.DataFrame, park: str, hand: str, path=None, n: int = 5):
     """Bars of the pitch archetypes that suit a park best and worst, for one pitcher hand."""
     a = arch[(arch["park"] == park) & (arch["p_throws"] == hand)]
