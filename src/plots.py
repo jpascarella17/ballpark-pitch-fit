@@ -54,7 +54,7 @@ def plot_park_archetypes(arch: pd.DataFrame, park: str, hand: str, path=None, n:
     colors = ["#b03a2e" if v < 0 else "#1f618d" for v in shown["fit_pts"]]
     ax.barh(shown["archetype"], shown["fit_pts"], color=colors)
     ax.axvline(0, color="black", linewidth=0.8)
-    ax.set_xlabel("How much better this park suits the pitch than the average park (wOBA points on contact)")
+    ax.set_xlabel("How much better this park suits the pitch than it suits a typical pitch (wOBA points on contact)")
     ax.set_title(f"{park}: best and worst pitch archetypes, {'RHP' if hand == 'R' else 'LHP'}")
     fig.tight_layout()
     _save(fig, path)

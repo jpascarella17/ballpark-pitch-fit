@@ -5,11 +5,25 @@ A pitcher (or an archetype) has a mix of those batted balls. Weighting the park'
 effects by that mix gives the expected park effect for that pitcher or archetype.
 
   edge_pts  expected wOBA points on contact vs. a league-average park (positive helps the pitcher)
-  fit_pts   edge_pts minus the same pitcher's (or archetype's) average across all parks, so it says
-            how much better this park suits him than the average park does; rank targets with this
+  fit_pts   edge_pts with two things removed: the pitcher's (or archetype's) average across all parks,
+            and the park's average across all pitchers (or archetypes). What is left is how much
+            better this park suits him than it suits a typical pitcher; rank targets with this.
+            Without the second step every pitcher would just inherit the park factor.
   coverage  share of the mix that had a park effect to weight (should be ~1.0)
 """
 import pandas as pd
+
+
+def _interaction(out: pd.DataFrame, unit_cols: list, group_cols: list = None) -> pd.Series:
+    """edge_pts minus each unit's average across parks and each park's average across units.
+
+    group_cols limits the "typical unit" to a subgroup (for example, the same pitcher hand).
+    """
+    group_cols = group_cols or []
+    unit_mean = out.groupby(unit_cols)["edge_pts"].transform("mean")
+    park_mean = out.groupby(["park"] + group_cols)["edge_pts"].transform("mean")
+    grand = out.groupby(group_cols)["edge_pts"].transform("mean") if group_cols else out["edge_pts"].mean()
+    return out["edge_pts"] - unit_mean - park_mean + grand
 
 
 def bip_mix(contact: pd.DataFrame, by: list) -> pd.DataFrame:
@@ -34,7 +48,7 @@ def archetype_park_edges(contact: pd.DataFrame, effects: pd.DataFrame, min_bip: 
     mix = bip_mix(contact, by)
     mix = mix[mix.groupby(by)["bip"].transform("sum") >= min_bip]
     out = expected_edge(mix, effects, by)
-    out["fit_pts"] = out["edge_pts"] - out.groupby(by)["edge_pts"].transform("mean")
+    out["fit_pts"] = _interaction(out, by, group_cols=["p_throws"])
     return out
 
 
@@ -60,7 +74,7 @@ def pitcher_fit(contact: pd.DataFrame, effects: pd.DataFrame, min_bip: int = 300
     mix = bip_mix(contact, ["pitcher"])
     mix = mix[mix.groupby("pitcher")["bip"].transform("sum") >= min_bip]
     out = expected_edge(mix, effects, ["pitcher"])
-    out["fit_pts"] = out["edge_pts"] - out.groupby("pitcher")["edge_pts"].transform("mean")
+    out["fit_pts"] = _interaction(out, ["pitcher"])
     return out
 
 
