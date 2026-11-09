@@ -15,6 +15,7 @@ effects by that mix gives the expected park effect for that pitcher or archetype
             talent and park, so use it to say who would actually pitch best there.
   coverage  share of the mix that had a park effect to weight (should be ~1.0)
 """
+import numpy as np
 import pandas as pd
 
 # Parks that are no longer (or were only temporarily) a team's home. They stay in the park-effect
@@ -101,7 +102,15 @@ def pitcher_talent(df: pd.DataFrame, effects: pd.DataFrame, recent_seasons: int 
     number of plate appearances of league-average results blended in (a judgment call, not fitted).
 
     `effects` should include every park (including inactive ones), since pitchers worked in all of them.
-    Returns one row per pitcher (index = pitcher id) with pa, talent_woba, bip_rate.
+    Returns one row per pitcher (index = pitcher id) with:
+      pa                plate appearances in the recent seasons
+      raw_woba          wOBA allowed as it actually happened
+      neutral_woba      raw_woba with the parks he worked in removed
+      talent_woba       neutral_woba shrunk toward the league average
+      bip_rate          share of his plate appearances ending in a ball in play
+      contact_luck_pts  wOBA points per plate appearance that hitters gained on contact beyond what the
+                        exit velocity and launch angle warranted, after removing the park (positive =
+                        unlucky for the pitcher; includes defense)
     """
     last = sorted(df["game_year"].unique())[-recent_seasons:]
     pa = df[df["game_year"].isin(last) & (df["woba_denom"] == 1)].copy()
@@ -109,17 +118,21 @@ def pitcher_talent(df: pd.DataFrame, effects: pd.DataFrame, recent_seasons: int 
     pa["effect"] = pa["effect"].fillna(0.0)          # walks, strikeouts, and unmatched contact: no park effect
     pa["woba_value"] = pa["woba_value"].fillna(0.0)
     pa["is_bip"] = (pa["type"] == "X").astype(int)
+    has_xwoba = (pa["type"] == "X") & pa["estimated_woba_using_speedangle"].notna()
+    pa["luck"] = np.where(has_xwoba, pa["woba_value"] - pa["estimated_woba_using_speedangle"] - pa["effect"], 0.0)
 
     g = pa.groupby("pitcher").agg(
         pa=("woba_value", "size"), woba_sum=("woba_value", "sum"),
-        effect_sum=("effect", "sum"), bip=("is_bip", "sum"),
+        effect_sum=("effect", "sum"), bip=("is_bip", "sum"), luck_sum=("luck", "sum"),
     )
     g = g[g["pa"] >= min_pa].copy()
+    g["raw_woba"] = g["woba_sum"] / g["pa"]
     g["neutral_woba"] = (g["woba_sum"] - g["effect_sum"]) / g["pa"]
     league = (g["neutral_woba"] * g["pa"]).sum() / g["pa"].sum()
     g["talent_woba"] = (g["neutral_woba"] * g["pa"] + league * shrink_pa) / (g["pa"] + shrink_pa)
     g["bip_rate"] = g["bip"] / g["pa"]
-    return g[["pa", "neutral_woba", "talent_woba", "bip_rate"]]
+    g["contact_luck_pts"] = g["luck_sum"] / g["pa"] * 1000
+    return g[["pa", "raw_woba", "neutral_woba", "talent_woba", "bip_rate", "contact_luck_pts"]]
 
 
 def project_park_woba(fit: pd.DataFrame, talent: pd.DataFrame) -> pd.DataFrame:
@@ -127,10 +140,21 @@ def project_park_woba(fit: pd.DataFrame, talent: pd.DataFrame) -> pd.DataFrame:
 
     edge_pts is per ball in play, so it is scaled by the share of his plate appearances that end
     in a ball in play. proj_rank is 1 for the lowest projected wOBA allowed at that park.
+
+    The gap between his recent results and the projection is split into three parts (wOBA points,
+    positive = better than his raw results):
+      past_park_pts   removing the parks he pitched in (a hitter's park inflated his numbers)
+      regression_pts  pulling extreme results toward the league average
+      new_park_pts    the new park's expected effect on him
+      gain_pts        all three together: raw_woba - proj_woba
     """
     p = fit.merge(talent, left_on="pitcher", right_index=True)
     p["proj_woba"] = p["talent_woba"] - p["edge_pts"] / 1000 * p["bip_rate"]
     p["proj_rank"] = p.groupby("park")["proj_woba"].rank(method="min")
+    p["past_park_pts"] = (p["raw_woba"] - p["neutral_woba"]) * 1000
+    p["regression_pts"] = (p["neutral_woba"] - p["talent_woba"]) * 1000
+    p["new_park_pts"] = (p["talent_woba"] - p["proj_woba"]) * 1000
+    p["gain_pts"] = (p["raw_woba"] - p["proj_woba"]) * 1000
     return p
 
 

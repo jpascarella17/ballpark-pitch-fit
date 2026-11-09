@@ -93,6 +93,9 @@ def evaluate(table: pd.DataFrame, n_boot: int = 500, seed: int = 0) -> dict:
     r2_both                 R^2 after adding the pitcher-specific part (full model minus baseline)
     r2_gain                 r2_both - r2_park, with a 90% bootstrap interval (r2_gain_lo, r2_gain_hi)
     slope_full              slope of observed on predicted (1.0 means the effect size is right)
+    extra_weight            weight on the pitcher-specific part (0 = nothing, 1 = exactly right), 90% interval
+    extra_sd_pts            how much the pitcher-specific part varies between pitchers (wOBA points); next to
+                            obs_sd_pts (variation in the observed gap) it shows how little a test could detect
     """
     if len(table) < 30:
         raise ValueError(f"Only {len(table)} pitcher-seasons in the table; lower min_bip in home_road_table "
@@ -104,17 +107,18 @@ def evaluate(table: pd.DataFrame, n_boot: int = 500, seed: int = 0) -> dict:
     extra = table["extra"].to_numpy(float)
 
     r2_park, _ = _wls_r2(y, park[:, None], w)
-    r2_both, _ = _wls_r2(y, np.column_stack([park, extra]), w)
+    r2_both, b_both = _wls_r2(y, np.column_stack([park, extra]), w)
     _, b_full = _wls_r2(y, full[:, None], w)
 
     rng = np.random.default_rng(seed)
-    gains, corr_gains = [], []
+    gains, corr_gains, weights = [], [], []
     n = len(y)
     for _ in range(n_boot):
         i = rng.integers(0, n, n)
         a, _ = _wls_r2(y[i], park[i, None], w[i])
-        b, _ = _wls_r2(y[i], np.column_stack([park[i], extra[i]]), w[i])
+        b, beta = _wls_r2(y[i], np.column_stack([park[i], extra[i]]), w[i])
         gains.append(b - a)
+        weights.append(beta[2])
         corr_gains.append(_wcorr(full[i], y[i], w[i]) - _wcorr(park[i], y[i], w[i]))
 
     return {
@@ -129,6 +133,12 @@ def evaluate(table: pd.DataFrame, n_boot: int = 500, seed: int = 0) -> dict:
         "r2_gain_lo": float(np.percentile(gains, 5)),
         "r2_gain_hi": float(np.percentile(gains, 95)),
         "slope_full": float(b_full[1]),
+        # weight on the pitcher-specific part: 0 = it does nothing, 1 = the model's size is exactly right
+        "extra_weight": float(b_both[2]),
+        "extra_weight_lo": float(np.percentile(weights, 5)),
+        "extra_weight_hi": float(np.percentile(weights, 95)),
+        "extra_sd_pts": float(np.std(extra) * 1000),
+        "obs_sd_pts": float(np.std(y) * 1000),
     }
 
 

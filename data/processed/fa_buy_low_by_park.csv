@@ -1,0 +1,91 @@
+park,park_seasons,name,role,pa,raw_woba,proj_woba,gain_pts,past_park_pts,regression_pts,new_park_pts
+American Family Field,5,"May, Dustin",S,1195,0.338,0.336,2.4,-1.8,6.1,-1.9
+American Family Field,5,"Mize, Casey",S,1170,0.33,0.329,0.3,-0.6,3.1,-2.2
+American Family Field,5,"Griffin, Foster",S,715,0.322,0.323,-0.4,0.7,0.8,-1.9
+Angel Stadium,5,"May, Dustin",S,1195,0.338,0.335,3.6,-1.8,6.1,-0.7
+Angel Stadium,5,"Mize, Casey",S,1170,0.33,0.328,1.6,-0.6,3.1,-0.9
+Angel Stadium,5,"Griffin, Foster",S,715,0.322,0.322,0.6,0.7,0.8,-1.0
+Busch Stadium,5,"Mize, Casey",S,1170,0.33,0.314,15.4,-0.6,3.1,12.9
+Busch Stadium,5,"May, Dustin",S,1195,0.338,0.323,15.3,-1.8,6.1,11.0
+Busch Stadium,5,"Martinez, Nick",S,1390,0.309,0.295,13.8,4.9,-4.2,13.2
+Chase Field,5,"May, Dustin",S,1195,0.338,0.334,4.6,-1.8,6.1,0.4
+Chase Field,5,"Mize, Casey",S,1170,0.33,0.326,3.6,-0.6,3.1,1.1
+Chase Field,5,"Martinez, Nick",S,1390,0.309,0.307,1.6,4.9,-4.2,1.0
+Citi Field,5,"Griffin, Foster",S,715,0.322,0.312,9.9,0.7,0.8,8.4
+Citi Field,5,"May, Dustin",S,1195,0.338,0.329,9.1,-1.8,6.1,4.8
+Citi Field,5,"Peterson, David",S,1371,0.331,0.323,8.6,-3.4,4.0,7.9
+Citizens Bank Park,5,"May, Dustin",S,1195,0.338,0.344,-5.3,-1.8,6.1,-9.5
+Citizens Bank Park,5,"Peterson, David",S,1371,0.331,0.339,-7.5,-3.4,4.0,-8.1
+Citizens Bank Park,5,"Mize, Casey",S,1170,0.33,0.338,-8.4,-0.6,3.1,-10.9
+Comerica Park,5,"May, Dustin",S,1195,0.338,0.332,6.8,-1.8,6.1,2.6
+Comerica Park,5,"Mize, Casey",S,1170,0.33,0.324,5.8,-0.6,3.1,3.3
+Comerica Park,5,"Griffin, Foster",S,715,0.322,0.318,4.6,0.7,0.8,3.1
+Coors Field,5,"May, Dustin",S,1195,0.338,0.354,-15.8,-1.8,6.1,-20.1
+Coors Field,5,"Peterson, David",S,1371,0.331,0.349,-17.9,-3.4,4.0,-18.6
+Coors Field,5,"Griffin, Foster",S,715,0.322,0.342,-19.9,0.7,0.8,-21.4
+Daikin Park,5,"May, Dustin",S,1195,0.338,0.336,2.1,-1.8,6.1,-2.2
+Daikin Park,5,"Mize, Casey",S,1170,0.33,0.33,-0.4,-0.6,3.1,-2.9
+Daikin Park,5,"Peterson, David",S,1371,0.331,0.334,-2.4,-3.4,4.0,-3.1
+Dodger Stadium,5,"May, Dustin",S,1195,0.338,0.334,4.5,-1.8,6.1,0.2
+Dodger Stadium,5,"Mize, Casey",S,1170,0.33,0.327,2.2,-0.6,3.1,-0.3
+Dodger Stadium,5,"Martinez, Nick",S,1390,0.309,0.309,-0.3,4.9,-4.2,-0.9
+Fenway Park,5,"May, Dustin",S,1195,0.338,0.343,-4.8,-1.8,6.1,-9.1
+Fenway Park,5,"Peterson, David",S,1371,0.331,0.34,-8.1,-3.4,4.0,-8.8
+Fenway Park,5,"Mize, Casey",S,1170,0.33,0.338,-8.3,-0.6,3.1,-10.8
+Globe Life Field,5,"May, Dustin",S,1195,0.338,0.329,9.5,-1.8,6.1,5.2
+Globe Life Field,5,"Mize, Casey",S,1170,0.33,0.321,8.1,-0.6,3.1,5.6
+Globe Life Field,5,"Martinez, Nick",S,1390,0.309,0.302,6.1,4.9,-4.2,5.5
+Great American Ball Park,5,"Peterson, David",S,1371,0.331,0.34,-8.4,-3.4,4.0,-9.1
+Great American Ball Park,5,"May, Dustin",S,1195,0.338,0.347,-8.8,-1.8,6.1,-13.1
+Great American Ball Park,5,"Griffin, Foster",S,715,0.322,0.332,-9.3,0.7,0.8,-10.8
+Kauffman Stadium,5,"May, Dustin",S,1195,0.338,0.329,9.4,-1.8,6.1,5.1
+Kauffman Stadium,5,"Mize, Casey",S,1170,0.33,0.32,9.2,-0.6,3.1,6.7
+Kauffman Stadium,5,"Griffin, Foster",S,715,0.322,0.314,8.6,0.7,0.8,7.0
+Nationals Park,5,"May, Dustin",S,1195,0.338,0.333,5.9,-1.8,6.1,1.6
+Nationals Park,5,"Mize, Casey",S,1170,0.33,0.325,4.8,-0.6,3.1,2.3
+Nationals Park,5,"Martinez, Nick",S,1390,0.309,0.306,2.8,4.9,-4.2,2.1
+Oracle Park,5,"May, Dustin",S,1195,0.338,0.331,7.0,-1.8,6.1,2.7
+Oracle Park,5,"Mize, Casey",S,1170,0.33,0.324,5.1,-0.6,3.1,2.6
+Oracle Park,5,"Griffin, Foster",S,715,0.322,0.319,3.4,0.7,0.8,1.9
+Oriole Park at Camden Yards,5,"May, Dustin",S,1195,0.338,0.331,7.2,-1.8,6.1,2.9
+Oriole Park at Camden Yards,5,"Griffin, Foster",S,715,0.322,0.315,7.0,0.7,0.8,5.4
+Oriole Park at Camden Yards,5,"Ray, Robbie",S,1446,0.314,0.308,6.4,0.4,-1.5,7.5
+PNC Park,5,"May, Dustin",S,1195,0.338,0.33,8.5,-1.8,6.1,4.2
+PNC Park,5,"Griffin, Foster",S,715,0.322,0.315,7.6,0.7,0.8,6.1
+PNC Park,5,"Mize, Casey",S,1170,0.33,0.322,7.2,-0.6,3.1,4.7
+Petco Park,5,"May, Dustin",S,1195,0.338,0.325,13.9,-1.8,6.1,9.6
+Petco Park,5,"Mize, Casey",S,1170,0.33,0.316,13.3,-0.6,3.1,10.8
+Petco Park,5,"Martinez, Nick",S,1390,0.309,0.297,11.8,4.9,-4.2,11.2
+Progressive Field,5,"May, Dustin",S,1195,0.338,0.332,6.6,-1.8,6.1,2.3
+Progressive Field,5,"Griffin, Foster",S,715,0.322,0.318,4.8,0.7,0.8,3.3
+Progressive Field,5,"Mize, Casey",S,1170,0.33,0.325,4.6,-0.6,3.1,2.1
+Rate Field,5,"May, Dustin",S,1195,0.338,0.333,5.6,-1.8,6.1,1.3
+Rate Field,5,"Mize, Casey",S,1170,0.33,0.325,4.4,-0.6,3.1,1.9
+Rate Field,5,"Griffin, Foster",S,715,0.322,0.319,3.5,0.7,0.8,2.0
+Rogers Centre,5,"May, Dustin",S,1195,0.338,0.335,4.0,-1.8,6.1,-0.3
+Rogers Centre,5,"Mize, Casey",S,1170,0.33,0.328,1.9,-0.6,3.1,-0.6
+Rogers Centre,5,"Griffin, Foster",S,715,0.322,0.321,1.8,0.7,0.8,0.3
+Sutter Health Park,2,"May, Dustin",S,1195,0.338,0.356,-17.7,-1.8,6.1,-21.9
+Sutter Health Park,2,"Peterson, David",S,1371,0.331,0.353,-21.4,-3.4,4.0,-22.0
+Sutter Health Park,2,"Mize, Casey",S,1170,0.33,0.352,-22.5,-0.6,3.1,-25.0
+T-Mobile Park,5,"May, Dustin",S,1195,0.338,0.326,12.5,-1.8,6.1,8.2
+T-Mobile Park,5,"Mize, Casey",S,1170,0.33,0.318,11.3,-0.6,3.1,8.8
+T-Mobile Park,5,"Martinez, Nick",S,1390,0.309,0.299,10.0,4.9,-4.2,9.4
+Target Field,5,"May, Dustin",S,1195,0.338,0.335,3.2,-1.8,6.1,-1.1
+Target Field,5,"Mize, Casey",S,1170,0.33,0.328,1.3,-0.6,3.1,-1.2
+Target Field,5,"Martinez, Nick",S,1390,0.309,0.31,-1.2,4.9,-4.2,-1.8
+Tropicana Field,4,"May, Dustin",S,1195,0.338,0.336,2.3,-1.8,6.1,-2.0
+Tropicana Field,4,"Mize, Casey",S,1170,0.33,0.329,0.8,-0.6,3.1,-1.7
+Tropicana Field,4,"Martinez, Nick",S,1390,0.309,0.31,-1.7,4.9,-4.2,-2.3
+Truist Park,5,"May, Dustin",S,1195,0.338,0.333,5.6,-1.8,6.1,1.3
+Truist Park,5,"Griffin, Foster",S,715,0.322,0.318,4.3,0.7,0.8,2.7
+Truist Park,5,"Peterson, David",S,1371,0.331,0.327,4.0,-3.4,4.0,3.3
+Wrigley Field,5,"Peterson, David",S,1371,0.331,0.325,6.8,-3.4,4.0,6.1
+Wrigley Field,5,"Griffin, Foster",S,715,0.322,0.316,6.0,0.7,0.8,4.5
+Wrigley Field,5,"May, Dustin",S,1195,0.338,0.333,5.7,-1.8,6.1,1.4
+Yankee Stadium,5,"May, Dustin",S,1195,0.338,0.328,10.3,-1.8,6.1,6.0
+Yankee Stadium,5,"Griffin, Foster",S,715,0.322,0.312,10.0,0.7,0.8,8.5
+Yankee Stadium,5,"Peterson, David",S,1371,0.331,0.322,9.8,-3.4,4.0,9.2
+loanDepot park,5,"May, Dustin",S,1195,0.338,0.333,5.1,-1.8,6.1,0.9
+loanDepot park,5,"Griffin, Foster",S,715,0.322,0.318,4.5,0.7,0.8,3.0
+loanDepot park,5,"Mize, Casey",S,1170,0.33,0.325,4.2,-0.6,3.1,1.7

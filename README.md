@@ -11,7 +11,8 @@ The goal is to give a front office a data-driven way to answer *"Will this pitch
 3. **Park effects on contact.** On balls in play, compare actual wOBA to expected wOBA (built from exit velocity and launch angle, which does not know the park). The gap, relative to the league average for the same kind of contact and shrunk toward zero when samples are small, is the park effect. It is measured by **batter side and batted-ball type** (ground ball, line drive, fly ball, popup). Home and visiting pitchers both throw in every park, so team quality mostly cancels out.
 4. **Archetype and pitcher fit.** Each archetype or pitcher produces a mix of those batted balls. Weighting each park's effects by that mix gives the expected park effect. The fit score removes the park's overall effect, so it shows how much better a park suits him than it suits a typical pitcher (otherwise every pitcher would just inherit the park factor). A separate projection adds his park-neutral wOBA allowed (shrunk toward the league average) to give his projected wOBA allowed at each park.
 5. **Backtest.** Check whether the park effects predict how each pitcher-season's results at his home park differed from his road results, building every prediction from the other seasons only and comparing against a plain park-factor baseline.
-6. **Slides.** One slide per park plus summary slides on the biggest mismatches and how a team would use this.
+6. **Buy-low screen.** A pitcher's raw results are distorted by the parks he worked in and by luck on contact. The gap between his recent wOBA allowed and his projection is split into past-park, regression, and new-park parts to flag pitchers whose results understate them.
+7. **Slides.** `src/slides.py` builds a PowerPoint from the saved tables: one slide per park plus overview, validation, buy-low, and limitations slides.
 
 ## Status
 
@@ -20,8 +21,8 @@ The goal is to give a front office a data-driven way to answer *"Will this pitch
 - [x] **02 Archetypes:** 32 archetypes, cut points saved
 - [x] **03 Park effects:** effects by batter side and batted-ball type, archetype fit scores, charts
 - [ ] **04 Fit scores:** pitcher fit scores and free-agent targets
-- [ ] **05 Backtest:** do park effects predict home vs. road results?
-- [ ] **Slides:** 30 park slides, summary, limitations, usage
+- [x] **05 Backtest:** do park effects predict home vs. road results?
+- [ ] **06 Slides:** build and review the deck (`slides/ballpark_pitch_fit.pptx`)
 
 ## Key findings so far
 
@@ -32,13 +33,15 @@ The goal is to give a front office a data-driven way to answer *"Will this pitch
 | Park x pitch archetype x pitcher hand | 782 | 0.05 |
 | Park x batter side x batted-ball type | 240 | 0.50 |
 
-Park-wide effects repeat across halves (correlation 0.59 across parks). Effects measured for each pitch archetype directly did not (0.05, indistinguishable from noise), so the project now measures park effects on batted-ball types and scores pitches and pitchers by the batted balls they produce.
+Park-wide effects repeat across halves (correlation 0.59 across parks).
+
+**Backtest (849 pitcher-seasons):** predictions built from the other seasons only track how hitters did at a pitcher's home park versus on the road (correlation 0.21 for the park effect; a single pitcher-season is very noisy). The pitcher-specific part adds no detectable predictive power (R-squared gain 0.000, 90% interval 0.000 to 0.004; weight 0.09, interval -0.90 to 0.99). It varies only about 3 wOBA points between pitchers against about 50 points of noise, so the test cannot rule it in or out. The park-wide effect is the solid finding; the pitcher-specific fit is treated as an exploratory tiebreaker. Effects measured for each pitch archetype directly did not (0.05, indistinguishable from noise), so the project now measures park effects on batted-ball types and scores pitches and pitchers by the batted balls they produce.
 
 ## Repo layout
 
 ```
 src/                  reusable code (data pull, archetypes, park effects, fit scores, plots)
-notebooks/            01_pull_data, 02_archetypes, 03_park_effects, 04_fa_targets, 05_backtest
+notebooks/            01_pull_data, 02_archetypes, 03_park_effects, 04_fa_targets, 05_backtest, 06_build_slides
 data/raw/             downloaded Statcast files (git-ignored)
 data/interim/         large intermediate files (git-ignored)
 data/processed/       small summary tables (committed)
