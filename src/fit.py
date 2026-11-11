@@ -92,46 +92,67 @@ def pitcher_fit(contact: pd.DataFrame, effects: pd.DataFrame, min_bip: int = 300
     return out
 
 
+def pa_rows(df: pd.DataFrame, effects: pd.DataFrame, seasons=None) -> pd.DataFrame:
+    """Plate appearances with the park effect and contact luck attached to each ball in play.
+
+    effect  the park effect (wOBA) for that ball's park, batter side, and batted-ball type; 0 for
+            walks, strikeouts, and contact we could not match (positive = helped the hitter)
+    luck    (actual - expected wOBA on contact) minus the park effect: how much the hitter beat the
+            quality of contact, after removing the park (positive = unlucky for the pitcher; includes defense)
+    `effects` should include every park (including inactive ones), since pitchers worked in all of them.
+    """
+    pa = df[df["woba_denom"] == 1]
+    if seasons is not None:
+        pa = pa[pa["game_year"].isin(seasons)]
+    pa = pa.merge(effects[["park", "stand", "bb_type", "effect"]], on=["park", "stand", "bb_type"], how="left")
+    pa["effect"] = pa["effect"].fillna(0.0)
+    pa["woba_value"] = pa["woba_value"].fillna(0.0)
+    pa["is_bip"] = (pa["type"] == "X").astype(int)
+    has_xwoba = (pa["type"] == "X") & pa["estimated_woba_using_speedangle"].notna()
+    pa["luck"] = np.where(has_xwoba, pa["woba_value"] - pa["estimated_woba_using_speedangle"] - pa["effect"], 0.0)
+    return pa
+
+
+def summarize_pa(pa: pd.DataFrame, keys: list) -> pd.DataFrame:
+    """Per group (for example pitcher, or pitcher and season): pa, raw_woba, neutral_woba, bip_rate, contact_luck_pts."""
+    g = pa.groupby(keys).agg(
+        pa=("woba_value", "size"), woba_sum=("woba_value", "sum"),
+        effect_sum=("effect", "sum"), bip=("is_bip", "sum"), luck_sum=("luck", "sum"),
+    )
+    g["raw_woba"] = g["woba_sum"] / g["pa"]
+    g["neutral_woba"] = (g["woba_sum"] - g["effect_sum"]) / g["pa"]
+    g["bip_rate"] = g["bip"] / g["pa"]
+    g["contact_luck_pts"] = g["luck_sum"] / g["pa"] * 1000
+    return g[["pa", "raw_woba", "neutral_woba", "bip_rate", "contact_luck_pts"]]
+
+
 def pitcher_talent(df: pd.DataFrame, effects: pd.DataFrame, recent_seasons: int = 2,
-                   shrink_pa: int = 500, min_pa: int = 100) -> pd.DataFrame:
+                   shrink_pa: int = 500, min_pa: int = 100, luck_weight: float = 0.0) -> pd.DataFrame:
     """Park-neutral wOBA allowed for each pitcher over his most recent seasons.
 
     Each ball in play is adjusted by the park effect for its park, batter side, and batted-ball
-    type, so a pitcher who worked in a hitter's park is not penalized (and vice versa). The result
-    is then shrunk toward the league average, because wOBA allowed is noisy: shrink_pa is the
-    number of plate appearances of league-average results blended in (a judgment call, not fitted).
+    type, so a pitcher who worked in a hitter's park is not penalized (and vice versa). Then
+    luck_weight of his contact luck is taken out, and the result is shrunk toward the league
+    average, because wOBA allowed is noisy: shrink_pa is the number of plate appearances of
+    league-average results blended in. src/forecast.py fits luck_weight and shrink_pa on past
+    seasons; the defaults (no luck adjustment, 500) are only a starting point.
 
-    `effects` should include every park (including inactive ones), since pitchers worked in all of them.
     Returns one row per pitcher (index = pitcher id) with:
       pa                plate appearances in the recent seasons
       raw_woba          wOBA allowed as it actually happened
       neutral_woba      raw_woba with the parks he worked in removed
-      talent_woba       neutral_woba shrunk toward the league average
+      talent_woba       the talent estimate (neutral, luck-adjusted, shrunk)
       bip_rate          share of his plate appearances ending in a ball in play
       contact_luck_pts  wOBA points per plate appearance that hitters gained on contact beyond what the
                         exit velocity and launch angle warranted, after removing the park (positive =
                         unlucky for the pitcher; includes defense)
     """
     last = sorted(df["game_year"].unique())[-recent_seasons:]
-    pa = df[df["game_year"].isin(last) & (df["woba_denom"] == 1)].copy()
-    pa = pa.merge(effects[["park", "stand", "bb_type", "effect"]], on=["park", "stand", "bb_type"], how="left")
-    pa["effect"] = pa["effect"].fillna(0.0)          # walks, strikeouts, and unmatched contact: no park effect
-    pa["woba_value"] = pa["woba_value"].fillna(0.0)
-    pa["is_bip"] = (pa["type"] == "X").astype(int)
-    has_xwoba = (pa["type"] == "X") & pa["estimated_woba_using_speedangle"].notna()
-    pa["luck"] = np.where(has_xwoba, pa["woba_value"] - pa["estimated_woba_using_speedangle"] - pa["effect"], 0.0)
-
-    g = pa.groupby("pitcher").agg(
-        pa=("woba_value", "size"), woba_sum=("woba_value", "sum"),
-        effect_sum=("effect", "sum"), bip=("is_bip", "sum"), luck_sum=("luck", "sum"),
-    )
+    g = summarize_pa(pa_rows(df, effects, seasons=last), ["pitcher"])
     g = g[g["pa"] >= min_pa].copy()
-    g["raw_woba"] = g["woba_sum"] / g["pa"]
-    g["neutral_woba"] = (g["woba_sum"] - g["effect_sum"]) / g["pa"]
     league = (g["neutral_woba"] * g["pa"]).sum() / g["pa"].sum()
-    g["talent_woba"] = (g["neutral_woba"] * g["pa"] + league * shrink_pa) / (g["pa"] + shrink_pa)
-    g["bip_rate"] = g["bip"] / g["pa"]
-    g["contact_luck_pts"] = g["luck_sum"] / g["pa"] * 1000
+    signal = g["neutral_woba"] - luck_weight * g["contact_luck_pts"] / 1000
+    g["talent_woba"] = (signal * g["pa"] + league * shrink_pa) / (g["pa"] + shrink_pa)
     return g[["pa", "raw_woba", "neutral_woba", "talent_woba", "bip_rate", "contact_luck_pts"]]
 
 
@@ -144,7 +165,8 @@ def project_park_woba(fit: pd.DataFrame, talent: pd.DataFrame) -> pd.DataFrame:
     The gap between his recent results and the projection is split into three parts (wOBA points,
     positive = better than his raw results):
       past_park_pts   removing the parks he pitched in (a hitter's park inflated his numbers)
-      regression_pts  pulling extreme results toward the league average
+      regression_pts  pulling extreme results toward the league average and taking out part of
+                      his contact luck
       new_park_pts    the new park's expected effect on him
       gain_pts        all three together: raw_woba - proj_woba
     """

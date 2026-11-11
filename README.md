@@ -66,3 +66,11 @@ In VS Code, select the `.venv` interpreter/kernel, then run the notebooks in ord
 - Oakland Coliseum and Steinbrenner Field are left out of scoring because no team plays there now. Sutter Health Park has only two seasons of data and is low-confidence.
 - Fit scores are relative to a typical pitcher. Projected wOBA allowed combines a shrunk estimate of talent with the park effect, and the amount of shrinkage is a judgment call.
 - Fit scores are estimates from past data, not predictions of exact performance.
+
+## Talent estimate (buy-low screen)
+
+`src/forecast.py` fits, on past seasons, how much of a pitcher's contact luck to remove and how hard to
+shrink toward the league average. It pairs each pitcher-season with his next season and is scored on
+held-out seasons against "last season as-is". Notebook 04 prints the comparison and saves
+`talent_calibration.csv` and `talent_params.csv`; the fitted values feed `talent_woba`, `undervalued_pts`,
+and the buy-low slide. Contract cost is not in the data, so "cheap" still needs a salary projection.

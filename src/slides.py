@@ -290,8 +290,24 @@ def _buy_low_slide(prs, summary):
         {"text": "Contact luck = points per plate appearance that hitters gained on contact beyond what exit velocity and launch "
                  "angle warranted, after removing the park (positive = unlucky for the pitcher; includes defense).", "size": 12, "color": MUTED, "space": 4},
         {"text": "Contract cost is not in this data. Use it alongside a salary projection to find who is cheap relative to his talent.",
-         "size": 12, "color": MUTED},
-    ])
+         "size": 12, "color": MUTED, "space": 4},
+    ] + _calibration_lines(summary))
+
+
+def _calibration_lines(summary):
+    lines = []
+    cal, par = _read("talent_calibration.csv"), _read("talent_params.csv")
+    if cal is not None and par is not None and len(cal) == 4:
+        r = dict(zip(cal["model"], cal["rmse_pts"]))
+        base = r["Last season's raw wOBA allowed"]; ours = r["Calibrated (luck removed, shrunk)"]
+        lines.append({"text": f"The talent estimate removes {par['luck_weight'].iloc[0]:.0%} of contact luck and blends in "
+                              f"{int(par['shrink_pa'].iloc[0])} PA of league average, fitted on past seasons. Predicting next season's "
+                              f"wOBA allowed, it misses by {ours:.0f} pts on held-out seasons vs {base:.0f} using last season as-is.",
+                      "size": 12, "color": MUTED, "space": 4})
+    if summary is not None and summary["undervalued_pts"].max() < 5:
+        lines.append({"text": "No free agent in this class is clearly undervalued by his results; most of the table is "
+                              "good pitchers regressing, not bargains.", "size": 12, "color": MUTED})
+    return lines
 
 
 def _park_slide(prs, park, ctx):

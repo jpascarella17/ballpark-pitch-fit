@@ -1,0 +1,5 @@
+model,rmse_pts
+Last season's raw wOBA allowed,40.33
+Last season's park-neutral wOBA allowed,40.11
+"Park-neutral, shrunk toward average (500 PA)",32.87
+"Calibrated (luck removed, shrunk)",31.94
