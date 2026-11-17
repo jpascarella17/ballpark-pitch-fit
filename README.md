@@ -4,6 +4,24 @@ Which pitch shapes thrive (or struggle) in each MLB ballpark, and which pitchers
 
 The goal is to give a front office a data-driven way to answer *"Will this pitcher's stuff play in our park?"* when evaluating free agents and trade targets.
 
+## Summary
+
+**Question.** Parks play differently for different pitchers. Can Statcast data show which free-agent pitchers a team should expect to do well at its park, and where the best value is?
+
+**What I did.** Built a pipeline on about 3.5 million Statcast pitches (2022-2026): measured each park's effect on contact, scored each pitcher by the batted balls he allows, projected wOBA allowed at every park, tested the method on seasons it had not seen, and turned it into a slide deck with one slide per park. Free agents are screened for buy-low candidates and for value using projected contracts.
+
+**What I found**
+- **Park effects on contact are real and repeat from season to season.** They hold up when I split the data in half (correlation 0.50 at the batter-side and batted-ball level).
+- **How much a park suits one pitcher more than another is small, and the backtest could not confirm it.** It varies about 3 wOBA points between pitchers against about 50 points of noise, so I use it as a tiebreaker, not a headline.
+- **A calibrated talent estimate beats last season's results.** It removes about 90% of a pitcher's contact luck and pulls hard toward the league average. On held-out seasons it cut the error predicting next season's wOBA allowed from about 40 points to about 32 (893 pitcher-season pairs). Most of that gain is regression to the mean; the luck adjustment adds a small extra.
+- **Few free agents are clear buy-lows.** Casey Mize stands out (results about 21 wOBA points worse than his talent estimate); Dustin May and Jonathan Loaisiga are smaller cases. Several pitchers with the best recent results (Pivetta, Okert, Morejon) were helped by luck.
+- **Best value by cost per win:** Kris Bubic, Michael Soroka and Nick Pivetta stay in the top five at every replacement-level assumption I tested; Matthew Boyd, Trevor Rogers and Casey Mize are close behind.
+
+**Caveats**
+- Salaries are projected contracts (mostly Kiley McDaniel, TSN, Nov 3 2026; Robbie Ray from Jim Bowden, The Athletic). Estimated wins use simple assumptions (replacement level, plate appearances, runs per win), so the value ranking is a screen, not WAR.
+- Injuries, defense, weather and lineups are not modeled, and Sutter Health Park has only two seasons of data.
+- This was built as a learning project on public data, not as a tool teams are using.
+
 ## Approach
 
 1. **Data.** Pitch-level Statcast data for the regular seasons 2022-2026 (about 3.5 million pitches), pulled with `pybaseball`.
@@ -20,9 +38,9 @@ The goal is to give a front office a data-driven way to answer *"Will this pitch
 - [x] **01 Data pull:** 5 seasons downloaded and checked
 - [x] **02 Archetypes:** 32 archetypes, cut points saved
 - [x] **03 Park effects:** effects by batter side and batted-ball type, archetype fit scores, charts
-- [ ] **04 Fit scores:** pitcher fit scores and free-agent targets
+- [x] **04 Fit scores:** pitcher fit scores, talent calibration, buy-low and value screens
 - [x] **05 Backtest:** do park effects predict home vs. road results?
-- [ ] **06 Slides:** build and review the deck (`slides/ballpark_pitch_fit.pptx`)
+- [x] **06 Slides:** build and review the deck (`slides/ballpark_pitch_fit.pptx`)
 
 ## Key findings so far
 
@@ -73,7 +91,7 @@ In VS Code, select the `.venv` interpreter/kernel, then run the notebooks in ord
 shrink toward the league average. It pairs each pitcher-season with his next season and is scored on
 held-out seasons against "last season as-is". Notebook 04 prints the comparison and saves
 `talent_calibration.csv` and `talent_params.csv`; the fitted values feed `talent_woba`, `undervalued_pts`,
-and the buy-low slide. Contract cost is not in the data, so "cheap" still needs a salary projection.
+and the buy-low slide. Contract cost comes from projected salaries (see Value below).
 
 ## Value (cost per win)
 
