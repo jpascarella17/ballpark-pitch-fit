@@ -74,3 +74,23 @@ shrink toward the league average. It pairs each pitcher-season with his next sea
 held-out seasons against "last season as-is". Notebook 04 prints the comparison and saves
 `talent_calibration.csv` and `talent_params.csv`; the fitted values feed `talent_woba`, `undervalued_pts`,
 and the buy-low slide. Contract cost is not in the data, so "cheap" still needs a salary projection.
+
+## Value (cost per win)
+
+`free_agents_2026.csv` has a projected average annual salary (`salary_m`) from Kiley McDaniel's TSN contract
+projections (Nov 3, 2026); six pitchers had none and are left out of the value ranking. `src/value.py` turns
+park-neutral talent into rough wins above replacement and divides salary by it. Notebook 04 saves `fa_value.csv`,
+and the deck gets a "Best value" slide. The constants (replacement level, plate appearances, runs per win) are
+assumptions at the top of `src/value.py`.
+
+`value_sensitivity` in `src/value.py` re-ranks the free agents with the replacement level set 5 to 30 wOBA points
+worse than average, so the deck can say which pitchers stay cheap per win whatever that assumption is
+(`fa_value_sensitivity.csv`).
+
+## Park slides: value-first, ranked by fit
+
+Each park slide lists the starters worth signing (at least 1 estimated win) ranked by `fit_pts`, the pitcher's
+advantage at that park relative to a typical pitcher and to his own average across parks (`best_value_fits` in
+`src/value.py`, saved as `fa_value_fit_by_park.csv`). The slide always shows the top three and adds a note when
+the fit is weaker than at most parks. "Best park" in the summary tables now means best fit (parks with 3+ seasons),
+not the park that is easiest on every pitcher.

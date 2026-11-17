@@ -278,11 +278,11 @@ def _buy_low_slide(prs, summary):
     s = _new_slide(prs, "Buy-low free agents: results worse than the pitcher")
     t = summary.sort_values("undervalued_pts", ascending=False).head(10)
     rows = [["Pitcher", "Role", "Recent wOBA allowed", "Park-neutral", "Talent estimate", "Undervalued by (pts)",
-             "Contact luck (pts)", "Best park (projected)"]]
+             "Contact luck (pts)", "Best-fit park (fit pts)"]]
     for _, r in t.iterrows():
         rows.append([_first_last(r["name"]), ROLE_NAMES.get(r["role"], r["role"]), _w(r["raw_woba"]), _w(r["neutral_woba"]),
                      _w(r["talent_woba"]), f"{r['undervalued_pts']:+.0f}", f"{r['contact_luck_pts']:+.0f}",
-                     f"{r['best_park']} {_w(r['best_proj'])}"])
+                     f"{r['best_park']} ({r['best_fit_pts']:+.1f})" if "best_fit_pts" in r and pd.notna(r.get("best_fit_pts")) else str(r["best_park"])])
     _add_table(s, 0.4, 1.2, rows, [2.1, 0.7, 1.4, 1.2, 1.3, 1.5, 1.3, 3.4], font=11)
     _add_text(s, 0.5, 1.2 + 0.34 * len(rows) + 0.5, 12.3, 1.8, [
         {"text": "Undervalued by = recent wOBA allowed minus the talent estimate, in points. It removes the parks he pitched in "
@@ -292,6 +292,32 @@ def _buy_low_slide(prs, summary):
         {"text": "Contract cost is not in this data. Use it alongside a salary projection to find who is cheap relative to his talent.",
          "size": 12, "color": MUTED, "space": 4},
     ] + _calibration_lines(summary))
+
+
+def _value_slide(prs, value):
+    s = _new_slide(prs, "Best value: estimated wins per dollar")
+    t = value[value["cost_per_win_m"].notna()].sort_values("cost_per_win_m").head(10)
+    rows = [["Pitcher", "Role", "Talent estimate", "Projected contract", "Salary ($M/yr)", "Est. wins", "Cost per win ($M)", "Best-fit park"]]
+    for _, r in t.iterrows():
+        rows.append([_first_last(r["name"]), ROLE_NAMES.get(r["role"], r["role"]), _w(r["talent_woba"]), str(r["contract"]),
+                     f"{r['salary_m']:.1f}", f"{r['est_wins']:.1f}", f"{r['cost_per_win_m']:.1f}", str(r["best_park"])])
+    _add_table(s, 0.4, 1.2, rows, [2.1, 0.7, 1.3, 1.7, 1.3, 1.1, 1.5, 2.2], font=11)
+    missing = int(value["salary_m"].isna().sum())
+    sens = _read("fa_value_sensitivity.csv")
+    sens_line = []
+    if sens is not None and len(sens):
+        stable = [_first_last(n) for n in sens.loc[sens["times_in_top"] == 5, "name"]]
+        sens_line = [{"text": "Robustness: " + (", ".join(stable) + " stay in the top 5 cost per win" if stable else "no pitcher stays in the top 5")
+                              + " whether a replacement pitcher is 5 or 30 wOBA points worse than average.", "size": 12, "color": MUTED, "space": 4}]
+    _add_text(s, 0.5, 1.2 + 0.34 * len(rows) + 0.5, 12.3, 1.8, [
+        {"text": "Estimated wins = wins above a replacement pitcher from park-neutral talent over a full season "
+                 "(about 750 PA for a starter, 250 for a reliever). Cost per win = projected salary / estimated wins. "
+                 "A rough screen, not WAR.", "size": 12, "color": MUTED, "space": 4},
+    ] + sens_line + [
+        {"text": "Salaries are projected contracts (average annual value) from Kiley McDaniel, TSN, Nov 3, 2026; "
+                 + (f"{missing} pitcher{'s' if missing != 1 else ''} without a projection {'are' if missing != 1 else 'is'} left out." if missing else "all pitchers have a projection."),
+         "size": 12, "color": MUTED},
+    ])
 
 
 def _calibration_lines(summary):
@@ -336,7 +362,19 @@ def _park_slide(prs, park, ctx):
         {"text": f"Biggest effect: {BB_NAMES[big['bb_type']]} by {SIDE_NAMES[big['stand']]} batters, "
                  f"{abs(big_pts):.0f} points {'in the pitcher' + chr(39) + 's favor' if big_pts > 0 else 'against the pitcher'}.", "size": 11, "space": 8},
     ]
-    if fa_proj is not None:
+    vf = ctx.get("vf")
+    if vf is not None and (vf["park"] == park).any():
+        t = vf[vf["park"] == park]
+        items.append({"text": "Starters who fit this park best (worth signing, ranked by fit)", "size": 13, "bold": True, "color": BLUE, "space": 2})
+        for k, (_, r) in enumerate(t.iterrows(), 1):
+            cost = f"${r['salary_m']:.0f}M/yr, ${r['cost_per_win_m']:.1f}M per win" if pd.notna(r["salary_m"]) and pd.notna(r["cost_per_win_m"]) else "salary n/a"
+            items.append({"text": f"{k}. {_first_last(r['name'])}: fit {r['fit_pts']:+.1f} pts, {_w(r['proj_woba'])} projected, {r['est_wins']:.1f} est. wins, {cost}",
+                          "size": 11, "space": 1})
+        if bool(t["weak_fit"].iloc[0]):
+            items.append({"text": "Weaker fit than at most parks: value is the main reason to pick these pitchers here, not the park.",
+                          "size": 10, "color": MUTED, "space": 2})
+        items[-1]["space"] = 8
+    elif fa_proj is not None:
         t = fa_proj[fa_proj["park"] == park].sort_values("proj_woba").head(3)
         if len(t):
             items.append({"text": "Free agents with the lowest projected wOBA allowed here", "size": 13, "bold": True, "color": BLUE, "space": 2})
@@ -344,7 +382,7 @@ def _park_slide(prs, park, ctx):
                 items.append({"text": f"{k}. {_first_last(r['name'])} ({ROLE_NAMES.get(r['role'], r['role'])}): {_w(r['proj_woba'])} projected, {_w(r['talent_woba'])} talent",
                               "size": 11, "space": 1})
             items[-1]["space"] = 8
-    if fa_low is not None:
+    if fa_low is not None and not (vf is not None and (vf["park"] == park).any()):
         t = fa_low[fa_low["park"] == park].sort_values("gain_pts", ascending=False).head(3)
         if len(t):
             items.append({"text": "Buy-low free agents here (recent results vs. projection)", "size": 13, "bold": True, "color": BLUE, "space": 2})
@@ -389,6 +427,8 @@ def build_deck(author: str = "", out_path=None):
     fa_proj = _read("fa_targets_by_park.csv")
     fa_low = _read("fa_buy_low_by_park.csv")
     summary = _read("fa_buy_low_summary.csv")
+    value = _read("fa_value.csv")
+    vf = _read("fa_value_fit_by_park.csv")
     stability = _read("stability_results.csv")
     backtest = _read("backtest_results.csv")
 
@@ -411,8 +451,10 @@ def build_deck(author: str = "", out_path=None):
     _heatmap_slide(prs, effects, overall, fig_dir)
     if summary is not None:
         _buy_low_slide(prs, summary)
+    if value is not None and value["cost_per_win_m"].notna().any():
+        _value_slide(prs, value)
     ctx = {"effects": effects, "arch": arch, "overall": overall, "fa_proj": fa_proj,
-           "fa_low": fa_low, "seasons": seasons, "fig_dir": fig_dir}
+           "fa_low": fa_low, "seasons": seasons, "fig_dir": fig_dir, "vf": vf}
     for park in parks:
         _park_slide(prs, park, ctx)
     gain_known = backtest is not None and bool(backtest.iloc[0]["r2_gain_lo"] > 0)

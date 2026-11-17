@@ -1,0 +1,91 @@
+park,park_seasons,name,role,fit_pts,proj_woba,talent_woba,est_wins,salary_m,contract,cost_per_win_m,top_fit_avg,weak_fit
+American Family Field,5,"Holmes, Clay",S,1.6,0.318,0.317,1.12,17.5,"2 yr, $35M",15.6,0.7,True
+American Family Field,5,"Gray, Sonny",S,0.4,0.311,0.31,1.57,21.0,"2 yr, $42M",13.4,0.7,True
+American Family Field,5,"Bubic, Kris",S,0.2,0.304,0.303,2.0,9.0,"2 yr, $18M",4.5,0.7,True
+Angel Stadium,5,"Pivetta, Nick",S,0.6,0.308,0.307,1.7,15.0,"3 yr, $45M",8.8,0.5,True
+Angel Stadium,5,"Ray, Robbie",S,0.4,0.318,0.317,1.08,,,,0.5,True
+Angel Stadium,5,"Gausman, Kevin",S,0.4,0.309,0.309,1.63,17.0,"3 yr, $51M",10.4,0.5,True
+Busch Stadium,5,"Pivetta, Nick",S,3.1,0.295,0.307,1.7,15.0,"3 yr, $45M",8.8,2.7,False
+Busch Stadium,5,"Mahle, Tyler",S,2.6,0.299,0.312,1.43,16.5,"3 yr, $49.5M",11.5,2.7,False
+Busch Stadium,5,"Peralta, Freddy",S,2.3,0.293,0.305,1.88,24.0,"4 yr, $96M",12.7,2.7,False
+Chase Field,5,"Pivetta, Nick",S,1.7,0.306,0.307,1.7,15.0,"3 yr, $45M",8.8,1.5,True
+Chase Field,5,"Imanaga, Shota",S,1.6,0.308,0.31,1.56,20.0,"2 yr, $40M",12.8,1.5,True
+Chase Field,5,"Mahle, Tyler",S,1.4,0.31,0.312,1.43,16.5,"3 yr, $49.5M",11.5,1.5,True
+Citi Field,5,"Imanaga, Shota",S,4.3,0.3,0.31,1.56,20.0,"2 yr, $40M",12.8,3.8,False
+Citi Field,5,"Ray, Robbie",S,4.0,0.309,0.317,1.08,,,,3.8,False
+Citi Field,5,"Rogers, Trevor",S,3.1,0.291,0.3,2.16,19.0,"4 yr, $76M",8.8,3.8,False
+Citizens Bank Park,5,"Holmes, Clay",S,3.9,0.324,0.317,1.12,17.5,"2 yr, $35M",15.6,2.1,False
+Citizens Bank Park,5,"Gray, Sonny",S,1.3,0.319,0.31,1.57,21.0,"2 yr, $42M",13.4,2.1,False
+Citizens Bank Park,5,"Bubic, Kris",S,1.2,0.312,0.303,2.0,9.0,"2 yr, $18M",4.5,2.1,False
+Comerica Park,5,"Imanaga, Shota",S,2.5,0.305,0.31,1.56,20.0,"2 yr, $40M",12.8,1.9,False
+Comerica Park,5,"Ray, Robbie",S,1.8,0.313,0.317,1.08,,,,1.9,False
+Comerica Park,5,"Pivetta, Nick",S,1.5,0.304,0.307,1.7,15.0,"3 yr, $45M",8.8,1.9,False
+Coors Field,5,"Holmes, Clay",S,8.0,0.333,0.317,1.12,17.5,"2 yr, $35M",15.6,3.7,False
+Coors Field,5,"Gray, Sonny",S,1.9,0.329,0.31,1.57,21.0,"2 yr, $42M",13.4,3.7,False
+Coors Field,5,"Bubic, Kris",S,1.1,0.322,0.303,2.0,9.0,"2 yr, $18M",4.5,3.7,False
+Daikin Park,5,"Holmes, Clay",S,3.8,0.318,0.317,1.12,17.5,"2 yr, $35M",15.6,2.3,False
+Daikin Park,5,"Gray, Sonny",S,2.0,0.312,0.31,1.57,21.0,"2 yr, $42M",13.4,2.3,False
+Daikin Park,5,"Soroka, Michael",S,1.2,0.312,0.309,1.6,12.0,"2 yr, $24M",7.5,2.3,False
+Dodger Stadium,5,"Holmes, Clay",S,5.4,0.314,0.317,1.12,17.5,"2 yr, $35M",15.6,3.2,False
+Dodger Stadium,5,"Gray, Sonny",S,2.1,0.309,0.31,1.57,21.0,"2 yr, $42M",13.4,3.2,False
+Dodger Stadium,5,"Soroka, Michael",S,2.0,0.309,0.309,1.6,12.0,"2 yr, $24M",7.5,3.2,False
+Fenway Park,5,"Holmes, Clay",S,5.1,0.324,0.317,1.12,17.5,"2 yr, $35M",15.6,2.7,False
+Fenway Park,5,"Gray, Sonny",S,2.4,0.318,0.31,1.57,21.0,"2 yr, $42M",13.4,2.7,False
+Fenway Park,5,"Soroka, Michael",S,0.5,0.319,0.309,1.6,12.0,"2 yr, $24M",7.5,2.7,False
+Globe Life Field,5,"Soroka, Michael",S,2.0,0.304,0.309,1.6,12.0,"2 yr, $24M",7.5,1.7,False
+Globe Life Field,5,"Peralta, Freddy",S,1.7,0.299,0.305,1.88,24.0,"4 yr, $96M",12.7,1.7,False
+Globe Life Field,5,"Mize, Casey",S,1.4,0.303,0.308,1.64,15.0,"1 yr, $15M",9.1,1.7,False
+Great American Ball Park,5,"Bubic, Kris",S,3.4,0.312,0.303,2.0,9.0,"2 yr, $18M",4.5,3.2,False
+Great American Ball Park,5,"Rogers, Trevor",S,3.2,0.311,0.3,2.16,19.0,"4 yr, $76M",8.8,3.2,False
+Great American Ball Park,5,"Skubal, Tarik",S,3.1,0.287,0.277,3.59,44.0,"8 yr, $352M",12.2,3.2,False
+Kauffman Stadium,5,"Imanaga, Shota",S,4.7,0.3,0.31,1.56,20.0,"2 yr, $40M",12.8,3.6,False
+Kauffman Stadium,5,"Ray, Robbie",S,3.6,0.309,0.317,1.08,,,,3.6,False
+Kauffman Stadium,5,"Pivetta, Nick",S,2.5,0.3,0.307,1.7,15.0,"3 yr, $45M",8.8,3.6,False
+Nationals Park,5,"Mahle, Tyler",S,1.0,0.31,0.312,1.43,16.5,"3 yr, $49.5M",11.5,1.0,True
+Nationals Park,5,"Peralta, Freddy",S,1.0,0.302,0.305,1.88,24.0,"4 yr, $96M",12.7,1.0,True
+Nationals Park,5,"Pivetta, Nick",S,1.0,0.305,0.307,1.7,15.0,"3 yr, $45M",8.8,1.0,True
+Oracle Park,5,"Holmes, Clay",S,2.5,0.313,0.317,1.12,17.5,"2 yr, $35M",15.6,1.3,True
+Oracle Park,5,"Gray, Sonny",S,0.9,0.307,0.31,1.57,21.0,"2 yr, $42M",13.4,1.3,True
+Oracle Park,5,"Soroka, Michael",S,0.6,0.307,0.309,1.6,12.0,"2 yr, $24M",7.5,1.3,True
+Oriole Park at Camden Yards,5,"Ray, Robbie",S,5.5,0.31,0.317,1.08,,,,5.3,False
+Oriole Park at Camden Yards,5,"Imanaga, Shota",S,5.4,0.302,0.31,1.56,20.0,"2 yr, $40M",12.8,5.3,False
+Oriole Park at Camden Yards,5,"Boyd, Matthew",S,5.1,0.306,0.314,1.29,10.0,"1 yr, $10M",7.8,5.3,False
+PNC Park,5,"Imanaga, Shota",S,3.7,0.302,0.31,1.56,20.0,"2 yr, $40M",12.8,3.3,False
+PNC Park,5,"Ray, Robbie",S,3.3,0.31,0.317,1.08,,,,3.3,False
+PNC Park,5,"Boyd, Matthew",S,2.9,0.307,0.314,1.29,10.0,"1 yr, $10M",7.8,3.3,False
+Petco Park,5,"Pivetta, Nick",S,1.9,0.297,0.307,1.7,15.0,"3 yr, $45M",8.8,1.6,True
+Petco Park,5,"Peralta, Freddy",S,1.5,0.295,0.305,1.88,24.0,"4 yr, $96M",12.7,1.6,True
+Petco Park,5,"Mahle, Tyler",S,1.4,0.301,0.312,1.43,16.5,"3 yr, $49.5M",11.5,1.6,True
+Progressive Field,5,"Boyd, Matthew",S,1.8,0.31,0.314,1.29,10.0,"1 yr, $10M",7.8,1.6,True
+Progressive Field,5,"Rogers, Trevor",S,1.6,0.296,0.3,2.16,19.0,"4 yr, $76M",8.8,1.6,True
+Progressive Field,5,"Skubal, Tarik",S,1.4,0.274,0.277,3.59,44.0,"8 yr, $352M",12.2,1.6,True
+Rate Field,5,"Imanaga, Shota",S,3.7,0.305,0.31,1.56,20.0,"2 yr, $40M",12.8,2.9,False
+Rate Field,5,"Ray, Robbie",S,3.0,0.314,0.317,1.08,,,,2.9,False
+Rate Field,5,"Boyd, Matthew",S,2.2,0.31,0.314,1.29,10.0,"1 yr, $10M",7.8,2.9,False
+Rogers Centre,5,"Holmes, Clay",S,1.1,0.316,0.317,1.12,17.5,"2 yr, $35M",15.6,1.0,True
+Rogers Centre,5,"Rogers, Trevor",S,1.1,0.299,0.3,2.16,19.0,"4 yr, $76M",8.8,1.0,True
+Rogers Centre,5,"Boyd, Matthew",S,0.9,0.314,0.314,1.29,10.0,"1 yr, $10M",7.8,1.0,True
+Sutter Health Park,2,"Holmes, Clay",S,9.0,0.335,0.317,1.12,17.5,"2 yr, $35M",15.6,4.6,False
+Sutter Health Park,2,"Gray, Sonny",S,3.5,0.331,0.31,1.57,21.0,"2 yr, $42M",13.4,4.6,False
+Sutter Health Park,2,"Soroka, Michael",S,1.2,0.331,0.309,1.6,12.0,"2 yr, $24M",7.5,4.6,False
+T-Mobile Park,5,"Imanaga, Shota",S,1.4,0.3,0.31,1.56,20.0,"2 yr, $40M",12.8,1.2,True
+T-Mobile Park,5,"Ray, Robbie",S,1.1,0.309,0.317,1.08,,,,1.2,True
+T-Mobile Park,5,"Pivetta, Nick",S,1.0,0.299,0.307,1.7,15.0,"3 yr, $45M",8.8,1.2,True
+Target Field,5,"Soroka, Michael",S,1.6,0.31,0.309,1.6,12.0,"2 yr, $24M",7.5,1.4,True
+Target Field,5,"Peralta, Freddy",S,1.4,0.305,0.305,1.88,24.0,"4 yr, $96M",12.7,1.4,True
+Target Field,5,"Pivetta, Nick",S,1.2,0.308,0.307,1.7,15.0,"3 yr, $45M",8.8,1.4,True
+Tropicana Field,4,"Peralta, Freddy",S,1.6,0.306,0.305,1.88,24.0,"4 yr, $96M",12.7,1.4,True
+Tropicana Field,4,"Mize, Casey",S,1.4,0.31,0.308,1.64,15.0,"1 yr, $15M",9.1,1.4,True
+Tropicana Field,4,"Soroka, Michael",S,1.3,0.311,0.309,1.6,12.0,"2 yr, $24M",7.5,1.4,True
+Truist Park,5,"Rogers, Trevor",S,2.2,0.297,0.3,2.16,19.0,"4 yr, $76M",8.8,2.1,False
+Truist Park,5,"Boyd, Matthew",S,2.1,0.311,0.314,1.29,10.0,"1 yr, $10M",7.8,2.1,False
+Truist Park,5,"Skubal, Tarik",S,2.1,0.274,0.277,3.59,44.0,"8 yr, $352M",12.2,2.1,False
+Wrigley Field,5,"Bubic, Kris",S,3.6,0.298,0.303,2.0,9.0,"2 yr, $18M",4.5,3.3,False
+Wrigley Field,5,"Holmes, Clay",S,3.4,0.312,0.317,1.12,17.5,"2 yr, $35M",15.6,3.3,False
+Wrigley Field,5,"Skubal, Tarik",S,3.1,0.273,0.277,3.59,44.0,"8 yr, $352M",12.2,3.3,False
+Yankee Stadium,5,"Skubal, Tarik",S,2.9,0.269,0.277,3.59,44.0,"8 yr, $352M",12.2,2.7,False
+Yankee Stadium,5,"Rogers, Trevor",S,2.7,0.291,0.3,2.16,19.0,"4 yr, $76M",8.8,2.7,False
+Yankee Stadium,5,"Holmes, Clay",S,2.5,0.308,0.317,1.12,17.5,"2 yr, $35M",15.6,2.7,False
+loanDepot park,5,"Imanaga, Shota",S,5.5,0.304,0.31,1.56,20.0,"2 yr, $40M",12.8,4.4,False
+loanDepot park,5,"Ray, Robbie",S,4.4,0.313,0.317,1.08,,,,4.4,False
+loanDepot park,5,"Boyd, Matthew",S,3.2,0.31,0.314,1.29,10.0,"1 yr, $10M",7.8,4.4,False

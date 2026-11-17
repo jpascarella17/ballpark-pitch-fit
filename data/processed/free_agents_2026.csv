@@ -1,31 +1,31 @@
-name,role,team_2026,notes
-"Skubal, Tarik",S,Dodgers,
-"Rogers, Trevor",S,Orioles,
-"Peralta, Freddy",S,Rays,
-"King, Michael",S,Padres,
-"Gray, Sonny",S,Red Sox,
-"Mahle, Tyler",S,Braves,
-"Gausman, Kevin",S,Cubs,
-"Martinez, Nick",S,Rays,
-"Holmes, Clay",S,Cubs,
-"Imanaga, Shota",S,Cubs,
-"Griffin, Foster",S,Guardians,
-"May, Dustin",S,Brewers,
-"Mize, Casey",S,Padres,
-"Soroka, Michael",S,D-backs,
-"Pivetta, Nick",S,Padres,
-"Peterson, David",S,Cubs,
-"Boyd, Matthew",S,Cubs,
-"Bubic, Kris",S,Dodgers,
-"Ray, Robbie",S,Padres,
-"Morejón, Adrian",R,Padres,
-"Bednar, David",R,Yankees,
-"Vesia, Alex",R,Dodgers,
-"Phillips, Evan",R,Dodgers,
-"Abreu, Bryan",R,Astros,
-"Pagán, Emilio",R,Reds,
-"Iglesias, Raisel",R,Braves,
-"Blackburn, Paul",R,Yankees,
-"Okert, Steven",R,Astros,
-"Loáisiga, Jonathan",R,D-backs,
-"Romero, JoJo",R,Brewers,
+name,role,team_2026,notes,salary_m,contract,salary_source
+"Skubal, Tarik",S,Dodgers,,44,"8 yr, $352M","Kiley McDaniel, TSN, Nov 3 2026"
+"Rogers, Trevor",S,Orioles,,19,"4 yr, $76M","Kiley McDaniel, TSN, Nov 3 2026"
+"Peralta, Freddy",S,Rays,,24,"4 yr, $96M","Kiley McDaniel, TSN, Nov 3 2026"
+"King, Michael",S,Padres,,26.5,"3 yr, $79.5M","Kiley McDaniel, TSN, Nov 3 2026"
+"Gray, Sonny",S,Red Sox,,21,"2 yr, $42M","Kiley McDaniel, TSN, Nov 3 2026"
+"Mahle, Tyler",S,Braves,,16.5,"3 yr, $49.5M","Kiley McDaniel, TSN, Nov 3 2026"
+"Gausman, Kevin",S,Cubs,,17,"3 yr, $51M","Kiley McDaniel, TSN, Nov 3 2026"
+"Martinez, Nick",S,Rays,,17.5,"1 yr, $17.5M","Kiley McDaniel, TSN, Nov 3 2026"
+"Holmes, Clay",S,Cubs,,17.5,"2 yr, $35M","Kiley McDaniel, TSN, Nov 3 2026"
+"Imanaga, Shota",S,Cubs,,20,"2 yr, $40M","Kiley McDaniel, TSN, Nov 3 2026"
+"Griffin, Foster",S,Guardians,,15,"2 yr, $30M","Kiley McDaniel, TSN, Nov 3 2026"
+"May, Dustin",S,Brewers,,14,"1 yr, $14M","Kiley McDaniel, TSN, Nov 3 2026"
+"Mize, Casey",S,Padres,,15,"1 yr, $15M","Kiley McDaniel, TSN, Nov 3 2026"
+"Soroka, Michael",S,D-backs,,12,"2 yr, $24M","Kiley McDaniel, TSN, Nov 3 2026"
+"Pivetta, Nick",S,Padres,,15,"3 yr, $45M","Kiley McDaniel, TSN, Nov 3 2026"
+"Peterson, David",S,Cubs,,11,"1 yr, $11M","Kiley McDaniel, TSN, Nov 3 2026"
+"Boyd, Matthew",S,Cubs,,10,"1 yr, $10M","Kiley McDaniel, TSN, Nov 3 2026"
+"Bubic, Kris",S,Dodgers,,9,"2 yr, $18M","Kiley McDaniel, TSN, Nov 3 2026"
+"Ray, Robbie",S,Padres,,,,
+"Morejón, Adrian",R,Padres,,22,"4 yr, $88M","Kiley McDaniel, TSN, Nov 3 2026"
+"Bednar, David",R,Yankees,,20,"3 yr, $60M","Kiley McDaniel, TSN, Nov 3 2026"
+"Vesia, Alex",R,Dodgers,,12.5,"2 yr, $25M","Kiley McDaniel, TSN, Nov 3 2026"
+"Phillips, Evan",R,Dodgers,,,,
+"Abreu, Bryan",R,Astros,,10.5,"1 yr, $10.5M","Kiley McDaniel, TSN, Nov 3 2026"
+"Pagán, Emilio",R,Reds,,,,
+"Iglesias, Raisel",R,Braves,,14,"1 yr, $14M","Kiley McDaniel, TSN, Nov 3 2026"
+"Blackburn, Paul",R,Yankees,,,,
+"Okert, Steven",R,Astros,,,,
+"Loáisiga, Jonathan",R,D-backs,,11,"2 yr, $22M","Kiley McDaniel, TSN, Nov 3 2026"
+"Romero, JoJo",R,Brewers,,,,

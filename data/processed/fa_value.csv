@@ -1,0 +1,31 @@
+name,role,talent_woba,undervalued_pts,salary_m,contract,est_wins,cost_per_win_m,best_park
+"Bubic, Kris",S,0.303,-13.9,9.0,"2 yr, $18M",2.0,4.5,Wrigley Field
+"Soroka, Michael",S,0.309,-13.2,12.0,"2 yr, $24M",1.6,7.5,Globe Life Field
+"Boyd, Matthew",S,0.314,-14.3,10.0,"1 yr, $10M",1.29,7.8,Oriole Park at Camden Yards
+"Rogers, Trevor",S,0.3,-15.3,19.0,"4 yr, $76M",2.16,8.8,Oriole Park at Camden Yards
+"Pivetta, Nick",S,0.307,-44.3,15.0,"3 yr, $45M",1.7,8.8,Busch Stadium
+"Mize, Casey",S,0.308,21.1,15.0,"1 yr, $15M",1.64,9.1,Busch Stadium
+"Gausman, Kevin",S,0.309,-7.9,17.0,"3 yr, $51M",1.63,10.4,Busch Stadium
+"Mahle, Tyler",S,0.312,-13.6,16.5,"3 yr, $49.5M",1.43,11.5,Busch Stadium
+"Martinez, Nick",S,0.312,-3.0,17.5,"1 yr, $17.5M",1.44,12.1,Busch Stadium
+"Skubal, Tarik",S,0.277,-18.1,44.0,"8 yr, $352M",3.59,12.2,Oriole Park at Camden Yards
+"Peralta, Freddy",S,0.305,0.4,24.0,"4 yr, $96M",1.88,12.7,Busch Stadium
+"Imanaga, Shota",S,0.31,-6.7,20.0,"2 yr, $40M",1.56,12.8,loanDepot park
+"Gray, Sonny",S,0.31,2.2,21.0,"2 yr, $42M",1.57,13.4,Fenway Park
+"Vesia, Alex",R,0.292,-35.7,12.5,"2 yr, $25M",0.88,14.2,Kauffman Stadium
+"Holmes, Clay",S,0.317,-14.7,17.5,"2 yr, $35M",1.12,15.6,Coors Field
+"Griffin, Foster",S,0.32,2.5,15.0,"2 yr, $30M",0.92,16.2,Wrigley Field
+"Loáisiga, Jonathan",R,0.303,4.2,11.0,"2 yr, $22M",0.65,16.9,Coors Field
+"Morejón, Adrian",R,0.279,-33.4,22.0,"4 yr, $88M",1.17,18.8,Coors Field
+"Iglesias, Raisel",R,0.3,-24.0,14.0,"1 yr, $14M",0.73,19.2,Busch Stadium
+"Abreu, Bryan",R,0.309,-11.0,10.5,"1 yr, $10.5M",0.54,19.6,Fenway Park
+"Bednar, David",R,0.292,-32.3,20.0,"3 yr, $60M",0.89,22.4,Dodger Stadium
+"Peterson, David",S,0.329,2.3,11.0,"1 yr, $11M",0.35,31.6,Wrigley Field
+"King, Michael",S,0.322,-19.0,26.5,"3 yr, $79.5M",0.82,32.1,Dodger Stadium
+"May, Dustin",S,0.332,6.9,14.0,"1 yr, $14M",0.19,71.9,Dodger Stadium
+"Ray, Robbie",S,0.317,-3.1,,,1.08,,Oriole Park at Camden Yards
+"Blackburn, Paul",R,0.31,-4.8,,,0.51,,Coors Field
+"Romero, JoJo",R,0.313,-17.3,,,0.44,,Wrigley Field
+"Pagán, Emilio",R,0.298,-28.9,,,0.77,,Busch Stadium
+"Phillips, Evan",R,0.317,-35.7,,,0.37,,Globe Life Field
+"Okert, Steven",R,0.29,-43.8,,,0.93,,loanDepot park
